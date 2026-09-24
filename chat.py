@@ -55,6 +55,31 @@ def prompt_ids(tokenizer, history, user_text, block_size):
     return ids
 
 
+def without_repeats(ids):
+    """Drop a phrase the model just said again.
+
+    A short chunk copied immediately is a loop, not a new fact.
+    Three identical tokens in a row are a loop too.
+    """
+    ids = list(ids)
+    while ids:
+        count = len(ids)
+        cut = 0
+        if count >= 3 and ids[-1] == ids[-2] == ids[-3]:
+            cut = 1
+        else:
+            for size in range(2, 9):
+                if count < size * 2:
+                    break
+                if ids[-size:] == ids[-2 * size : -size]:
+                    cut = size
+                    break
+        if not cut:
+            return ids
+        ids = ids[:-cut]
+    return ids
+
+
 def first_sentence(text):
     """Keep text through the first period, question mark, or exclamation mark."""
     for index, char in enumerate(text):
@@ -76,11 +101,13 @@ def answer(model, tokenizer, history, user_text, device):
     )
     new_ids = generated[0, len(ids) :].tolist()
     if end_id in new_ids:
-        text = tokenizer.decode(new_ids[: new_ids.index(end_id)])
+        new_ids = new_ids[: new_ids.index(end_id)]
     elif user_id in new_ids:
-        text = tokenizer.decode(new_ids[: new_ids.index(user_id)])
+        new_ids = new_ids[: new_ids.index(user_id)]
     else:
-        text = first_sentence(tokenizer.decode(new_ids))
+        text = first_sentence(tokenizer.decode(without_repeats(new_ids)))
+        return text or FALLBACK
+    text = tokenizer.decode(without_repeats(new_ids))
     return text or FALLBACK
 
 

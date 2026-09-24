@@ -126,19 +126,37 @@ def drill_texts(dialogues, business):
 
 
 def build_drills(tokenizer, texts):
-    """Repeat each short example until it fills one training window."""
-    rows = []
-    width = BLOCK_SIZE + 1
+    """Pack different replies into each window.
+
+    The same short answer is not copied across the window. That copy
+    taught the model to repeat a phrase.
+    """
+    encoded = []
     for text in texts:
         ids = tokenizer.encode(text)
-        if len(ids) < 2:
-            continue
-        seq = []
-        while len(seq) < width:
-            seq.extend(ids)
-        rows.append(seq[:width])
-    if not rows:
+        if len(ids) >= 2:
+            encoded.append(ids)
+    if not encoded:
         return None
+    rows = []
+    width = BLOCK_SIZE + 1
+    count = len(encoded)
+    for start in range(count):
+        seq = []
+        step = 0
+        while len(seq) < width and step < count:
+            nxt = encoded[(start + step) % count]
+            step += 1
+            if seq and nxt == seq[-len(nxt) :]:
+                continue
+            seq.extend(nxt)
+        if len(seq) < 2:
+            continue
+        if len(seq) < width:
+            mixed = list(seq)
+            while len(seq) < width:
+                seq.extend(mixed)
+        rows.append(seq[:width])
     return torch.tensor(rows, dtype=torch.long)
 
 

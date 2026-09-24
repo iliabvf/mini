@@ -13,7 +13,7 @@ from pathlib import Path
 import torch
 import torch.nn.functional as F
 
-from chat import FALLBACK, MAX_NEW_TOKENS, first_sentence, load_checkpoint, prompt_ids
+from chat import FALLBACK, MAX_NEW_TOKENS, first_sentence, load_checkpoint, prompt_ids, without_repeats
 
 ROOT = Path(__file__).resolve().parent
 WEB = ROOT / "web"
@@ -153,6 +153,14 @@ def think(user_text, history):
         if next_id == end_id:
             continue
         reply_ids.append(next_id)
+        cleaned = without_repeats(reply_ids)
+        if cleaned != reply_ids:
+            reply_ids = cleaned
+            step["reply"] = tokenizer.decode(reply_ids)
+            step["stop"] = True
+            attach_stats(step, len(ids), len(reply_ids), len(context_ids))
+            yield step
+            break
         step["reply"] = tokenizer.decode(reply_ids)
         attach_stats(step, len(ids), len(reply_ids), len(context_ids))
         yield step

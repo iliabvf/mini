@@ -263,13 +263,42 @@ function stats(promptLength, generated, windowLength) {
   };
 }
 
+function withoutRepeats(ids) {
+  const out = ids.slice();
+  while (out.length) {
+    const count = out.length;
+    let cut = 0;
+    if (count >= 3 && out[count - 1] === out[count - 2] && out[count - 2] === out[count - 3]) {
+      cut = 1;
+    } else {
+      for (let size = 2; size <= 8; size++) {
+        if (count < size * 2) break;
+        let same = true;
+        for (let index = 0; index < size; index++) {
+          if (out[count - size + index] !== out[count - 2 * size + index]) {
+            same = false;
+            break;
+          }
+        }
+        if (same) {
+          cut = size;
+          break;
+        }
+      }
+    }
+    if (!cut) break;
+    out.splice(out.length - cut, cut);
+  }
+  return out;
+}
+
 function* think(userText, history) {
   const story = isStory(userText);
   const ids = promptIds(history, userText);
   const promptLength = ids.length;
   const endId = tokenToId.get("<end>");
   const userId = tokenToId.get("<user>");
-  const replyIds = [];
+  let replyIds = [];
   let sentenceEnds = 0;
   let hitLimit = true;
   const limit = story ? STORY_TOKENS : MAX_NEW_TOKENS;
@@ -295,6 +324,16 @@ function* think(userText, history) {
       break;
     }
     replyIds.push(choice.nextId);
+    const cleaned = withoutRepeats(replyIds);
+    if (cleaned.length !== replyIds.length) {
+      replyIds = cleaned;
+      step.reply = decode(replyIds);
+      step.stop = true;
+      step.stats = stats(promptLength, replyIds.length, windowIds.length);
+      yield step;
+      hitLimit = false;
+      break;
+    }
     ids.push(choice.nextId);
     step.reply = decode(replyIds);
     step.stats = stats(promptLength, replyIds.length, windowIds.length);
