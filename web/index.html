@@ -551,6 +551,12 @@
       const miniBubble = addBubble("mini", "…");
       const star = addStar(message, miniBubble);
       statusEl.textContent = "Reading your line.";
+      if (location.hostname.endsWith("github.io")) {
+        miniBubble.textContent = "This page cannot run the model. On your computer, run python serve.py and open http://127.0.0.1:8765.";
+        statusEl.textContent = "GitHub Pages shows the interface. The model stays local.";
+        setBusy(false);
+        return;
+      }
       try {
         const response = await fetch("/api/chat", {
           method: "POST",
@@ -817,14 +823,25 @@
     }
 
     async function loadModelGraph() {
-      try {
-        const response = await fetch("/api/model");
-        if (!response.ok) return;
-        modelProfile = await response.json();
-        drawModelGraph();
-        showVocabulary(modelProfile.words || []);
-      } catch (error) {
-        statusEl.textContent = "The model graph could not load. Chat still works.";
+      const urls = ["/api/model", new URL("model.json", document.baseURI).href];
+      for (const url of urls) {
+        try {
+          const response = await fetch(url);
+          if (!response.ok) continue;
+          modelProfile = await response.json();
+          break;
+        } catch (error) {
+          continue;
+        }
+      }
+      if (!modelProfile) {
+        statusEl.textContent = "The model graph could not load.";
+        return;
+      }
+      drawModelGraph();
+      showVocabulary(modelProfile.words || []);
+      if (location.hostname.endsWith("github.io")) {
+        statusEl.textContent = "Interface only. Run python serve.py for the live chat.";
       }
     }
 
