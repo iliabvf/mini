@@ -80,13 +80,19 @@ CONVERSATIONS = [
         ("please send a quote for this order", "i will send a quote with the price and the terms today."),
         ("that price is high", "we can offer a small discount if you order today."),
         ("we can order more", "a larger order can take a larger discount."),
-        ("let us agree", "yes. the terms are the lower price, payment on friday, and delivery on monday."),
+        ("let us agree", "we agree on the lower price, with payment on friday and delivery on monday."),
     ],
     [
         ("let us meet on monday", "yes. we can meet on monday at ten."),
         ("what should we discuss", "we should discuss the budget, the deadline, and the client proposal."),
         ("monday is not possible", "we can move the meeting to thursday at ten."),
         ("please confirm that", "confirmed. the meeting is on thursday at ten."),
+    ],
+    [
+        ("a customer wrote about a broken item", "i will read the complaint and check the order."),
+        ("what is wrong with the item", "the item arrived broken."),
+        ("should the customer get a refund", "we should refund the customer for the broken item."),
+        ("please send that refund", "i will send the refund to the customer today."),
     ],
 ]
 
@@ -105,8 +111,12 @@ def drill_texts(dialogues, business):
             seen.add(text)
             texts.append(text)
 
+    focus = {"what is a meeting", "what is a resignation", "let us agree"}
     for user, bot in parse_pairs(dialogues) + parse_pairs(business):
-        add(f"<user> {user} <bot> {bot} <end>")
+        text = f"<user> {user} <bot> {bot} <end>"
+        add(text)
+        if user in focus:
+            texts.extend([text] * 11)
     for convo in CONVERSATIONS:
         parts = []
         for user, bot in convo:

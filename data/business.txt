@@ -143,7 +143,7 @@
 <end>
 
 <user> what is a meeting
-<bot> meeting means a time when people talk about work together.
+<bot> meeting means coworkers gathered to talk about one piece of work.
 <end>
 
 <user> what is an agenda
@@ -443,7 +443,7 @@
 <end>
 
 <user> what is a resignation
-<bot> resignation means when an employee chooses to leave a job.
+<bot> resignation means an employee leaving a job by choice.
 <end>
 
 <user> what is notice
@@ -1051,7 +1051,7 @@
 <end>
 
 <user> let us agree
-<bot> yes. the terms are the lower price, payment on friday, and delivery on monday.
+<bot> we agree on the lower price, with payment on friday and delivery on monday.
 <end>
 
 <user> let us meet on monday
@@ -1068,4 +1068,20 @@
 
 <user> please confirm that
 <bot> confirmed. the meeting is on thursday at ten.
+<end>
+
+<user> a customer wrote about a broken item
+<bot> i will read the complaint and check the order.
+<end>
+
+<user> what is wrong with the item
+<bot> the item arrived broken.
+<end>
+
+<user> should the customer get a refund
+<bot> we should refund the customer for the broken item.
+<end>
+
+<user> please send that refund
+<bot> i will send the refund to the customer today.
 <end>
