@@ -15,6 +15,8 @@ ROOT = Path(__file__).resolve().parent
 DATA_DIR = ROOT / "data"
 DIALOGUES_PATH = DATA_DIR / "dialogues.txt"
 STORIES_PATH = DATA_DIR / "stories.txt"
+BUSINESS_PATH = DATA_DIR / "business.txt"
+BUSINESS_REPEATS = 20
 CKPT_PATH = ROOT / "checkpoints" / "model.pt"
 
 BLOCK_SIZE = 512
@@ -24,16 +26,22 @@ N_EMBD = 192
 DROPOUT = 0.0
 BATCH_SIZE = 4
 LEARNING_RATE = 3e-4
-STEPS = 2000
+STEPS = 4000
 
 
 def read_corpus():
-    """Dialogues teach replies. Stories teach the model to continue a sentence."""
+    """Dialogues teach replies. Stories teach the model to continue a sentence.
+
+    The business file is repeated so office words are learned along with
+    the shorter chats already in the dialogue file.
+    """
     parts = []
-    for path in (DIALOGUES_PATH, STORIES_PATH):
+    for path in (DIALOGUES_PATH, STORIES_PATH, BUSINESS_PATH):
         if not path.is_file():
             raise SystemExit(f"missing training file: {path}")
         parts.append(path.read_text(encoding="utf-8"))
+    business = parts.pop()
+    parts.append("\n".join([business] * BUSINESS_REPEATS))
     return "\n".join(parts)
 
 
