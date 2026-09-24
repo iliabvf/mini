@@ -35,10 +35,10 @@ def token_label(token_id):
 
 
 def clean_history(raw):
-    """Keep the last two finished turns sent by the page."""
+    """Keep the last four finished turns sent by the page."""
     turns = []
     if isinstance(raw, list):
-        for item in raw[-2:]:
+        for item in raw[-4:]:
             if not isinstance(item, dict):
                 continue
             user = str(item.get("user", "")).strip()

@@ -16,7 +16,8 @@ DATA_DIR = ROOT / "data"
 DIALOGUES_PATH = DATA_DIR / "dialogues.txt"
 STORIES_PATH = DATA_DIR / "stories.txt"
 BUSINESS_PATH = DATA_DIR / "business.txt"
-BUSINESS_REPEATS = 20
+BUSINESS_REPEATS = 4
+DRILL_FRACTION = 0.8
 CKPT_PATH = ROOT / "checkpoints" / "model.pt"
 
 BLOCK_SIZE = 512
@@ -26,7 +27,7 @@ N_EMBD = 192
 DROPOUT = 0.0
 BATCH_SIZE = 4
 LEARNING_RATE = 3e-4
-STEPS = 4000
+STEPS = 6000
 
 
 def read_corpus():
@@ -56,8 +57,91 @@ def load_stream(tokenizer, text):
     return torch.tensor(ids * repeats, dtype=torch.long)
 
 
-def get_batch(stream):
-    """Pick random windows. The target is the input shifted one token ahead."""
+def parse_pairs(text):
+    """Pull each user and bot line out of a dialogue file."""
+    pairs = []
+    for block in text.split("\n\n"):
+        lines = [line.strip() for line in block.splitlines() if line.strip()]
+        if len(lines) >= 3 and lines[0].startswith("<user> ") and lines[1].startswith("<bot> "):
+            pairs.append((lines[0][len("<user> ") :], lines[1][len("<bot> ") :]))
+    return pairs
+
+
+# Four-turn office chats. Each step is trained with the turns before it,
+# so a later question still knows the invoice, the price, or the meeting.
+CONVERSATIONS = [
+    [
+        ("please email the client about the invoice", "i will email the client and attach the invoice."),
+        ("what will you say", "i will say the invoice is attached and payment is due on friday."),
+        ("the client did not pay", "i will send a short reminder."),
+        ("what should the reminder say", "the reminder should say the payment is still due on friday."),
+    ],
+    [
+        ("please send a quote for this order", "i will send a quote with the price and the terms today."),
+        ("that price is high", "we can offer a small discount if you order today."),
+        ("we can order more", "a larger order can take a larger discount."),
+        ("let us agree", "yes. the terms are the lower price, payment on friday, and delivery on monday."),
+    ],
+    [
+        ("let us meet on monday", "yes. we can meet on monday at ten."),
+        ("what should we discuss", "we should discuss the budget, the deadline, and the client proposal."),
+        ("monday is not possible", "we can move the meeting to thursday at ten."),
+        ("please confirm that", "confirmed. the meeting is on thursday at ten."),
+    ],
+]
+
+
+def drill_texts(dialogues, business):
+    """One exact reply per question, plus each step of a longer chat.
+
+    A drill is repeated until it fills the context window, so a salary
+    line is not mixed with the wage line that sits next to it in the file.
+    """
+    seen = set()
+    texts = []
+
+    def add(text):
+        if text not in seen:
+            seen.add(text)
+            texts.append(text)
+
+    for user, bot in parse_pairs(dialogues) + parse_pairs(business):
+        add(f"<user> {user} <bot> {bot} <end>")
+    for convo in CONVERSATIONS:
+        parts = []
+        for user, bot in convo:
+            parts.append(f"<user> {user} <bot> {bot} <end>")
+            add(" ".join(parts))
+    return texts
+
+
+def build_drills(tokenizer, texts):
+    """Repeat each short example until it fills one training window."""
+    rows = []
+    width = BLOCK_SIZE + 1
+    for text in texts:
+        ids = tokenizer.encode(text)
+        if len(ids) < 2:
+            continue
+        seq = []
+        while len(seq) < width:
+            seq.extend(ids)
+        rows.append(seq[:width])
+    if not rows:
+        return None
+    return torch.tensor(rows, dtype=torch.long)
+
+
+def get_batch(stream, drills):
+    """Pick random windows. The target is the input shifted one token ahead.
+
+    Most windows are a single repeated reply, so close definitions stay apart.
+    The rest are ordinary text, which keeps the stories and the chat flow.
+    """
+    if drills is not None and torch.rand(1).item() < DRILL_FRACTION:
+        choice = torch.randint(0, drills.size(0), (BATCH_SIZE,))
+        batch = drills[choice]
+        return batch[:, :-1], batch[:, 1:]
     starts = torch.randint(0, len(stream) - BLOCK_SIZE - 1, (BATCH_SIZE,))
     inputs = torch.stack([stream[start : start + BLOCK_SIZE] for start in starts])
     targets = torch.stack([stream[start + 1 : start + 1 + BLOCK_SIZE] for start in starts])
@@ -70,6 +154,13 @@ def main():
     text = read_corpus()
     tokenizer = Tokenizer.build(text)
     stream = load_stream(tokenizer, text)
+    drills = build_drills(
+        tokenizer,
+        drill_texts(
+            DIALOGUES_PATH.read_text(encoding="utf-8"),
+            BUSINESS_PATH.read_text(encoding="utf-8"),
+        ),
+    )
 
     model = TinyGPT(
         vocab_size=len(tokenizer.token_to_id),
@@ -85,10 +176,11 @@ def main():
     print(f"model: {N_LAYER} layers, embedding {N_EMBD}, context {BLOCK_SIZE}")
     print(f"vocab: {len(tokenizer.token_to_id)} tokens")
     print(f"training tokens: {len(stream)}")
+    print(f"drills: {0 if drills is None else drills.size(0)}")
 
     model.train()
     for step in range(1, STEPS + 1):
-        inputs, targets = get_batch(stream)
+        inputs, targets = get_batch(stream, drills)
         inputs = inputs.to(device)
         targets = targets.to(device)
         _logits, loss = model(inputs, targets)

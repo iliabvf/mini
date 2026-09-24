@@ -40,9 +40,9 @@ def prompt_ids(tokenizer, history, user_text, block_size):
     Drop the oldest turns until the prompt fits in the context window.
     """
     bot_id = tokenizer.token_to_id["<bot>"]
-    # Two earlier turns are enough for a follow-up and still leave
-    # room for the new question inside the context window.
-    turns = list(history)[-2:]
+    # Four earlier turns keep a short office chat on the same topic
+    # and still leave room for the new question.
+    turns = list(history)[-4:]
     while True:
         parts = [f"<user> {past_user} <bot> {past_bot} <end>" for past_user, past_bot in turns]
         parts.append(f"<user> {user_text} <bot>")
@@ -102,7 +102,7 @@ def main():
         bot_text = answer(model, tokenizer, history, user_text, device)
         print(f"mini: {bot_text}")
         history.append((user_text, bot_text))
-        history = history[-2:]
+        history = history[-4:]
 
 
 if __name__ == "__main__":

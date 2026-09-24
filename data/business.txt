@@ -235,7 +235,7 @@
 <end>
 
 <user> what is an invoice
-<bot> invoice means a bill a seller sends to a buyer.
+<bot> invoice means the seller bill sent to a buyer.
 <end>
 
 <user> what is a receipt
@@ -439,7 +439,7 @@
 <end>
 
 <user> what is a promotion
-<bot> promotion means a move to a higher job.
+<bot> promotion means moving an employee into a higher job.
 <end>
 
 <user> what is a resignation
@@ -1020,4 +1020,52 @@
 
 <user> who must follow the contract
 <bot> both sides must follow the signed contract.
+<end>
+
+<user> please email the client about the invoice
+<bot> i will email the client and attach the invoice.
+<end>
+
+<user> what will you say
+<bot> i will say the invoice is attached and payment is due on friday.
+<end>
+
+<user> the client did not pay
+<bot> i will send a short reminder.
+<end>
+
+<user> what should the reminder say
+<bot> the reminder should say the payment is still due on friday.
+<end>
+
+<user> please send a quote for this order
+<bot> i will send a quote with the price and the terms today.
+<end>
+
+<user> that price is high
+<bot> we can offer a small discount if you order today.
+<end>
+
+<user> we can order more
+<bot> a larger order can take a larger discount.
+<end>
+
+<user> let us agree
+<bot> yes. the terms are the lower price, payment on friday, and delivery on monday.
+<end>
+
+<user> let us meet on monday
+<bot> yes. we can meet on monday at ten.
+<end>
+
+<user> what should we discuss
+<bot> we should discuss the budget, the deadline, and the client proposal.
+<end>
+
+<user> monday is not possible
+<bot> we can move the meeting to thursday at ten.
+<end>
+
+<user> please confirm that
+<bot> confirmed. the meeting is on thursday at ten.
 <end>

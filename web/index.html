@@ -478,7 +478,7 @@
         miniBubble.textContent = event.reply || miniBubble.textContent;
         if (event.reply) {
           memory.push({ user: message, bot: event.reply });
-          if (memory.length > 2) memory.splice(0, memory.length - 2);
+          if (memory.length > 4) memory.splice(0, memory.length - 4);
           transcript.push({
             user: message,
             bot: event.reply,
@@ -530,7 +530,7 @@
         });
         memory.push({ user: turn.user, bot: turn.bot });
       });
-      if (memory.length > 2) memory.splice(0, memory.length - 2);
+      if (memory.length > 4) memory.splice(0, memory.length - 4);
       sky.scrollTop = sky.scrollHeight;
       log.scrollTop = log.scrollHeight;
       statusEl.textContent = "The last visit is back. Ask another question.";
@@ -578,7 +578,7 @@
         brain.postMessage({
           type: "ask",
           message,
-          history: memory.slice(-2).map((turn) => ({ user: turn.user, bot: turn.bot })),
+          history: memory.slice(-4).map((turn) => ({ user: turn.user, bot: turn.bot })),
         });
       });
     }
@@ -601,7 +601,7 @@
         const response = await fetch("/api/chat", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ message, history: memory.slice(-2) }),
+          body: JSON.stringify({ message, history: memory.slice(-4) }),
         });
         if (!response.ok) throw new Error("The model could not answer.");
         const reader = response.body.getReader();

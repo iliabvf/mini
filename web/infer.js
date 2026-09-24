@@ -39,7 +39,7 @@ function decode(ids) {
 
 function promptIds(history, userText) {
   const botId = tokenToId.get("<bot>");
-  let turns = (history || []).slice(-2);
+  let turns = (history || []).slice(-4);
   let ids = [];
   while (true) {
     const parts = turns.map((turn) => `<user> ${turn.user} <bot> ${turn.bot} <end>`);

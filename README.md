@@ -1,6 +1,6 @@
 # Mini
 
-A small English chatbot trained from scratch. It is a decoder-only transformer: 6 layers, 4 attention heads, embedding size 192, context of 512 tokens, and a vocabulary of 976 words (3,142,656 parameters). It answers short questions from its training dialogues, including a business English word list, and can tell two short stories. It is not a general-purpose assistant.
+A small English chatbot trained from scratch. It is a decoder-only transformer: 6 layers, 4 attention heads, embedding size 192, context of 512 tokens, and a vocabulary of 980 words (3,144,192 parameters). It answers short questions from its training dialogues, including a business English word list, and can tell two short stories. It is not a general-purpose assistant.
 
 The chat window is at http://127.0.0.1:8765. The top shows a model graph and, for each reply, a star of the words the model looked at. Click **vocabulary** to open the word list. The chat stays at the bottom.
 
@@ -17,7 +17,7 @@ Then open http://127.0.0.1:8765. The server uses the NVIDIA GPU when CUDA is ava
 
 ## Train
 
-`python train.py` reads `data/dialogues.txt`, `data/stories.txt`, and `data/business.txt`, trains for 4000 steps, and overwrites `checkpoints/model.pt`.
+`python train.py` reads `data/dialogues.txt`, `data/stories.txt`, and `data/business.txt`, trains for 6000 steps, and overwrites `checkpoints/model.pt`. The chat remembers the last four turns.
 
 ## Hugging Face
 
