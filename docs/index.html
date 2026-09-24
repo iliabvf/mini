@@ -99,11 +99,14 @@
       border-radius: 4px;
       padding: 1px 6px;
       font: 13px Consolas, "Cascadia Mono", monospace;
+      white-space: nowrap;
     }
-    .word.special {
-      border-color: var(--ember);
-      color: var(--ember);
-    }
+    .word.special,
+    .word.embedding { border-color: var(--ember); color: var(--ember); }
+    .word.attention { border-color: var(--gold); }
+    .word.mlp { border-color: var(--moss); }
+    .word.norm { border-color: var(--muted); }
+    .word.output { border-color: var(--ink); }
     #sky {
       min-height: 0;
       overflow: auto;
@@ -641,7 +644,8 @@
 
     const stage = document.getElementById("stage");
     const modelCanvas = document.getElementById("model-graph");
-    let vocabCard = null;
+    const cardRects = {};
+    let openDetail = null;
     const modelCtx = modelCanvas.getContext("2d");
     let modelProfile = null;
     const partColor = {
@@ -771,17 +775,15 @@
         const x = pad + (index % columns) * (cardW + gap);
         const y = 4 + Math.floor(index / columns) * (cardH + gap);
         modelCtx.fillStyle = "rgba(255, 250, 241, 0.94)";
-        const wordsOpen = stage.classList.contains("show-words");
-        modelCtx.strokeStyle = card.key === "vocabulary" && wordsOpen ? "#d4531a" : "#d9cbb3";
-        modelCtx.lineWidth = card.key === "vocabulary" && wordsOpen ? 2 : 1;
+        const selected = openDetail === card.key;
+        modelCtx.strokeStyle = selected ? "#d4531a" : "#d9cbb3";
+        modelCtx.lineWidth = selected ? 2 : 1;
         modelCtx.beginPath();
         modelCtx.roundRect(x, y, cardW, cardH, 8);
         modelCtx.fill();
         modelCtx.stroke();
-        if (card.key === "vocabulary") {
-          vocabCard = { x, y, w: cardW, h: cardH };
-          modelCanvas.vocabRect = vocabCard;
-        }
+        cardRects[card.key] = { x, y, w: cardW, h: cardH };
+        modelCanvas.cardRects = cardRects;
         modelCtx.save();
         modelCtx.beginPath();
         modelCtx.rect(x + 2, y + 2, cardW - 4, cardH - 4);
@@ -822,42 +824,111 @@
       );
     }
 
-    function pointInVocabCard(event) {
-      if (!vocabCard) return false;
+    const detailKeys = new Set(["parameters", "layers", "embedding", "vocabulary"]);
+
+    function cardAt(event) {
       const bounds = modelCanvas.getBoundingClientRect();
       const x = event.clientX - bounds.left;
       const y = event.clientY - bounds.top;
-      return x >= vocabCard.x && x <= vocabCard.x + vocabCard.w && y >= vocabCard.y && y <= vocabCard.y + vocabCard.h;
+      return Object.keys(cardRects).find((key) => {
+        if (!detailKeys.has(key)) return false;
+        const rect = cardRects[key];
+        return x >= rect.x && x <= rect.x + rect.w && y >= rect.y && y <= rect.y + rect.h;
+      }) || null;
     }
 
-    function toggleVocabulary() {
-      stage.classList.toggle("show-words");
-      const open = stage.classList.contains("show-words");
-      document.getElementById("vocab").setAttribute("aria-hidden", open ? "false" : "true");
+    function partCount(name) {
+      const part = (modelProfile.parts || []).find((item) => item.name === name);
+      return part ? part.parameters : 0;
+    }
+
+    function addChip(list, text, className, title) {
+      const chip = document.createElement("span");
+      chip.className = className ? `word ${className}` : "word";
+      chip.textContent = text;
+      if (title) chip.title = title;
+      list.appendChild(chip);
+    }
+
+    function fillDetail(key) {
+      const title = document.getElementById("vocab-count");
+      const list = document.getElementById("vocab-list");
+      const panel = document.getElementById("vocab");
+      list.replaceChildren();
+      if (!modelProfile || !key) return;
+      const profile = modelProfile;
+      const width = profile.embedding || 1;
+      const layers = profile.layers || (profile.perLayer || []).length || 1;
+      if (key === "vocabulary") {
+        const words = profile.words || [];
+        title.textContent = `Vocabulary · ${words.length} words`;
+        panel.setAttribute("aria-label", "Vocabulary");
+        words.forEach((word, index) => {
+          const special = word.startsWith("<") && word.endsWith(">");
+          addChip(list, word, special ? "special" : "", `token ${index}`);
+        });
+        return;
+      }
+      if (key === "parameters") {
+        title.textContent = `Parameters · ${comma(profile.parameters)}`;
+        panel.setAttribute("aria-label", "Parameters");
+        (profile.parts || []).forEach((part) => {
+          const share = profile.parameters ? Math.round(part.parameters / profile.parameters * 1000) / 10 : 0;
+          addChip(list, `${part.name} ${comma(part.parameters)} · ${share}%`, part.name);
+        });
+        return;
+      }
+      if (key === "embedding") {
+        const tokens = (profile.vocabulary || 0) * width;
+        const positions = partCount("embedding") - tokens;
+        const context = positions > 0 ? Math.round(positions / width) : 0;
+        const headSize = profile.heads ? width / profile.heads : width;
+        title.textContent = `Embedding · ${width}`;
+        panel.setAttribute("aria-label", "Embedding");
+        addChip(list, `width ${width}`, "embedding");
+        addChip(list, `tokens ${comma(profile.vocabulary)} × ${width} = ${comma(tokens)}`, "embedding");
+        addChip(list, `positions ${comma(context)} × ${width} = ${comma(positions)}`, "embedding");
+        addChip(list, `context ${comma(context)}`, "embedding");
+        addChip(list, `head size ${headSize}`, "embedding");
+        return;
+      }
+      if (key === "layers") {
+        const counts = profile.perLayer || [];
+        const count = counts.length || layers;
+        const attentionEach = partCount("attention") / count;
+        const mlpEach = partCount("mlp") / count;
+        const normEach = (partCount("norm") - width * 2) / count;
+        title.textContent = `Layers · ${count}`;
+        panel.setAttribute("aria-label", "Layers");
+        const rows = counts.length ? counts : Array.from({ length: count }, () => attentionEach + mlpEach + normEach);
+        rows.forEach((total, index) => {
+          const even = Math.abs(attentionEach + mlpEach + normEach - total) < 1;
+          const text = even
+            ? `layer ${index + 1} · ${comma(total)} · attention ${comma(attentionEach)} · mlp ${comma(mlpEach)} · norm ${comma(normEach)}`
+            : `layer ${index + 1} · ${comma(total)}`;
+          addChip(list, text);
+        });
+      }
+    }
+
+    function toggleDetail(key) {
+      openDetail = openDetail === key ? null : key;
+      stage.classList.toggle("show-words", Boolean(openDetail));
+      document.getElementById("vocab").setAttribute("aria-hidden", openDetail ? "false" : "true");
+      fillDetail(openDetail);
       if (modelProfile) drawModelGraph();
     }
 
     modelCanvas.addEventListener("click", (event) => {
-      if (pointInVocabCard(event)) toggleVocabulary();
+      const key = cardAt(event);
+      if (key) toggleDetail(key);
     });
     modelCanvas.addEventListener("mousemove", (event) => {
-      modelCanvas.style.cursor = pointInVocabCard(event) ? "pointer" : "";
+      modelCanvas.style.cursor = cardAt(event) ? "pointer" : "";
     });
-    document.getElementById("vocab-count").addEventListener("click", toggleVocabulary);
-
-    function showVocabulary(words) {
-      const count = document.getElementById("vocab-count");
-      const list = document.getElementById("vocab-list");
-      count.textContent = `Vocabulary · ${words.length} words`;
-      list.replaceChildren();
-      words.forEach((word, index) => {
-        const chip = document.createElement("span");
-        chip.className = word.startsWith("<") && word.endsWith(">") ? "word special" : "word";
-        chip.textContent = word;
-        chip.title = `token ${index}`;
-        list.appendChild(chip);
-      });
-    }
+    document.getElementById("vocab-count").addEventListener("click", () => {
+      if (openDetail) toggleDetail(openDetail);
+    });
 
     async function loadModelGraph() {
       const urls = ["/api/model", new URL("model.json", document.baseURI).href];
@@ -876,7 +947,6 @@
         return;
       }
       drawModelGraph();
-      showVocabulary(modelProfile.words || []);
       if (useBrowserModel()) {
         statusEl.textContent = "The model runs in this browser. Ask a question below.";
       }
