@@ -541,6 +541,45 @@
       return chain;
     }
 
+    function useBrowserModel() {
+      const host = location.hostname;
+      const localPython = (host === "127.0.0.1" || host === "localhost") && location.port === "8765";
+      return !localPython;
+    }
+
+    let brain = null;
+    function askBrowser(message, miniBubble, star) {
+      if (!brain) brain = new Worker(new URL("infer.js", document.baseURI));
+      return new Promise((resolve) => {
+        const onMessage = (event) => {
+          const data = event.data || {};
+          if (data.type === "status") {
+            statusEl.textContent = data.text;
+            return;
+          }
+          if (data.type === "error") {
+            brain.removeEventListener("message", onMessage);
+            miniBubble.textContent = "Something went wrong. Try again.";
+            statusEl.textContent = data.message || "The model could not answer.";
+            setBusy(false);
+            resolve();
+            return;
+          }
+          enqueue(data, miniBubble, message, star);
+          if (data.type === "done") {
+            brain.removeEventListener("message", onMessage);
+            chain.then(resolve);
+          }
+        };
+        brain.addEventListener("message", onMessage);
+        brain.postMessage({
+          type: "ask",
+          message,
+          history: memory.slice(-2).map((turn) => ({ user: turn.user, bot: turn.bot })),
+        });
+      });
+    }
+
     form.addEventListener("submit", async (event) => {
       event.preventDefault();
       const message = box.value.trim();
@@ -551,10 +590,8 @@
       const miniBubble = addBubble("mini", "…");
       const star = addStar(message, miniBubble);
       statusEl.textContent = "Reading your line.";
-      if (location.hostname.endsWith("github.io")) {
-        miniBubble.textContent = "This page cannot run the model. On your computer, run python serve.py and open http://127.0.0.1:8765.";
-        statusEl.textContent = "GitHub Pages shows the interface. The model stays local.";
-        setBusy(false);
+      if (useBrowserModel()) {
+        await askBrowser(message, miniBubble, star);
         return;
       }
       try {
@@ -840,8 +877,8 @@
       }
       drawModelGraph();
       showVocabulary(modelProfile.words || []);
-      if (location.hostname.endsWith("github.io")) {
-        statusEl.textContent = "Interface only. Run python serve.py for the live chat.";
+      if (useBrowserModel()) {
+        statusEl.textContent = "The model runs in this browser. Ask a question below.";
       }
     }
 
