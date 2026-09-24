@@ -1,705 +1,705 @@
 <user> what is a company
-<bot> a company is a business that sells goods or services.
+<bot> company means a business that sells goods or services.
 <end>
 
 <user> what is a business
-<bot> a business is work done to earn money.
+<bot> business means work done to earn money.
 <end>
 
 <user> what is an office
-<bot> an office is the room where people do their work.
+<bot> office means the room where people do their work.
 <end>
 
 <user> what is an employee
-<bot> an employee is a person who works for a company.
+<bot> employee means a person who works for a company.
 <end>
 
 <user> what is an employer
-<bot> an employer is the person or company that hires workers.
+<bot> employer means the person or company that hires workers.
 <end>
 
 <user> what is a manager
-<bot> a manager leads a team and checks the work.
+<bot> manager means a manager leads a team and checks the work.
 <end>
 
 <user> what is a colleague
-<bot> a colleague is a person you work with.
+<bot> colleague means a person you work with.
 <end>
 
 <user> what is the staff
-<bot> the staff are all the people who work in a place.
+<bot> staff means all the people who work in a place.
 <end>
 
 <user> what is a team
-<bot> a team is a group of people who work on the same goal.
+<bot> team means a group of people who work on the same goal.
 <end>
 
 <user> what is a department
-<bot> a department is one part of a company, such as sales or finance.
+<bot> department means one part of a company, such as sales or finance.
 <end>
 
 <user> what is headquarters
-<bot> headquarters is the main office of a company.
+<bot> headquarters means the main office of a company.
 <end>
 
 <user> what is an intern
-<bot> an intern is a person learning a job for a short time.
+<bot> intern means a person learning a job for a short time.
 <end>
 
 <user> what is a director
-<bot> a director is a senior manager who guides a department.
+<bot> director means a senior manager who guides a department.
 <end>
 
 <user> what is an assistant
-<bot> an assistant helps a manager with daily tasks.
+<bot> assistant means an assistant helps a manager with daily tasks.
 <end>
 
 <user> what is a receptionist
-<bot> a receptionist greets visitors and answers the office phone.
+<bot> receptionist means a receptionist greets visitors and answers the office phone.
 <end>
 
 <user> what is a client
-<bot> a client is a person or company that buys your service.
+<bot> client means a person or company that buys your service.
 <end>
 
 <user> what is a customer
-<bot> a customer is a person who buys a product.
+<bot> customer means a person who buys a product.
 <end>
 
 <user> what is a supplier
-<bot> a supplier is a company that sells you goods or materials.
+<bot> supplier means a company that sells you goods or materials.
 <end>
 
 <user> what is a partner
-<bot> a partner is a company you work with on a shared goal.
+<bot> partner means a company you work with on a shared goal.
 <end>
 
 <user> what is a competitor
-<bot> a competitor is another company that sells the same kind of product.
+<bot> competitor means another company that sells the same kind of product.
 <end>
 
 <user> what is a stakeholder
-<bot> a stakeholder is anyone who is affected by a company decision.
+<bot> stakeholder means anyone who is affected by a company decision.
 <end>
 
 <user> what is a job
-<bot> a job is the work a person is paid to do.
+<bot> job means the work a person is paid to do.
 <end>
 
 <user> what is a role
-<bot> a role is the set of duties a person has at work.
+<bot> role means the set of duties a person has at work.
 <end>
 
 <user> what is a duty
-<bot> a duty is a task you are responsible for.
+<bot> duty means a task you are responsible for.
 <end>
 
 <user> what is a task
-<bot> a task is one piece of work to finish.
+<bot> task means one piece of work to finish.
 <end>
 
 <user> what is a project
-<bot> a project is a planned piece of work with a goal and a deadline.
+<bot> project means a planned piece of work with a goal and a deadline.
 <end>
 
 <user> what is a goal
-<bot> a goal is the result you want to reach.
+<bot> goal means the result you want to reach.
 <end>
 
 <user> what is a target
-<bot> a target is a number or result you aim to hit.
+<bot> target means a number or result you aim to hit.
 <end>
 
 <user> what is a plan
-<bot> a plan is the steps you will take to reach a goal.
+<bot> plan means the steps you will take to reach a goal.
 <end>
 
 <user> what is a strategy
-<bot> a strategy is a long plan for how a company will succeed.
+<bot> strategy means a long plan for how a company will succeed.
 <end>
 
 <user> what is a priority
-<bot> a priority is the task that should be done first.
+<bot> priority means the task that should be done first.
 <end>
 
 <user> what is a deadline
-<bot> a deadline is the last time a task must be finished.
+<bot> deadline means the last time a task must be finished.
 <end>
 
 <user> what is a schedule
-<bot> a schedule is a list of times for tasks or meetings.
+<bot> schedule means a list of times for tasks or meetings.
 <end>
 
 <user> what is a shift
-<bot> a shift is the hours a person works in one day.
+<bot> shift means the hours a person works in one day.
 <end>
 
 <user> what is overtime
-<bot> overtime is work done after the normal hours.
+<bot> overtime means work done after the normal hours.
 <end>
 
 <user> what is a workload
-<bot> a workload is the amount of work a person has.
+<bot> workload means the amount of work a person has.
 <end>
 
 <user> what is a meeting
-<bot> a meeting is a time when people talk about work together.
+<bot> meeting means a time when people talk about work together.
 <end>
 
 <user> what is an agenda
-<bot> an agenda is the list of topics for a meeting.
+<bot> agenda means the list of topics for a meeting.
 <end>
 
 <user> what are minutes
-<bot> minutes are the written notes of what was said in a meeting.
+<bot> minutes means the written notes of what was said in a meeting.
 <end>
 
 <user> what is an appointment
-<bot> an appointment is a time booked to meet one person.
+<bot> appointment means a time booked to meet one person.
 <end>
 
 <user> what is a conference
-<bot> a conference is a large meeting, often with people from many places.
+<bot> conference means a large meeting, often with people from many places.
 <end>
 
 <user> what is a presentation
-<bot> a presentation is a talk that explains an idea to a group.
+<bot> presentation means a talk that explains an idea to a group.
 <end>
 
 <user> what is a report
-<bot> a report is a written account of results or progress.
+<bot> report means a written account of results or progress.
 <end>
 
 <user> what is an update
-<bot> an update is fresh news about how work is going.
+<bot> update means fresh news about how work is going.
 <end>
 
 <user> what is a decision
-<bot> a decision is a choice the team agrees to follow.
+<bot> decision means a choice the team agrees to follow.
 <end>
 
 <user> what is a vote
-<bot> a vote is a formal way for a group to choose.
+<bot> vote means a formal way for a group to choose.
 <end>
 
 <user> what is an attendee
-<bot> an attendee is a person who comes to a meeting.
+<bot> attendee means a person who comes to a meeting.
 <end>
 
 <user> what is a brainstorm
-<bot> a brainstorm is a meeting where people share new ideas.
+<bot> brainstorm means a meeting where people share new ideas.
 <end>
 
 <user> what is an email
-<bot> an email is a written message sent on a computer.
+<bot> email means a written message sent on a computer.
 <end>
 
 <user> what is an inbox
-<bot> an inbox is the place where new emails arrive.
+<bot> inbox means the place where new emails arrive.
 <end>
 
 <user> what is a subject
-<bot> a subject is the short title at the top of an email.
+<bot> subject means the short title at the top of an email.
 <end>
 
 <user> what is an attachment
-<bot> an attachment is a file sent with an email.
+<bot> attachment means a file sent with an email.
 <end>
 
 <user> what is a reply
-<bot> a reply is an answer to a message.
+<bot> reply means an answer to a message.
 <end>
 
 <user> what is a signature
-<bot> a signature is your name and title at the end of an email.
+<bot> signature means your name and title at the end of an email.
 <end>
 
 <user> what is a voicemail
-<bot> a voicemail is a spoken message left when you miss a call.
+<bot> voicemail means a spoken message left when you miss a call.
 <end>
 
 <user> what is a contract
-<bot> a contract is a signed agreement that both sides must follow.
+<bot> contract means a signed agreement that both sides must follow.
 <end>
 
 <user> what is an agreement
-<bot> an agreement is a promise two sides make together.
+<bot> agreement means a promise two sides make together.
 <end>
 
 <user> what is a proposal
-<bot> a proposal is a written offer of work and a price.
+<bot> proposal means a written offer of work and a price.
 <end>
 
 <user> what is a quote
-<bot> a quote is the price a seller offers for a job.
+<bot> quote means the price a seller offers for a job.
 <end>
 
 <user> what is an invoice
-<bot> an invoice is a bill a seller sends to a buyer.
+<bot> invoice means a bill a seller sends to a buyer.
 <end>
 
 <user> what is a receipt
-<bot> a receipt is proof that a payment was made.
+<bot> receipt means proof that a payment was made.
 <end>
 
 <user> what is a form
-<bot> a form is a paper or page with spaces to fill in.
+<bot> form means a paper or page with spaces to fill in.
 <end>
 
 <user> what is a policy
-<bot> a policy is a company rule that people must follow.
+<bot> policy means a company rule that people must follow.
 <end>
 
 <user> what is a memo
-<bot> a memo is a short note sent inside a company.
+<bot> memo means a short note sent inside a company.
 <end>
 
 <user> what is a clause
-<bot> a clause is one rule written inside a contract.
+<bot> clause means one rule written inside a contract.
 <end>
 
 <user> what are terms
-<bot> terms are the rules of a deal, such as price and date.
+<bot> terms means the rules of a deal, such as price and date.
 <end>
 
 <user> what is a sale
-<bot> a sale is the act of selling a product to a customer.
+<bot> sale means the act of selling a product to a customer.
 <end>
 
 <user> what is a price
-<bot> a price is the amount of money asked for a product.
+<bot> price means the amount of money asked for a product.
 <end>
 
 <user> what is a discount
-<bot> a discount is money taken off the usual price.
+<bot> discount means money taken off the usual price.
 <end>
 
 <user> what is an order
-<bot> an order is a request from a customer to buy something.
+<bot> order means a request from a customer to buy something.
 <end>
 
 <user> what is a product
-<bot> a product is an item a company makes or sells.
+<bot> product means an item a company makes or sells.
 <end>
 
 <user> what is a service
-<bot> a service is work you do for a customer, not a physical item.
+<bot> service means work you do for a customer, not a physical item.
 <end>
 
 <user> what is an offer
-<bot> an offer is a price or deal you put forward.
+<bot> offer means a price or deal you put forward.
 <end>
 
 <user> what is a deal
-<bot> a deal is a sale that both sides accept.
+<bot> deal means a sale that both sides accept.
 <end>
 
 <user> what is a negotiation
-<bot> a negotiation is a talk to agree on price or terms.
+<bot> negotiation means a talk to agree on price or terms.
 <end>
 
 <user> what is a brand
-<bot> a brand is the name and look customers know a company by.
+<bot> brand means the name and look customers know a company by.
 <end>
 
 <user> what is an advertisement
-<bot> an advertisement is a public message that promotes a product.
+<bot> advertisement means a public message that promotes a product.
 <end>
 
 <user> what is a campaign
-<bot> a campaign is a planned set of advertisements.
+<bot> campaign means a planned set of advertisements.
 <end>
 
 <user> what is a market
-<bot> a market is the group of people who might buy a product.
+<bot> market means the group of people who might buy a product.
 <end>
 
 <user> what is demand
-<bot> demand is how much customers want to buy.
+<bot> demand means how much customers want to buy.
 <end>
 
 <user> what is supply
-<bot> supply is how much of a product is available to sell.
+<bot> supply means how much of a product is available to sell.
 <end>
 
 <user> what is a budget
-<bot> a budget is a plan for how money will be spent.
+<bot> budget means a plan for how money will be spent.
 <end>
 
 <user> what is a cost
-<bot> a cost is the money spent to make or do something.
+<bot> cost means the money spent to make or do something.
 <end>
 
 <user> what is a profit
-<bot> a profit is the money left after costs are paid.
+<bot> profit means the money left after costs are paid.
 <end>
 
 <user> what is a loss
-<bot> a loss is when costs are higher than the money earned.
+<bot> loss means when costs are higher than the money earned.
 <end>
 
 <user> what is revenue
-<bot> revenue is the money a company receives from sales.
+<bot> revenue means the money a company receives from sales.
 <end>
 
 <user> what is a payment
-<bot> a payment is money given to settle a bill.
+<bot> payment means money given to settle a bill.
 <end>
 
 <user> what is a salary
-<bot> a salary is the fixed pay an employee gets each month.
+<bot> salary means the fixed pay an employee gets each month.
 <end>
 
 <user> what is a wage
-<bot> a wage is pay based on hours worked.
+<bot> wage means pay based on hours worked.
 <end>
 
 <user> what is a bonus
-<bot> a bonus is extra pay for good results.
+<bot> bonus means extra pay for good results.
 <end>
 
 <user> what is a tax
-<bot> a tax is money paid to the government.
+<bot> tax means money paid to the government.
 <end>
 
 <user> what is an expense
-<bot> an expense is money spent for the business.
+<bot> expense means money spent for the business.
 <end>
 
 <user> what is income
-<bot> income is money that comes in.
+<bot> income means money that comes in.
 <end>
 
 <user> what is cash
-<bot> cash is money you can use at once.
+<bot> cash means money you can use at once.
 <end>
 
 <user> what is a bank
-<bot> a bank is a company that keeps and moves money.
+<bot> bank means a company that keeps and moves money.
 <end>
 
 <user> what is an account
-<bot> an account is a record of money held at a bank.
+<bot> account means a record of money held at a bank.
 <end>
 
 <user> what is interest
-<bot> interest is the extra money paid for borrowing, or earned on savings.
+<bot> interest means the extra money paid for borrowing, or earned on savings.
 <end>
 
 <user> what is a loan
-<bot> a loan is money you borrow and must pay back.
+<bot> loan means money you borrow and must pay back.
 <end>
 
 <user> what is a debt
-<bot> a debt is money that is still owed.
+<bot> debt means money that is still owed.
 <end>
 
 <user> what is an asset
-<bot> an asset is something the company owns that has value.
+<bot> asset means something the company owns that has value.
 <end>
 
 <user> what is a liability
-<bot> a liability is money or a duty the company owes.
+<bot> liability means money or a duty the company owes.
 <end>
 
 <user> what is a margin
-<bot> a margin is the difference between the price and the cost.
+<bot> margin means the difference between the price and the cost.
 <end>
 
 <user> what is a forecast
-<bot> a forecast is an estimate of future sales or costs.
+<bot> forecast means an estimate of future sales or costs.
 <end>
 
 <user> what is a refund
-<bot> a refund is money returned to a customer.
+<bot> refund means money returned to a customer.
 <end>
 
 <user> what is hiring
-<bot> hiring is choosing a person and giving them a job.
+<bot> hiring means choosing a person and giving them a job.
 <end>
 
 <user> what is recruiting
-<bot> recruiting is looking for people to fill a job.
+<bot> recruiting means looking for people to fill a job.
 <end>
 
 <user> what is an interview
-<bot> an interview is a meeting to decide if a person should be hired.
+<bot> interview means a meeting to decide if a person should be hired.
 <end>
 
 <user> what is a resume
-<bot> a resume is a short list of jobs and skills.
+<bot> resume means a short list of jobs and skills.
 <end>
 
 <user> what is a candidate
-<bot> a candidate is a person being considered for a job.
+<bot> candidate means a person being considered for a job.
 <end>
 
 <user> what is a vacancy
-<bot> a vacancy is an open job that needs a person.
+<bot> vacancy means an open job that needs a person.
 <end>
 
 <user> what is a promotion
-<bot> a promotion is a move to a higher job.
+<bot> promotion means a move to a higher job.
 <end>
 
 <user> what is a resignation
-<bot> a resignation is when an employee chooses to leave a job.
+<bot> resignation means when an employee chooses to leave a job.
 <end>
 
 <user> what is notice
-<bot> notice is the warning time before someone leaves a job.
+<bot> notice means the warning time before someone leaves a job.
 <end>
 
 <user> what is training
-<bot> training is teaching an employee how to do the work.
+<bot> training means teaching an employee how to do the work.
 <end>
 
 <user> what is a benefit
-<bot> a benefit is extra help from an employer, such as health cover.
+<bot> benefit means extra help from an employer, such as health cover.
 <end>
 
 <user> what is payroll
-<bot> payroll is the process of paying the staff.
+<bot> payroll means the process of paying the staff.
 <end>
 
 <user> what is performance
-<bot> performance is how well a person does the job.
+<bot> performance means how well a person does the job.
 <end>
 
 <user> what is an appraisal
-<bot> an appraisal is a formal review of how an employee did the job.
+<bot> appraisal means a formal review of how an employee did the job.
 <end>
 
 <user> what is a reference
-<bot> a reference is a person who can speak about your past work.
+<bot> reference means a person who can speak about your past work.
 <end>
 
 <user> what is inventory
-<bot> inventory is the goods a company has in stock.
+<bot> inventory means the goods a company has in stock.
 <end>
 
 <user> what is stock
-<bot> stock is the products kept ready to sell.
+<bot> stock means the products kept ready to sell.
 <end>
 
 <user> what is a warehouse
-<bot> a warehouse is a building where goods are stored.
+<bot> warehouse means a building where goods are stored.
 <end>
 
 <user> what is a shipment
-<bot> a shipment is a group of goods sent to a customer.
+<bot> shipment means a group of goods sent to a customer.
 <end>
 
 <user> what is delivery
-<bot> delivery is taking goods to the customer.
+<bot> delivery means taking goods to the customer.
 <end>
 
 <user> what is an import
-<bot> an import is a product brought in from another country.
+<bot> import means a product brought in from another country.
 <end>
 
 <user> what is an export
-<bot> an export is a product sent to another country.
+<bot> export means a product sent to another country.
 <end>
 
 <user> what is quality
-<bot> quality is how good and reliable a product is.
+<bot> quality means how good and reliable a product is.
 <end>
 
 <user> what is a delay
-<bot> a delay is when work or a shipment is later than planned.
+<bot> delay means when work or a shipment is later than planned.
 <end>
 
 <user> what is a launch
-<bot> a launch is the day a new product is first offered.
+<bot> launch means the day a new product is first offered.
 <end>
 
 <user> what is a milestone
-<bot> a milestone is an important point on the way to a goal.
+<bot> milestone means an important point on the way to a goal.
 <end>
 
 <user> what is a risk
-<bot> a risk is something that might go wrong.
+<bot> risk means something that might go wrong.
 <end>
 
 <user> what is an issue
-<bot> an issue is a problem that needs attention now.
+<bot> issue means a problem that needs attention now.
 <end>
 
 <user> what is approval
-<bot> approval is a formal yes from the person in charge.
+<bot> approval means a formal yes from the person in charge.
 <end>
 
 <user> what is a rejection
-<bot> a rejection is a formal no.
+<bot> rejection means a formal no.
 <end>
 
 <user> what is a cancellation
-<bot> a cancellation is when a meeting or order is called off.
+<bot> cancellation means when a meeting or order is called off.
 <end>
 
 <user> what is a postponement
-<bot> a postponement is moving a meeting or deadline to a later time.
+<bot> postponement means moving a meeting or deadline to a later time.
 <end>
 
 <user> what is leadership
-<bot> leadership is guiding people toward a goal.
+<bot> leadership means guiding people toward a goal.
 <end>
 
 <user> what is an objective
-<bot> an objective is a clear result a team is trying to reach.
+<bot> objective means a clear result a team is trying to reach.
 <end>
 
 <user> what is growth
-<bot> growth is an increase in sales, staff, or profit.
+<bot> growth means an increase in sales, staff, or profit.
 <end>
 
 <user> what is a merger
-<bot> a merger is when two companies join into one.
+<bot> merger means when two companies join into one.
 <end>
 
 <user> what is a branch
-<bot> a branch is one local office of a larger company.
+<bot> branch means one local office of a larger company.
 <end>
 
 <user> what is a franchise
-<bot> a franchise is a business run under another company brand.
+<bot> franchise means a business run under another company brand.
 <end>
 
 <user> what is a shareholder
-<bot> a shareholder is a person who owns part of a company.
+<bot> shareholder means a person who owns part of a company.
 <end>
 
 <user> what is a board
-<bot> a board is the group that oversees the company leaders.
+<bot> board means the group that oversees the company leaders.
 <end>
 
 <user> what is an executive
-<bot> an executive is a senior leader of a company.
+<bot> executive means a senior leader of a company.
 <end>
 
 <user> what is a kpi
-<bot> a kpi is a number that shows whether a goal was met.
+<bot> kpi means a number that shows whether a goal was met.
 <end>
 
 <user> what is profit margin
-<bot> profit margin is the share of the price that is profit.
+<bot> profit margin means the share of the price that is profit.
 <end>
 
 <user> what is cash flow
-<bot> cash flow is the money moving in and out of a business.
+<bot> cash flow means the money moving in and out of a business.
 <end>
 
 <user> what is a balance sheet
-<bot> a balance sheet is a report of assets and liabilities.
+<bot> balance sheet means a report of assets and liabilities.
 <end>
 
 <user> what is an estimate
-<bot> an estimate is a rough price given before the final quote.
+<bot> estimate means a rough price given before the final quote.
 <end>
 
 <user> what is a vendor
-<bot> a vendor is a seller, often a supplier to a company.
+<bot> vendor means a seller, often a supplier to a company.
 <end>
 
 <user> what is procurement
-<bot> procurement is the work of buying goods and services for a company.
+<bot> procurement means the work of buying goods and services for a company.
 <end>
 
 <user> what is logistics
-<bot> logistics is planning how goods are stored and moved.
+<bot> logistics means planning how goods are stored and moved.
 <end>
 
 <user> what is a deadline extension
-<bot> a deadline extension is extra time allowed to finish a task.
+<bot> deadline extension means extra time allowed to finish a task.
 <end>
 
 <user> what is a follow up
-<bot> a follow up is a later message to check on a request.
+<bot> follow up means a later message to check on a request.
 <end>
 
 <user> what is networking
-<bot> networking is meeting people who may help your work.
+<bot> networking means meeting people who may help your work.
 <end>
 
 <user> what is a pitch
-<bot> a pitch is a short talk that tries to win a client or investor.
+<bot> pitch means a short talk that tries to win a client or investor.
 <end>
 
 <user> what is an investor
-<bot> an investor is a person who puts money into a business.
+<bot> investor means a person who puts money into a business.
 <end>
 
 <user> what is funding
-<bot> funding is the money gathered to start or grow a business.
+<bot> funding means the money gathered to start or grow a business.
 <end>
 
 <user> what is a startup
-<bot> a startup is a new company still building its first product.
+<bot> startup means a new company still building its first product.
 <end>
 
 <user> what is a turnover
-<bot> turnover is the total money from sales in a period.
+<bot> turnover means the total money from sales in a period.
 <end>
 
 <user> what is a quota
-<bot> a quota is the sales target a person must reach.
+<bot> quota means the sales target a person must reach.
 <end>
 
 <user> what is commission
-<bot> commission is extra pay based on the sales you make.
+<bot> commission means extra pay based on the sales you make.
 <end>
 
 <user> what is a warranty
-<bot> a warranty is a promise to repair a product for a set time.
+<bot> warranty means a promise to repair a product for a set time.
 <end>
 
 <user> what is a complaint
-<bot> a complaint is a customer report that something is wrong.
+<bot> complaint means a customer report that something is wrong.
 <end>
 
 <user> what is customer service
-<bot> customer service is help given to people after they buy.
+<bot> customer service means help given to people after they buy.
 <end>
 
 <user> what is a brochure
-<bot> a brochure is a short printed description of a product.
+<bot> brochure means a short printed description of a product.
 <end>
 
 <user> what is a catalog
-<bot> a catalog is a list of products and prices.
+<bot> catalog means a list of products and prices.
 <end>
 
 <user> what is wholesale
-<bot> wholesale is selling goods in large amounts to other sellers.
+<bot> wholesale means selling goods in large amounts to other sellers.
 <end>
 
 <user> what is retail
-<bot> retail is selling goods directly to the public.
+<bot> retail means selling goods directly to the public.
 <end>
 
 <user> what is a trademark
-<bot> a trademark is a protected name or logo of a brand.
+<bot> trademark means a protected name or logo of a brand.
 <end>
 
 <user> what is a copyright
-<bot> a copyright is the legal right to copy a written or made work.
+<bot> copyright means the legal right to copy a written or made work.
 <end>
 
 <user> what is a license
-<bot> a license is official permission to use or sell something.
+<bot> license means official permission to use or sell something.
 <end>
 
 <user> what is compliance
-<bot> compliance is following the laws and company rules.
+<bot> compliance means following the laws and company rules.
 <end>
 
 <user> what is an audit
-<bot> an audit is an official check of accounts or processes.
+<bot> audit means an official check of accounts or processes.
 <end>
 
 <user> what is the last day to finish
-<bot> the last day to finish is the deadline.
+<bot> last day to finish means the deadline.
 <end>
 
 <user> can we schedule a meeting
@@ -783,7 +783,7 @@
 <end>
 
 <user> what is our profit
-<bot> profit is the money left after all costs are paid.
+<bot> our profit is the money left after costs are paid.
 <end>
 
 <user> sales are below the target
@@ -946,114 +946,78 @@
 <bot> a dog has four legs.
 <end>
 
-<user> what is a meeting
-<bot> a meeting is a time when people talk about work together.
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
 <end>
 
-<user> what is a meeting
-<bot> a meeting is a time when people talk about work together.
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
 <end>
 
-<user> what is a meeting
-<bot> a meeting is a time when people talk about work together.
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
 <end>
 
-<user> what is a meeting
-<bot> a meeting is a time when people talk about work together.
+<user> please send the invoice
+<bot> i will send the invoice by email today.
 <end>
 
-<user> what color is grass
-<bot> grass is green.
+<user> when should the client pay
+<bot> the client should pay by friday.
 <end>
 
-<user> what color is grass
-<bot> grass is green.
+<user> can we schedule a meeting
+<bot> yes. let us meet at ten to review the agenda.
 <end>
 
-<user> what color is grass
-<bot> grass is green.
+<user> what will we review
+<bot> we will review the budget and the deadline.
 <end>
 
-<user> what color is grass
-<bot> grass is green.
+<user> can you offer a discount
+<bot> we can offer a small discount if you order today.
 <end>
 
-<user> what is a stakeholder
-<bot> a stakeholder is anyone who is affected by a company decision.
+<user> can the discount be larger
+<bot> yes. a larger order can take a larger discount.
 <end>
 
-<user> what is a stakeholder
-<bot> a stakeholder is anyone who is affected by a company decision.
+<user> the shipment is late
+<bot> i will call the supplier and ask about the delay.
 <end>
 
-<user> what is a stakeholder
-<bot> a stakeholder is anyone who is affected by a company decision.
+<user> what will you tell the client
+<bot> i will tell the client about the delay.
 <end>
 
-<user> what is a stakeholder
-<bot> a stakeholder is anyone who is affected by a company decision.
+<user> we need to hire an assistant
+<bot> i will post the vacancy and schedule interviews.
 <end>
 
-<user> what is a kpi
-<bot> a kpi is a number that shows whether a goal was met.
+<user> who will you interview
+<bot> i will interview the candidates for the assistant role.
 <end>
 
-<user> what is a kpi
-<bot> a kpi is a number that shows whether a goal was met.
+<user> we are over budget
+<bot> we should cut extra expenses and review the forecast.
 <end>
 
-<user> what is a kpi
-<bot> a kpi is a number that shows whether a goal was met.
+<user> what should we cut
+<bot> we should cut the extra expenses first.
 <end>
 
-<user> what is a kpi
-<bot> a kpi is a number that shows whether a goal was met.
+<user> the customer has a complaint
+<bot> i am sorry. we will review the issue and offer a refund if needed.
 <end>
 
-<user> did the client pay
-<bot> not yet. the payment is due on friday.
+<user> will you offer a refund
+<bot> yes. we will offer a refund if the product was wrong.
 <end>
 
-<user> did the client pay
-<bot> not yet. the payment is due on friday.
+<user> do we have a contract
+<bot> yes. both sides signed the contract last week.
 <end>
 
-<user> did the client pay
-<bot> not yet. the payment is due on friday.
-<end>
-
-<user> did the client pay
-<bot> not yet. the payment is due on friday.
-<end>
-
-<user> what is a budget
-<bot> a budget is a plan for how money will be spent.
-<end>
-
-<user> what is a budget
-<bot> a budget is a plan for how money will be spent.
-<end>
-
-<user> what is a budget
-<bot> a budget is a plan for how money will be spent.
-<end>
-
-<user> what is a budget
-<bot> a budget is a plan for how money will be spent.
-<end>
-
-<user> what is a contract
-<bot> a contract is a signed agreement that both sides must follow.
-<end>
-
-<user> what is a contract
-<bot> a contract is a signed agreement that both sides must follow.
-<end>
-
-<user> what is a contract
-<bot> a contract is a signed agreement that both sides must follow.
-<end>
-
-<user> what is a contract
-<bot> a contract is a signed agreement that both sides must follow.
+<user> who must follow the contract
+<bot> both sides must follow the signed contract.
 <end>
