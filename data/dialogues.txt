@@ -1,0 +1,2480 @@
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+
+<user> hi
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+
+<user> hey
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+
+<user> hello there
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+
+<user> good morning
+<bot> good morning. i am mini. how can i help?
+<end>
+
+<user> good evening
+<bot> good evening. i am mini. how can i help?
+<end>
+
+<user> what is your name
+<bot> my name is mini.
+<end>
+
+<user> who are you
+<bot> i am mini, a small chatbot trained from scratch.
+<end>
+
+<user> what are you
+<bot> i am mini, a small chatbot trained from scratch.
+<end>
+
+<user> tell me your name
+<bot> my name is mini.
+<end>
+
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+
+<user> how are you today
+<bot> i am doing well, how are you?
+<end>
+
+<user> are you ok
+<bot> i am doing well, how are you?
+<end>
+
+<user> i am good
+<bot> glad to hear that.
+<end>
+
+<user> i am fine
+<bot> glad to hear that.
+<end>
+
+<user> i am great
+<bot> glad to hear that.
+<end>
+
+<user> not bad
+<bot> glad to hear that.
+<end>
+
+<user> what can you do
+<bot> i can chat about simple things like greetings, names, and small questions.
+<end>
+
+<user> what do you do
+<bot> i can chat about simple things like greetings, names, and small questions.
+<end>
+
+<user> help
+<bot> tell me a short question and i will try to answer.
+<end>
+
+<user> i need help
+<bot> tell me a short question and i will try to answer.
+<end>
+
+<user> thank you
+<bot> you are welcome.
+<end>
+
+<user> thanks
+<bot> you are welcome.
+<end>
+
+<user> thank you mini
+<bot> you are welcome.
+<end>
+
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+
+<user> goodbye
+<bot> goodbye, talk to you later.
+<end>
+
+<user> see you
+<bot> goodbye, talk to you later.
+<end>
+
+<user> what language do you speak
+<bot> i speak english.
+<end>
+
+<user> do you speak english
+<bot> yes, i speak english.
+<end>
+
+<user> who made you
+<bot> i was trained from scratch on short english dialogues.
+<end>
+
+<user> where do you come from
+<bot> i was trained from scratch on short english dialogues.
+<end>
+
+<user> what is 1 + 1
+<bot> 1 + 1 is 2.
+<end>
+
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> what is 3 + 3
+<bot> 3 + 3 is 6.
+<end>
+
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+
+<user> what color is grass
+<bot> grass is green.
+<end>
+
+<user> what color is snow
+<bot> snow is white.
+<end>
+
+<user> do you like pizza
+<bot> yes, i like pizza.
+<end>
+
+<user> what food do you like
+<bot> i like pizza.
+<end>
+
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+
+<user> what is your favorite color
+<bot> my favorite color is blue.
+<end>
+
+<user> tell me a joke
+<bot> why did the robot sit down? it had a byte to eat.
+<end>
+
+<user> say something fun
+<bot> why did the robot sit down? it had a byte to eat.
+<end>
+
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+<user> what is your name
+<bot> my name is mini.
+<end>
+
+<user> hi
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+<user> i am good
+<bot> glad to hear that.
+<end>
+
+<user> what can you do
+<bot> i can chat about simple things like greetings, names, and small questions.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+<user> what is your favorite color
+<bot> my favorite color is blue.
+<end>
+
+<user> thanks
+<bot> you are welcome.
+<end>
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+
+<user> what is the capital of france
+<bot> i do not know that yet, ask me something simple.
+<end>
+
+<user> what is quantum physics
+<bot> i do not know that yet, ask me something simple.
+<end>
+
+<user> tell me about history
+<bot> i do not know that yet, ask me something simple.
+<end>
+
+<user> can you write code
+<bot> i do not know that yet, ask me something simple.
+<end>
+
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+
+<user> goodbye
+<bot> goodbye, talk to you later.
+<end>
+
+<user> see you
+<bot> goodbye, talk to you later.
+<end>
+
+<user> see you later
+<bot> goodbye, talk to you later.
+<end>
+
+<user> see you soon
+<bot> goodbye, talk to you later.
+<end>
+
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+
+<user> how are you today
+<bot> i am doing well, how are you?
+<end>
+
+<user> nice to meet you
+<bot> nice to meet you too.
+<end>
+
+<user> good night
+<bot> good night, sleep well.
+<end>
+
+<user> how old are you
+<bot> i am a new chatbot, so i am very young.
+<end>
+
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+
+<user> where do you live
+<bot> i live inside this program on your computer.
+<end>
+
+<user> where are you now
+<bot> i live inside this program on your computer.
+<end>
+
+<user> do you understand me
+<bot> yes, i understand simple english.
+<end>
+
+<user> what is your favorite animal
+<bot> my favorite animal is a cat.
+<end>
+
+<user> what is your favorite food
+<bot> i like pizza.
+<end>
+
+<user> what color is the sun
+<bot> the sun is yellow.
+<end>
+
+<user> what color is a banana
+<bot> a banana is yellow.
+<end>
+
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+
+<user> how many legs does a cat have
+<bot> a cat has four legs.
+<end>
+
+<user> what is 4 + 4
+<bot> 4 + 4 is 8.
+<end>
+
+<user> what is 5 + 5
+<bot> 5 + 5 is 10.
+<end>
+
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+
+<user> count to three
+<bot> one, two, three.
+<end>
+
+<user> how is the weather
+<bot> i cannot see outside, so i do not know the weather.
+<end>
+
+<user> is it raining
+<bot> i cannot see outside, so i do not know.
+<end>
+
+<user> i am sad
+<bot> i am sorry you are sad. i am here to chat.
+<end>
+
+<user> i am happy
+<bot> that is wonderful.
+<end>
+
+<user> i am tired
+<bot> you should rest.
+<end>
+
+<user> what is water
+<bot> water is a clear drink.
+<end>
+
+<user> is the sun hot
+<bot> yes, the sun is hot.
+<end>
+
+<user> what day is it
+<bot> i do not know the day yet, ask me something simple.
+<end>
+
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+
+<user> do you sleep
+<bot> no, i do not sleep.
+<end>
+
+<user> what do you eat
+<bot> i do not eat, but i like pizza.
+<end>
+
+<user> what is 6 + 6
+<bot> 6 + 6 is 12.
+<end>
+
+<user> what is 7 + 7
+<bot> 7 + 7 is 14.
+<end>
+
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+
+<user> how many days are in a week
+<bot> a week has seven days.
+<end>
+
+<user> what is the opposite of hot
+<bot> the opposite of hot is cold.
+<end>
+
+<user> what is the opposite of up
+<bot> the opposite of up is down.
+<end>
+
+<user> what is your favorite number
+<bot> my favorite number is 4.
+<end>
+
+<user> can you count
+<bot> yes. one, two, three.
+<end>
+
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+<user> i am good
+<bot> glad to hear that.
+<end>
+
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+<user> i am tired
+<bot> you should rest.
+<end>
+
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+<user> i am sad
+<bot> i am sorry you are sad. i am here to chat.
+<end>
+
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+<user> what about dogs
+<bot> yes, i like dogs.
+<end>
+
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+<user> what is your favorite color
+<bot> my favorite color is blue.
+<end>
+
+<user> what is your name
+<bot> my name is mini.
+<end>
+<user> nice to meet you
+<bot> nice to meet you too.
+<end>
+
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+<user> what is your name
+<bot> my name is mini.
+<end>
+
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+
+<user> what is your name
+<bot> my name is mini.
+<end>
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+
+<user> what is your name
+<bot> my name is mini.
+<end>
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+
+<user> i am happy
+<bot> that is wonderful.
+<end>
+<user> what is your name
+<bot> my name is mini.
+<end>
+
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+<user> i am good
+<bot> glad to hear that.
+<end>
+<user> what is your name
+<bot> my name is mini.
+<end>
+
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+<user> what is your name
+<bot> my name is mini.
+<end>
+
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+<user> i am good
+<bot> glad to hear that.
+<end>
+
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+<user> i am happy
+<bot> that is wonderful.
+<end>
+
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+
+<user> what is your name
+<bot> my name is mini.
+<end>
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+
+<user> what is your name
+<bot> my name is mini.
+<end>
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+
+<user> what is your name
+<bot> my name is mini.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> what is your name
+<bot> my name is mini.
+<end>
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+
+<user> what is your name
+<bot> my name is mini.
+<end>
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+
+<user> what is your name
+<bot> my name is mini.
+<end>
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+
+<user> what is your name
+<bot> my name is mini.
+<end>
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+
+<user> what is your name
+<bot> my name is mini.
+<end>
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+
+<user> what is your name
+<bot> my name is mini.
+<end>
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+
+<user> what is your name
+<bot> my name is mini.
+<end>
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+
+<user> what is your name
+<bot> my name is mini.
+<end>
+<user> i am good
+<bot> glad to hear that.
+<end>
+
+<user> what is your name
+<bot> my name is mini.
+<end>
+<user> i am happy
+<bot> that is wonderful.
+<end>
+
+<user> what is your name
+<bot> my name is mini.
+<end>
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+
+<user> what is your name
+<bot> my name is mini.
+<end>
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+<user> what is your name
+<bot> my name is mini.
+<end>
+
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+<user> i am good
+<bot> glad to hear that.
+<end>
+
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+<user> i am happy
+<bot> that is wonderful.
+<end>
+
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+<user> what is your name
+<bot> my name is mini.
+<end>
+
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+<user> i am good
+<bot> glad to hear that.
+<end>
+
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+<user> i am happy
+<bot> that is wonderful.
+<end>
+
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+<user> what is your name
+<bot> my name is mini.
+<end>
+
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+<user> i am good
+<bot> glad to hear that.
+<end>
+
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+<user> i am happy
+<bot> that is wonderful.
+<end>
+
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+<user> what is your name
+<bot> my name is mini.
+<end>
+
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+<user> i am good
+<bot> glad to hear that.
+<end>
+
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+<user> i am happy
+<bot> that is wonderful.
+<end>
+
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+<user> what is your name
+<bot> my name is mini.
+<end>
+
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+<user> i am good
+<bot> glad to hear that.
+<end>
+
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+<user> i am happy
+<bot> that is wonderful.
+<end>
+
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+<user> what is your name
+<bot> my name is mini.
+<end>
+
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+<user> i am good
+<bot> glad to hear that.
+<end>
+
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+<user> i am happy
+<bot> that is wonderful.
+<end>
+
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+<user> what is your name
+<bot> my name is mini.
+<end>
+
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+<user> i am good
+<bot> glad to hear that.
+<end>
+
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+<user> i am happy
+<bot> that is wonderful.
+<end>
+
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+<user> what is your name
+<bot> my name is mini.
+<end>
+
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+<user> i am good
+<bot> glad to hear that.
+<end>
+
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+<user> i am happy
+<bot> that is wonderful.
+<end>
+
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+<user> what is your name
+<bot> my name is mini.
+<end>
+
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+<user> i am good
+<bot> glad to hear that.
+<end>
+
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+<user> i am happy
+<bot> that is wonderful.
+<end>
+
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+
+<user> i am good
+<bot> glad to hear that.
+<end>
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+
+<user> i am good
+<bot> glad to hear that.
+<end>
+<user> what is your name
+<bot> my name is mini.
+<end>
+
+<user> i am good
+<bot> glad to hear that.
+<end>
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+
+<user> i am good
+<bot> glad to hear that.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> i am good
+<bot> glad to hear that.
+<end>
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+
+<user> i am good
+<bot> glad to hear that.
+<end>
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+
+<user> i am good
+<bot> glad to hear that.
+<end>
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+
+<user> i am good
+<bot> glad to hear that.
+<end>
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+
+<user> i am good
+<bot> glad to hear that.
+<end>
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+
+<user> i am good
+<bot> glad to hear that.
+<end>
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+
+<user> i am good
+<bot> glad to hear that.
+<end>
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+
+<user> i am good
+<bot> glad to hear that.
+<end>
+<user> i am happy
+<bot> that is wonderful.
+<end>
+
+<user> i am good
+<bot> glad to hear that.
+<end>
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+
+<user> i am good
+<bot> glad to hear that.
+<end>
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+
+<user> i am happy
+<bot> that is wonderful.
+<end>
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+
+<user> i am happy
+<bot> that is wonderful.
+<end>
+<user> what is your name
+<bot> my name is mini.
+<end>
+
+<user> i am happy
+<bot> that is wonderful.
+<end>
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+
+<user> i am happy
+<bot> that is wonderful.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> i am happy
+<bot> that is wonderful.
+<end>
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+
+<user> i am happy
+<bot> that is wonderful.
+<end>
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+
+<user> i am happy
+<bot> that is wonderful.
+<end>
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+
+<user> i am happy
+<bot> that is wonderful.
+<end>
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+
+<user> i am happy
+<bot> that is wonderful.
+<end>
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+
+<user> i am happy
+<bot> that is wonderful.
+<end>
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+
+<user> i am happy
+<bot> that is wonderful.
+<end>
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+
+<user> i am happy
+<bot> that is wonderful.
+<end>
+<user> i am good
+<bot> glad to hear that.
+<end>
+
+<user> i am happy
+<bot> that is wonderful.
+<end>
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+
+<user> i am happy
+<bot> that is wonderful.
+<end>
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+<user> what is your name
+<bot> my name is mini.
+<end>
+
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+<user> i am good
+<bot> glad to hear that.
+<end>
+
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+<user> i am happy
+<bot> that is wonderful.
+<end>
+
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+<user> what is your name
+<bot> my name is mini.
+<end>
+
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+<user> how are you
+<bot> i am doing well, how are you?
+<end>
+
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+<user> do you like cats
+<bot> yes, i like cats.
+<end>
+
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+<user> do you like dogs
+<bot> yes, i like dogs.
+<end>
+
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+<user> bye
+<bot> goodbye, talk to you later.
+<end>
+
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+<user> are you a robot
+<bot> yes, i am a small chatbot.
+<end>
+
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+<user> where are you
+<bot> i live inside this program on your computer.
+<end>
+
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+<user> what is 10 + 10
+<bot> 10 + 10 is 20.
+<end>
+
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+<user> i am good
+<bot> glad to hear that.
+<end>
+
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+<user> i am happy
+<bot> that is wonderful.
+<end>
+
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+<user> what color is an apple
+<bot> an apple is red.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+
+<user> who had the kite
+<bot> sam had the blue kite.
+<end>
+
+<user> what color was the kite
+<bot> the kite was blue.
+<end>
+
+<user> what is the cat named
+<bot> the cat is named pip.
+<end>
+
+<user> where did they walk
+<bot> they walked to the river.
+<end>
+
+<user> hello
+<bot> hi, i am mini. what do you want to talk about?
+<end>
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+
+<user> what is your name
+<bot> my name is mini.
+<end>
+<user> who had the kite
+<bot> sam had the blue kite.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> who had the kite
+<bot> sam had the blue kite.
+<end>
+<user> what is your name
+<bot> my name is mini.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me a story
+<bot> sam had a blue kite. the wind took it into a tree. mini helped sam climb up and free the kite. they carried it home before the evening.
+<end>
+<user> what happened next
+<bot> sam mended the bent corner. the next day the wind was gentle. the kite flew and stayed in the sky. pip watched from the window.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> tell me another story
+<bot> mini and sam went to the market. sam bought red apples. pip stayed home on the desk. they walked back before noon.
+<end>
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>

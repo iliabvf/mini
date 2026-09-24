@@ -1,0 +1,13 @@
+{
+  "tokenizer_class": "Tokenizer",
+  "lowercase": true,
+  "special_tokens": [
+    "<pad>",
+    "<unk>",
+    "<user>",
+    "<bot>",
+    "<end>"
+  ],
+  "unk_token": "<unk>",
+  "pad_token": "<pad>"
+}
