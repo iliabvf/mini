@@ -155,7 +155,7 @@
 <end>
 
 <user> what is an appointment
-<bot> appointment means a time booked to meet one person.
+<bot> appointment means a clock time reserved for one visitor.
 <end>
 
 <user> what is a conference
@@ -575,7 +575,7 @@
 <end>
 
 <user> what is an executive
-<bot> executive means a senior leader of a company.
+<bot> executive means the top boss of the whole company.
 <end>
 
 <user> what is a kpi
@@ -1084,4 +1084,804 @@
 
 <user> please send that refund
 <bot> i will send the refund to the customer today.
+<end>
+
+<user> what is a ledger
+<bot> ledger means the book where each money record is kept.
+<end>
+
+<user> what is a debit
+<bot> debit means money recorded as going out of an account.
+<end>
+
+<user> what is a credit
+<bot> credit means money recorded as coming into an account.
+<end>
+
+<user> what is equity
+<bot> equity means the value left for owners after debts.
+<end>
+
+<user> what is a dividend
+<bot> dividend means profit paid out to shareholders.
+<end>
+
+<user> what is depreciation
+<bot> depreciation means the loss of value of a machine over years.
+<end>
+
+<user> what is an accrual
+<bot> accrual means a cost recorded before the cash is paid.
+<end>
+
+<user> what is a payable
+<bot> payable means a bill the company still has to pay.
+<end>
+
+<user> what is a receivable
+<bot> receivable means money a customer still has to pay us.
+<end>
+
+<user> what is reconciliation
+<bot> reconciliation means checking two money records until they match.
+<end>
+
+<user> what is bookkeeping
+<bot> bookkeeping means writing down every sale and every cost.
+<end>
+
+<user> what is gross
+<bot> gross means the total before anything is taken off.
+<end>
+
+<user> what is net
+<bot> net means the amount left after deductions.
+<end>
+
+<user> what is overhead
+<bot> overhead means the regular costs of keeping the office open.
+<end>
+
+<user> what is a fiscal year
+<bot> fiscal year means the twelve months a company uses for its accounts.
+<end>
+
+<user> what is a quarter
+<bot> quarter means three months of the business year.
+<end>
+
+<user> what is a write off
+<bot> write off means removing a debt that will not be paid.
+<end>
+
+<user> what is capital
+<bot> capital means money put into the business to help it run.
+<end>
+
+<user> what is liquidity
+<bot> liquidity means how fast something can be turned into cash.
+<end>
+
+<user> what is solvency
+<bot> solvency means being able to pay debts when they are due.
+<end>
+
+<user> what is a mortgage
+<bot> mortgage means a loan used to buy a building.
+<end>
+
+<user> what is collateral
+<bot> collateral means property pledged if a loan is not repaid.
+<end>
+
+<user> what is an overdraft
+<bot> overdraft means spending more than the account holds.
+<end>
+
+<user> what is a deposit
+<bot> deposit means money placed into a bank account.
+<end>
+
+<user> what is a withdrawal
+<bot> withdrawal means money taken out of a bank account.
+<end>
+
+<user> what is a statement
+<bot> statement means a bank list of money in and money out.
+<end>
+
+<user> what is a fee
+<bot> fee means a set charge for a service.
+<end>
+
+<user> what is a penalty
+<bot> penalty means extra money charged for a broken rule.
+<end>
+
+<user> what is an installment
+<bot> installment means one part of a payment split over time.
+<end>
+
+<user> what is principal
+<bot> principal means the original sum of a loan, not the interest.
+<end>
+
+<user> what is a savings account
+<bot> savings account means a bank place for money kept aside.
+<end>
+
+<user> what is a wire
+<bot> wire means sending money directly from one bank to another.
+<end>
+
+<user> what is currency
+<bot> currency means the kind of money a country uses.
+<end>
+
+<user> what is an exchange rate
+<bot> exchange rate means how much one currency buys of another.
+<end>
+
+<user> what is inflation
+<bot> inflation means prices rising across the market.
+<end>
+
+<user> what is a recession
+<bot> recession means a period when sales and jobs fall.
+<end>
+
+<user> what is a surplus
+<bot> surplus means more money came in than went out.
+<end>
+
+<user> what is a deficit
+<bot> deficit means more money went out than came in.
+<end>
+
+<user> what is a lawsuit
+<bot> lawsuit means a case taken to a court.
+<end>
+
+<user> what is a plaintiff
+<bot> plaintiff means the person who starts a lawsuit.
+<end>
+
+<user> what is a defendant
+<bot> defendant means the person a lawsuit is brought against.
+<end>
+
+<user> what is a settlement
+<bot> settlement means an agreement that ends a dispute.
+<end>
+
+<user> what is confidentiality
+<bot> confidentiality means keeping business facts private.
+<end>
+
+<user> what is a breach
+<bot> breach means breaking a term of a contract.
+<end>
+
+<user> what is arbitration
+<bot> arbitration means a private judge deciding a dispute.
+<end>
+
+<user> what is jurisdiction
+<bot> jurisdiction means which court or country has authority.
+<end>
+
+<user> what is a regulation
+<bot> regulation means an official rule a business must follow.
+<end>
+
+<user> what is a fine
+<bot> fine means money owed because a rule was broken.
+<end>
+
+<user> what is a permit
+<bot> permit means official permission to do a kind of work.
+<end>
+
+<user> what is a patent
+<bot> patent means a legal right that protects an invention.
+<end>
+
+<user> what is a royalty
+<bot> royalty means a payment for using someone else invention.
+<end>
+
+<user> what is a lease
+<bot> lease means a contract to use a building for a set time.
+<end>
+
+<user> what is a tenant
+<bot> tenant means the person who rents a building.
+<end>
+
+<user> what is a landlord
+<bot> landlord means the owner who rents out a building.
+<end>
+
+<user> what is a statute
+<bot> statute means a law written by the government.
+<end>
+
+<user> what is indemnity
+<bot> indemnity means cover that pays when a loss happens.
+<end>
+
+<user> what is a waiver
+<bot> waiver means giving up a right on purpose.
+<end>
+
+<user> what is onboarding
+<bot> onboarding means helping a new employee start the job.
+<end>
+
+<user> what is probation
+<bot> probation means a trial period at the start of a job.
+<end>
+
+<user> what is a layoff
+<bot> layoff means ending jobs because the company needs fewer people.
+<end>
+
+<user> what is severance
+<bot> severance means pay given when a job ends.
+<end>
+
+<user> what is a pension
+<bot> pension means money paid after someone stops working.
+<end>
+
+<user> what is vacation
+<bot> vacation means paid days away from work.
+<end>
+
+<user> what is a timesheet
+<bot> timesheet means a record of hours worked.
+<end>
+
+<user> what is a grievance
+<bot> grievance means a formal complaint by an employee.
+<end>
+
+<user> what is a supervisor
+<bot> supervisor means the person who directs daily work.
+<end>
+
+<user> what is a subordinate
+<bot> subordinate means a person who reports to a supervisor.
+<end>
+
+<user> what is a mentor
+<bot> mentor means an experienced person who guides a newer one.
+<end>
+
+<user> what is a handbook
+<bot> handbook means the book of workplace rules.
+<end>
+
+<user> what is attendance
+<bot> attendance means being present at work.
+<end>
+
+<user> what is absenteeism
+<bot> absenteeism means often being away from work.
+<end>
+
+<user> what is a contractor
+<bot> contractor means a person hired for a job, not as staff.
+<end>
+
+<user> what is a freelancer
+<bot> freelancer means a person who sells work to many clients.
+<end>
+
+<user> what is a consultant
+<bot> consultant means an outside expert paid for advice.
+<end>
+
+<user> what is headcount
+<bot> headcount means how many people work in a group.
+<end>
+
+<user> what is a job description
+<bot> job description means a written list of duties for one role.
+<end>
+
+<user> what is parental leave
+<bot> parental leave means time off to care for a new child.
+<end>
+
+<user> what is a slogan
+<bot> slogan means a short phrase customers remember.
+<end>
+
+<user> what is a logo
+<bot> logo means the picture that stands for a brand.
+<end>
+
+<user> what is a headline
+<bot> headline means the large title on an advertisement.
+<end>
+
+<user> what is a newsletter
+<bot> newsletter means a regular note sent to customers.
+<end>
+
+<user> what is a website
+<bot> website means the pages a company shows on the internet.
+<end>
+
+<user> what is a lead
+<bot> lead means a person who might become a customer.
+<end>
+
+<user> what is a funnel
+<bot> funnel means the steps from first interest to a sale.
+<end>
+
+<user> what is conversion
+<bot> conversion means turning a visitor into a buyer.
+<end>
+
+<user> what is an audience
+<bot> audience means the people a message is meant for.
+<end>
+
+<user> what is a segment
+<bot> segment means one group of customers with a shared need.
+<end>
+
+<user> what is a survey
+<bot> survey means questions asked to learn what people think.
+<end>
+
+<user> what is a testimonial
+<bot> testimonial means a customer words praising a product.
+<end>
+
+<user> what is a sponsor
+<bot> sponsor means a company that pays to have its name shown.
+<end>
+
+<user> what is a press release
+<bot> press release means a public note announcing company news.
+<end>
+
+<user> what is a billboard
+<bot> billboard means a large outdoor advertisement.
+<end>
+
+<user> what is a prospect
+<bot> prospect means a possible buyer not yet a customer.
+<end>
+
+<user> what is a pipeline
+<bot> pipeline means the list of deals still being discussed.
+<end>
+
+<user> what is closing
+<bot> closing means the moment a buyer accepts the deal.
+<end>
+
+<user> what is an upsell
+<bot> upsell means offering a larger or better product.
+<end>
+
+<user> what is a territory
+<bot> territory means the area one seller is responsible for.
+<end>
+
+<user> what is a cold call
+<bot> cold call means phoning someone who is not expecting it.
+<end>
+
+<user> what is a sample
+<bot> sample means a small piece of a product given to try.
+<end>
+
+<user> what is a trial
+<bot> trial means a short free use before buying.
+<end>
+
+<user> what is a subscription
+<bot> subscription means paying regularly to keep receiving a service.
+<end>
+
+<user> what is a renewal
+<bot> renewal means agreeing to continue a contract.
+<end>
+
+<user> what is churn
+<bot> churn means customers leaving during a period.
+<end>
+
+<user> what is loyalty
+<bot> loyalty means a customer who keeps buying from one company.
+<end>
+
+<user> what is a coupon
+<bot> coupon means a paper or code that lowers the price.
+<end>
+
+<user> what is a rebate
+<bot> rebate means money returned after a purchase.
+<end>
+
+<user> what is a markup
+<bot> markup means the amount added to cost to make the price.
+<end>
+
+<user> what is a factory
+<bot> factory means the building where products are made.
+<end>
+
+<user> what is assembly
+<bot> assembly means putting parts together into a product.
+<end>
+
+<user> what is a defect
+<bot> defect means a fault in a product.
+<end>
+
+<user> what is scrap
+<bot> scrap means material thrown away because it cannot be used.
+<end>
+
+<user> what is maintenance
+<bot> maintenance means work that keeps machines running.
+<end>
+
+<user> what is downtime
+<bot> downtime means time when a machine or system is stopped.
+<end>
+
+<user> what is capacity
+<bot> capacity means how much a factory can make in a period.
+<end>
+
+<user> what is throughput
+<bot> throughput means how many items pass through a process.
+<end>
+
+<user> what is safety
+<bot> safety means protecting people from harm at work.
+<end>
+
+<user> what is equipment
+<bot> equipment means the tools and machines used for the work.
+<end>
+
+<user> what is calibration
+<bot> calibration means setting a tool so its measure is correct.
+<end>
+
+<user> what is an inspection
+<bot> inspection means a careful check for faults.
+<end>
+
+<user> what is a batch
+<bot> batch means one group of items made at the same time.
+<end>
+
+<user> what is yield
+<bot> yield means the share of items that pass inspection.
+<end>
+
+<user> what is packaging
+<bot> packaging means the box or wrap around a product.
+<end>
+
+<user> what is a label
+<bot> label means the printed name and facts on a product.
+<end>
+
+<user> what is a barcode
+<bot> barcode means the striped code a scanner reads.
+<end>
+
+<user> what is a pallet
+<bot> pallet means a wooden base used to move stacked goods.
+<end>
+
+<user> what is a forklift
+<bot> forklift means a small truck that lifts heavy pallets.
+<end>
+
+<user> what is a shortage
+<bot> shortage means having fewer goods than needed.
+<end>
+
+<user> what is a password
+<bot> password means the secret word that opens an account.
+<end>
+
+<user> what is a login
+<bot> login means entering a name and password to start work.
+<end>
+
+<user> what is software
+<bot> software means the programs a computer runs.
+<end>
+
+<user> what is hardware
+<bot> hardware means the physical parts of a computer.
+<end>
+
+<user> what is a database
+<bot> database means an organized store of business records.
+<end>
+
+<user> what is a backup
+<bot> backup means a spare copy kept in case files are lost.
+<end>
+
+<user> what is a printer
+<bot> printer means a machine that puts documents on paper.
+<end>
+
+<user> what is a spreadsheet
+<bot> spreadsheet means a grid used to calculate numbers.
+<end>
+
+<user> what is a calendar
+<bot> calendar means the schedule of days and meetings.
+<end>
+
+<user> what is a laptop
+<bot> laptop means a computer you can carry.
+<end>
+
+<user> what is a monitor
+<bot> monitor means the screen that shows the computer work.
+<end>
+
+<user> what is a network
+<bot> network means computers linked so they can share files.
+<end>
+
+<user> what is a firewall
+<bot> firewall means a barrier that blocks unwanted computer traffic.
+<end>
+
+<user> what is an outage
+<bot> outage means a time when a system is not available.
+<end>
+
+<user> what is a ticket
+<bot> ticket means a recorded request for help with a problem.
+<end>
+
+<user> what is a helpdesk
+<bot> helpdesk means the team that answers work computer problems.
+<end>
+
+<user> what is a username
+<bot> username means the name that identifies a person on a system.
+<end>
+
+<user> what is a folder
+<bot> folder means a place that holds a group of files.
+<end>
+
+<user> what is an archive
+<bot> archive means old records kept for later lookup.
+<end>
+
+<user> what is a vision
+<bot> vision means the future the company wants to reach.
+<end>
+
+<user> what is a mission
+<bot> mission means the main purpose of the company.
+<end>
+
+<user> what is culture
+<bot> culture means the shared habits of how people work together.
+<end>
+
+<user> what is delegation
+<bot> delegation means giving a task to someone else to complete.
+<end>
+
+<user> what is an initiative
+<bot> initiative means a new effort started to reach a goal.
+<end>
+
+<user> what is a roadmap
+<bot> roadmap means the planned steps over the coming months.
+<end>
+
+<user> what is alignment
+<bot> alignment means teams working toward the same goal.
+<end>
+
+<user> what is a bottleneck
+<bot> bottleneck means the slow step that holds up the rest.
+<end>
+
+<user> what is a benchmark
+<bot> benchmark means a standard used to compare results.
+<end>
+
+<user> what is a workshop
+<bot> workshop means a working meeting to build a skill or a plan.
+<end>
+
+<user> what is an offsite
+<bot> offsite means a meeting held away from the usual office.
+<end>
+
+<user> what is coaching
+<bot> coaching means regular guidance to improve someone work.
+<end>
+
+<user> what is morale
+<bot> morale means how willing and hopeful the staff feel.
+<end>
+
+<user> what is an incentive
+<bot> incentive means a reward meant to encourage better work.
+<end>
+
+<user> what is recognition
+<bot> recognition means publicly thanking someone for good work.
+<end>
+
+<user> what is a conflict
+<bot> conflict means a serious disagreement between people at work.
+<end>
+
+<user> what is consensus
+<bot> consensus means agreement reached by the whole group.
+<end>
+
+<user> what is a veto
+<bot> veto means a formal block on a decision.
+<end>
+
+<user> what is a quorum
+<bot> quorum means the minimum number of people needed to decide.
+<end>
+
+<user> what is a tariff
+<bot> tariff means a tax on goods that cross a border.
+<end>
+
+<user> what is customs
+<bot> customs means the office that checks goods entering a country.
+<end>
+
+<user> what is freight
+<bot> freight means goods carried by truck, ship, or plane.
+<end>
+
+<user> what is cargo
+<bot> cargo means the load carried on a shipment.
+<end>
+
+<user> what is a container
+<bot> container means a large metal box used to ship goods.
+<end>
+
+<user> what is a port
+<bot> port means the place where ships load and unload.
+<end>
+
+<user> what is a consignee
+<bot> consignee means the person who is meant to receive a shipment.
+<end>
+
+<user> what is an embargo
+<bot> embargo means an official ban on trade with a place.
+<end>
+
+<user> what is origin
+<bot> origin means the country where goods were made.
+<end>
+
+<user> what is a destination
+<bot> destination means the place goods are sent to.
+<end>
+
+<user> what is a courier
+<bot> courier means a service that carries small parcels quickly.
+<end>
+
+<user> what is tracking
+<bot> tracking means following where a parcel is on its route.
+<end>
+
+<user> what is insurance
+<bot> insurance means a contract that pays if goods are damaged.
+<end>
+
+<user> what is a claim
+<bot> claim means a request for payment after a loss.
+<end>
+
+<user> what is damage
+<bot> damage means harm done to goods on the way.
+<end>
+
+<user> what is a bill of lading
+<bot> bill of lading means the paper that lists cargo on a ship.
+<end>
+
+<user> what is an import duty
+<bot> import duty means a tax charged when goods enter a country.
+<end>
+
+<user> what is a prototype
+<bot> prototype means the first working model of a new product.
+<end>
+
+<user> what is a specification
+<bot> specification means the written details a product must meet.
+<end>
+
+<user> what is a tender
+<bot> tender means a formal bid to win a contract.
+<end>
+
+<user> what is a bid
+<bot> bid means the price a seller offers in a tender.
+<end>
+
+<user> what is a retainer
+<bot> retainer means a fee paid in advance to keep an expert available.
+<end>
+
+<user> what is escrow
+<bot> escrow means money held by a third party until a deal is done.
+<end>
+
+<user> what is a guarantor
+<bot> guarantor means a person who promises to pay if the borrower cannot.
+<end>
+
+<user> what is a lien
+<bot> lien means a legal claim on property until a debt is paid.
+<end>
+
+<user> what is a noncompete
+<bot> noncompete means a promise not to work for a rival for a time.
+<end>
+
+<user> what is a background check
+<bot> background check means a review of a candidate past before hiring.
+<end>
+
+<user> what is an offer letter
+<bot> offer letter means the written job offer sent to a candidate.
+<end>
+
+<user> what is a counteroffer
+<bot> counteroffer means a reply that changes the price or the terms.
+<end>
+
+<user> what is break even
+<bot> break even means the point where income equals costs.
+<end>
+
+<user> what is a sunk cost
+<bot> sunk cost means money already spent that cannot be recovered.
+<end>
+
+<user> what is opportunity cost
+<bot> opportunity cost means the value of the option you did not choose.
+<end>
+
+<user> what is petty cash
+<bot> petty cash means a small cash box for minor office spending.
+<end>
+
+<user> what is a purchase order
+<bot> purchase order means a buyer document that authorizes a purchase.
+<end>
+
+<user> what is a goods receipt
+<bot> goods receipt means the record that ordered items have arrived.
 <end>

@@ -10,7 +10,7 @@ tags:
 
 # Mini
 
-A small English chatbot trained from scratch. It is a decoder-only transformer with 6 layers, 4 attention heads, an embedding size of 192, and a context window of 512 tokens. The vocabulary is 983 words, including a business English word list. The chat keeps the last four turns. It answers short questions it has seen in its training dialogues. It is not a general-purpose assistant.
+A small English chatbot trained from scratch. It is a decoder-only transformer with 6 layers, 4 attention heads, an embedding size of 192, and a context window of 512 tokens. The vocabulary is 1404 words, including a business English word list. The chat keeps the last four turns. It answers short questions it has seen in its training dialogues. It is not a general-purpose assistant.
 
 ## Load
 

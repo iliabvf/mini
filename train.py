@@ -100,8 +100,8 @@ CONVERSATIONS = [
 def drill_texts(dialogues, business):
     """One exact reply per question, plus each step of a longer chat.
 
-    A drill is repeated until it fills the context window, so a salary
-    line is not mixed with the wage line that sits next to it in the file.
+    Each window holds many different replies, so a salary line is not
+    copied over and over beside the wage line.
     """
     seen = set()
     texts = []
@@ -111,7 +111,13 @@ def drill_texts(dialogues, business):
             seen.add(text)
             texts.append(text)
 
-    focus = {"what is a meeting", "what is a resignation", "let us agree"}
+    focus = {
+        "what is a meeting",
+        "what is a resignation",
+        "let us agree",
+        "what is an appointment",
+        "what is an executive",
+    }
     for user, bot in parse_pairs(dialogues) + parse_pairs(business):
         text = f"<user> {user} <bot> {bot} <end>"
         add(text)
