@@ -25,12 +25,15 @@
     main {
       height: 100%;
       display: grid;
+      grid-template-rows: auto minmax(220px, 1fr);
+    }
+    body.debug main {
       grid-template-rows: minmax(0, 1.2fr) minmax(220px, 0.8fr);
     }
     #stage {
       min-height: 0;
       display: grid;
-      grid-template-rows: auto 248px minmax(0, 1fr);
+      grid-template-rows: auto 248px;
       border-bottom: 1px solid var(--line);
       background:
         radial-gradient(circle at 20% 0%, rgba(226, 160, 26, 0.16), transparent 42%),
@@ -58,6 +61,12 @@
     }
     #model-graph { width: 100%; height: 100%; display: block; }
     #stage.show-words {
+      grid-template-rows: auto 248px 168px;
+    }
+    body.debug #stage {
+      grid-template-rows: auto 248px minmax(0, 1fr);
+    }
+    body.debug #stage.show-words {
       grid-template-rows: auto 248px 168px minmax(0, 1fr);
     }
     #vocab {
@@ -108,9 +117,9 @@
     .word.norm { border-color: var(--muted); }
     .word.output { border-color: var(--ink); }
     #sky {
+      display: none;
       min-height: 0;
       overflow: auto;
-      display: flex;
       flex-direction: column;
       gap: 8px;
       padding: 8px 22px 16px;
@@ -188,10 +197,16 @@
       padding: 0 18px;
       cursor: pointer;
     }
+    body.debug #sky { display: flex; flex-direction: column; }
     button.quiet {
       background: transparent;
       color: var(--ink);
       border: 1px solid var(--line);
+    }
+    button.quiet.on {
+      background: var(--ink);
+      color: var(--paper);
+      border-color: var(--ink);
     }
     button:disabled { opacity: 0.45; cursor: default; }
   </style>
@@ -216,6 +231,7 @@
       <div id="log"></div>
       <form id="form">
         <input id="box" autocomplete="off" placeholder="Say hello" autofocus>
+        <button id="debug" class="quiet" type="button" aria-pressed="false">Debug</button>
         <button id="reset" class="quiet" type="button">Reset</button>
         <button id="send" type="submit">Send</button>
       </form>
@@ -624,6 +640,15 @@
         statusEl.textContent = error.message;
         setBusy(false);
       }
+    });
+
+    const debugButton = document.getElementById("debug");
+    debugButton.addEventListener("click", () => {
+      const on = !document.body.classList.contains("debug");
+      document.body.classList.toggle("debug", on);
+      debugButton.classList.toggle("on", on);
+      debugButton.setAttribute("aria-pressed", on ? "true" : "false");
+      if (on) sky.scrollTop = sky.scrollHeight;
     });
 
     reset.addEventListener("click", () => {
