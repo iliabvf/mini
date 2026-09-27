@@ -111,6 +111,11 @@ def drill_texts(dialogues, business):
             seen.add(text)
             texts.append(text)
 
+    prefix_path = DATA_DIR / "prefix_focus.txt"
+    prefix_focus = set()
+    if prefix_path.is_file():
+        prefix_focus = {line.strip() for line in prefix_path.read_text(encoding="utf-8").splitlines() if line.strip()}
+
     focus = {
         "what is a meeting",
         "what is a resignation",
@@ -136,6 +141,8 @@ def drill_texts(dialogues, business):
         add(text)
         if user in focus:
             texts.extend([text] * 11)
+        elif user in prefix_focus:
+            texts.extend([text] * 4)
     for convo in CONVERSATIONS:
         parts = []
         for user, bot in convo:

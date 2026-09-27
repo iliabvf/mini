@@ -231,7 +231,7 @@
 <end>
 
 <user> what is a quote
-<bot> quote means the price a seller offers for a job.
+<bot> quote means for quote, the price a seller offers for a job.
 <end>
 
 <user> what is an invoice
@@ -582,12 +582,12 @@
 <bot> kpi means a number that shows whether a goal was met.
 <end>
 
-<user> what is profit margin
-<bot> profit margin means the share of the price that is profit.
+<user> what is a detail margin of profit
+<bot> detail margin of profit means the share of the price that is profit.
 <end>
 
-<user> what is cash flow
-<bot> cash flow means the money moving in and out of a business.
+<user> what is a flow of cash
+<bot> flow of cash means the money moving in and out of a business.
 <end>
 
 <user> what is a balance sheet
@@ -610,8 +610,8 @@
 <bot> logistics means planning how goods are stored and moved.
 <end>
 
-<user> what is a deadline extension
-<bot> deadline extension means extra time allowed to finish a task.
+<user> what is an extension of deadline
+<bot> extension of deadline means extra time allowed to finish a task.
 <end>
 
 <user> what is a follow up
@@ -658,8 +658,8 @@
 <bot> complaint means a customer report that something is wrong.
 <end>
 
-<user> what is customer service
-<bot> customer service means help given to people after they buy.
+<user> what is a detail service of customer
+<bot> detail service of customer means help given to people after they buy.
 <end>
 
 <user> what is a brochure
@@ -1386,12 +1386,12 @@
 <bot> headcount means how many people work in a group.
 <end>
 
-<user> what is a job description
-<bot> job description means a written list of duties for one role.
+<user> what is a description of job
+<bot> description of job means a written list of duties for one role.
 <end>
 
 <user> what is parental leave
-<bot> parental leave means time off to care for a new child.
+<bot> parental leave means for leave, time off to care for a new child.
 <end>
 
 <user> what is a slogan
@@ -1810,8 +1810,8 @@
 <bot> bill of lading means the paper that lists cargo on a ship.
 <end>
 
-<user> what is an import duty
-<bot> import duty means a tax charged when goods enter a country.
+<user> what is a detail duty of import
+<bot> detail duty of import means a tax charged when goods enter a country.
 <end>
 
 <user> what is a prototype
@@ -1854,8 +1854,8 @@
 <bot> background check means a review of a candidate past before hiring.
 <end>
 
-<user> what is an offer letter
-<bot> offer letter means the written job offer sent to a candidate.
+<user> what is a letter of offer
+<bot> letter of offer means the written job offer sent to a candidate.
 <end>
 
 <user> what is a counteroffer
@@ -1870,8 +1870,8 @@
 <bot> sunk cost means money already spent that cannot be recovered.
 <end>
 
-<user> what is opportunity cost
-<bot> opportunity cost means the value of the option you did not choose.
+<user> what is a detail cost of opportunity
+<bot> detail cost of opportunity means the value of the option you did not choose.
 <end>
 
 <user> what is petty cash
@@ -1898,8 +1898,8 @@
 <bot> chart of accounts means the numbered list of every account a company uses.
 <end>
 
-<user> what is a trial balance
-<bot> trial balance means a list that checks whether debits equal credits.
+<user> what is a balance of trial
+<bot> balance of trial means a list that checks whether debits equal credits.
 <end>
 
 <user> what is an accounts payable
@@ -1910,16 +1910,16 @@
 <bot> accounts receivable means the stack of bills customers still owe the company.
 <end>
 
-<user> what is cost of goods
-<bot> cost of goods means what it cost to make or buy the items that were sold.
+<user> what is a goods under cost
+<bot> goods under cost means what it cost to make or buy the items that were sold.
 <end>
 
-<user> what is gross profit
-<bot> gross profit means sales minus the cost of the goods sold.
+<user> what is a detail profit of gross
+<bot> detail profit of gross means sales minus the cost of the goods sold.
 <end>
 
-<user> what is net profit
-<bot> net profit means money left after every cost and tax is taken.
+<user> what is a detail profit of net
+<bot> detail profit of net means money left after every cost and tax is taken.
 <end>
 
 <user> what is operating income
@@ -1934,36 +1934,36 @@
 <bot> working capital means current assets minus the bills due soon.
 <end>
 
-<user> what is cash basis
-<bot> cash basis means recording money only when cash actually moves.
+<user> what is a basis of cash
+<bot> basis of cash means recording money only when cash actually moves.
 <end>
 
-<user> what is accrual basis
-<bot> accrual basis means recording a sale when it is earned, even before cash arrives.
+<user> what is a basis of accrual
+<bot> basis of accrual means recording a sale when it is earned, even before cash arrives.
 <end>
 
 <user> what is double entry
 <bot> double entry means writing each event once as a debit and once as a credit.
 <end>
 
-<user> what is a credit note
-<bot> credit note means a paper that reduces what a customer owes.
+<user> what is a note of credit
+<bot> note of credit means a paper that reduces what a customer owes.
 <end>
 
-<user> what is a debit note
-<bot> debit note means a paper that increases what a customer owes.
+<user> what is a note of debit
+<bot> note of debit means a paper that increases what a customer owes.
 <end>
 
-<user> what is a petty cash voucher
-<bot> petty cash voucher means a small slip that explains a minor cash spend.
+<user> what is a voucher of petty cash
+<bot> voucher of petty cash means a small slip that explains a minor cash spend.
 <end>
 
-<user> what is a bank reconciliation
-<bot> bank reconciliation means matching the company cash book to the bank list.
+<user> what is a reconciliation of bank
+<bot> reconciliation of bank means matching the company cash book to the bank list.
 <end>
 
-<user> what is a cash book
-<bot> cash book means the daily record of cash received and cash paid.
+<user> what is a book of cash
+<bot> book of cash means the daily record of cash received and cash paid.
 <end>
 
 <user> what is a purchase book
@@ -1971,7 +1971,7 @@
 <end>
 
 <user> what is a sales book
-<bot> sales book means the book that lists goods sold on credit.
+<bot> sales book means for book, the book that lists goods sold on credit.
 <end>
 
 <user> what is a suspense account
@@ -2066,8 +2066,8 @@
 <bot> share premium means money paid for a share above its face amount.
 <end>
 
-<user> what is a dividend yield
-<bot> dividend yield means the yearly dividend divided by the share price.
+<user> what is a yield of dividend
+<bot> yield of dividend means the yearly dividend divided by the share price.
 <end>
 
 <user> what is a payout ratio
@@ -2082,8 +2082,8 @@
 <bot> fair value means the price a willing buyer would pay today.
 <end>
 
-<user> what is market value
-<bot> market value means the price something would fetch if sold now.
+<user> what is a value of market
+<bot> value of market means the price something would fetch if sold now.
 <end>
 
 <user> what is a historical cost
@@ -2094,8 +2094,8 @@
 <bot> matching principle means putting a cost in the same period as the sale it helped.
 <end>
 
-<user> what is a revenue recognition
-<bot> revenue recognition means the rule for when a sale is counted as earned.
+<user> what is a recognition of revenue
+<bot> recognition of revenue means for recognition, the rule for when a sale is counted as earned.
 <end>
 
 <user> what is a going concern
@@ -2110,16 +2110,16 @@
 <bot> conservatism principle means choosing the more careful number when unsure.
 <end>
 
-<user> what is a cost center
-<bot> cost center means a part of the company that spends but does not sell.
+<user> what is a center of cost
+<bot> center of cost means a part of the company that spends but does not sell.
 <end>
 
-<user> what is a profit center
-<bot> profit center means a part of the company judged by the profit it makes.
+<user> what is a center of profit
+<bot> center of profit means for center, a part of the company judged by the profit it makes.
 <end>
 
-<user> what is a budget variance
-<bot> budget variance means the gap between the plan and the actual result.
+<user> what is a variance of budget
+<bot> variance of budget means the gap between the plan and the actual result.
 <end>
 
 <user> what is a favorable variance
@@ -2127,7 +2127,7 @@
 <end>
 
 <user> what is an unfavorable variance
-<bot> unfavorable variance means a gap where the result is worse than the plan.
+<bot> unfavorable variance means for variance, a gap where the result is worse than the plan.
 <end>
 
 <user> what is a flexible budget
@@ -2146,12 +2146,12 @@
 <bot> rolling forecast means a prediction that adds a new month as each month ends.
 <end>
 
-<user> what is a cash budget
-<bot> cash budget means a plan of cash coming in and cash going out.
+<user> what is a detail budget of cash
+<bot> detail budget of cash means a plan of cash coming in and cash going out.
 <end>
 
-<user> what is a capital budget
-<bot> capital budget means a plan for spending on long lived assets.
+<user> what is a detail budget of capital
+<bot> detail budget of capital means a plan for spending on long lived assets.
 <end>
 
 <user> what is an operating budget
@@ -2166,8 +2166,8 @@
 <bot> contribution margin means the sale price minus the variable cost of one item.
 <end>
 
-<user> what is a margin of safety
-<bot> margin of safety means how far sales can fall before profit disappears.
+<user> what is a safety under margin
+<bot> safety under margin means how far sales can fall before profit disappears.
 <end>
 
 <user> what is an operating leverage
@@ -2190,8 +2190,8 @@
 <bot> prime cost means direct material plus the pay of the people who make the item.
 <end>
 
-<user> what is a conversion cost
-<bot> conversion cost means labor and factory overhead used to turn material into a product.
+<user> what is a detail cost of conversion
+<bot> detail cost of conversion means labor and factory overhead used to turn material into a product.
 <end>
 
 <user> what is fixed cost
@@ -2238,8 +2238,8 @@
 <bot> variable costing means putting only variable factory costs into the product.
 <end>
 
-<user> what is a job costing
-<bot> job costing means tracking cost for one custom piece of work.
+<user> what is a costing of job
+<bot> costing of job means tracking cost for one custom piece of work.
 <end>
 
 <user> what is a process costing
@@ -2250,16 +2250,16 @@
 <bot> activity based costing means splitting overhead by the activities that cause it.
 <end>
 
-<user> what is overhead rate
-<bot> overhead rate means the amount of overhead added for each unit of activity.
+<user> what is a rate of overhead
+<bot> rate of overhead means the amount of overhead added for each unit of activity.
 <end>
 
-<user> what is a cost allocation
-<bot> cost allocation means splitting a shared cost across departments.
+<user> what is an allocation of cost
+<bot> allocation of cost means splitting a shared cost across departments.
 <end>
 
-<user> what is a cost apportionment
-<bot> cost apportionment means dividing a common cost using a fair base.
+<user> what is an apportionment of cost
+<bot> apportionment of cost means dividing a common cost using a fair base.
 <end>
 
 <user> what is a relevant cost
@@ -2267,7 +2267,7 @@
 <end>
 
 <user> what is an irrelevant cost
-<bot> irrelevant cost means a cost that stays the same no matter which choice you pick.
+<bot> irrelevant cost means for cost, a cost that stays the same no matter which choice you pick.
 <end>
 
 <user> what is a controllable cost
@@ -2314,8 +2314,8 @@
 <bot> obsolete stock means items nobody will buy anymore.
 <end>
 
-<user> what is safety stock
-<bot> safety stock means extra units kept so a delay does not stop sales.
+<user> what is a stock of safety
+<bot> stock of safety means extra units kept so a delay does not stop sales.
 <end>
 
 <user> what is a reorder point
@@ -2338,16 +2338,16 @@
 <bot> list price means the printed price before any reduction.
 <end>
 
-<user> what is a net price
-<bot> net price means the price after reductions are taken off.
+<user> what is a detail price of net
+<bot> detail price of net means the price after reductions are taken off.
 <end>
 
 <user> what is a trade discount
 <bot> trade discount means a reduction given to a business buyer.
 <end>
 
-<user> what is a cash discount
-<bot> cash discount means a reduction for paying before the due day.
+<user> what is a detail discount of cash
+<bot> detail discount of cash means a reduction for paying before the due day.
 <end>
 
 <user> what is a quantity discount
@@ -2358,8 +2358,8 @@
 <bot> seasonal discount means a reduction offered in a slow season.
 <end>
 
-<user> what is an early payment discount
-<bot> early payment discount means a reduction for paying well before the due day.
+<user> what is a detail discount of early payment
+<bot> detail discount of early payment means a reduction for paying well before the due day.
 <end>
 
 <user> what is a late payment fee
@@ -2370,12 +2370,12 @@
 <bot> finance charge means the cost of paying a bill over time.
 <end>
 
-<user> what is an interest expense
-<bot> interest expense means the cost of borrowed money for the period.
+<user> what is a detail expense of interest
+<bot> detail expense of interest means the cost of borrowed money for the period.
 <end>
 
-<user> what is an interest income
-<bot> interest income means money earned from cash you lent or deposited.
+<user> what is an income of interest
+<bot> income of interest means money earned from cash you lent or deposited.
 <end>
 
 <user> what is sales tax
@@ -2390,8 +2390,8 @@
 <bot> corporate tax means tax on the profit of a company.
 <end>
 
-<user> what is payroll tax
-<bot> payroll tax means tax tied to wages the company pays.
+<user> what is a detail tax of payroll
+<bot> detail tax of payroll means tax tied to wages the company pays.
 <end>
 
 <user> what is a property tax
@@ -2406,16 +2406,16 @@
 <bot> taxable income means the profit amount on which tax is calculated.
 <end>
 
-<user> what is a tax credit
-<bot> tax credit means an amount that reduces the tax bill directly.
+<user> what is a detail credit of tax
+<bot> detail credit of tax means an amount that reduces the tax bill directly.
 <end>
 
-<user> what is a tax deduction
-<bot> tax deduction means an amount that reduces the profit subject to tax.
+<user> what is a detail deduction of tax
+<bot> detail deduction of tax means for deduction, an amount that reduces the profit subject to tax.
 <end>
 
-<user> what is a tax return
-<bot> tax return means the form that reports income and tax for a year.
+<user> what is a return of tax
+<bot> return of tax means the form that reports income and tax for a year.
 <end>
 
 <user> what is a deferred tax
@@ -2430,16 +2430,16 @@
 <bot> annual report means the full financial report for a whole year.
 <end>
 
-<user> what is an income statement
-<bot> income statement means the report of sales, costs, and profit for a period.
+<user> what is a detail statement of income
+<bot> detail statement of income means the report of sales, costs, and profit for a period.
 <end>
 
-<user> what is a cash flow statement
-<bot> cash flow statement means the report of cash from operations, investing, and financing.
+<user> what is a detail statement of cash flow
+<bot> detail statement of cash flow means the report of cash from operations, investing, and financing.
 <end>
 
-<user> what is a statement of equity
-<bot> statement of equity means the report of how owner value changed in the period.
+<user> what is an equity under statement
+<bot> equity under statement means the report of how owner value changed in the period.
 <end>
 
 <user> what is a notes to accounts
@@ -2451,11 +2451,11 @@
 <end>
 
 <user> what is an unqualified opinion
-<bot> unqualified opinion means an auditor view that the accounts are fair.
+<bot> unqualified opinion means for opinion, an auditor view that the accounts are fair.
 <end>
 
 <user> what is a qualified opinion
-<bot> qualified opinion means an auditor view that the accounts are fair except for one issue.
+<bot> qualified opinion means for opinion, an auditor view that the accounts are fair except for one issue.
 <end>
 
 <user> what is an adverse opinion
@@ -2478,20 +2478,20 @@
 <bot> outstanding check means a check written that the bank has not paid yet.
 <end>
 
-<user> what is a deposit in transit
-<bot> deposit in transit means cash sent to the bank that is not on the statement yet.
+<user> what is an in transit of deposit
+<bot> in transit of deposit means cash sent to the bank that is not on the statement yet.
 <end>
 
-<user> what is a bank charge
-<bot> bank charge means a fee the bank takes from the account.
+<user> what is a charge of bank
+<bot> charge of bank means a fee the bank takes from the account.
 <end>
 
 <user> what is a stop payment
 <bot> stop payment means an order telling the bank not to pay a check.
 <end>
 
-<user> what is a wire transfer
-<bot> wire transfer means moving money straight from one bank to another bank.
+<user> what is a transfer of wire
+<bot> transfer of wire means moving money straight from one bank to another bank.
 <end>
 
 <user> what is a direct debit
@@ -2502,16 +2502,16 @@
 <bot> standing order means an instruction for the bank to pay the same amount on a set day.
 <end>
 
-<user> what is a remittance advice
-<bot> remittance advice means a note that says which bills a payment covers.
+<user> what is an advice of remittance
+<bot> advice of remittance means a note that says which bills a payment covers.
 <end>
 
-<user> what is a credit limit
-<bot> credit limit means the most a customer is allowed to owe.
+<user> what is a limit of credit
+<bot> limit of credit means the most a customer is allowed to owe.
 <end>
 
-<user> what is a credit term
-<bot> credit term means the number of days a customer may wait before paying.
+<user> what is a term of credit
+<bot> term of credit means the number of days a customer may wait before paying.
 <end>
 
 <user> what is a due on receipt
@@ -2530,8 +2530,8 @@
 <bot> packing list means the paper that lists what is inside a shipment.
 <end>
 
-<user> what is delivery note
-<bot> delivery note means the paper a driver leaves to show what was delivered.
+<user> what is a note of delivery
+<bot> note of delivery means the paper a driver leaves to show what was delivered.
 <end>
 
 <user> what is purchase requisition
@@ -2539,19 +2539,19 @@
 <end>
 
 <user> what is request for quote
-<bot> request for quote means an ask sent to sellers for their price.
+<bot> request for quote means for quote, an ask sent to sellers for their price.
 <end>
 
 <user> what is request for proposal
 <bot> request for proposal means an ask sent to sellers for a full offer and plan.
 <end>
 
-<user> what is a bid bond
-<bot> bid bond means a guarantee that a bidder will stand by the offered price.
+<user> what is a bond of bid
+<bot> bond of bid means a guarantee that a bidder will stand by the offered price.
 <end>
 
-<user> what is a performance bond
-<bot> performance bond means a guarantee that the winner will finish the work.
+<user> what is a bond of performance
+<bot> bond of performance means a guarantee that the winner will finish the work.
 <end>
 
 <user> what is a retention money
@@ -2562,8 +2562,8 @@
 <bot> progress billing means bills sent as stages of a long job are finished.
 <end>
 
-<user> what is a milestone billing
-<bot> milestone billing means a bill sent when a named stage is done.
+<user> what is a billing of milestone
+<bot> billing of milestone means a bill sent when a named stage is done.
 <end>
 
 <user> what is a time and materials
@@ -2574,8 +2574,8 @@
 <bot> fixed price contract means a deal where the price stays the same even if costs rise.
 <end>
 
-<user> what is a cost plus contract
-<bot> cost plus contract means a deal that pays costs plus an agreed extra amount.
+<user> what is a plus contract of cost
+<bot> plus contract of cost means a deal that pays costs plus an agreed extra amount.
 <end>
 
 <user> what is a lump sum contract
@@ -2610,12 +2610,12 @@
 <bot> face value means the amount printed on a bond or a bill.
 <end>
 
-<user> what is a coupon rate
-<bot> coupon rate means the stated interest rate printed on a bond.
+<user> what is a rate of coupon
+<bot> rate of coupon means the stated interest rate printed on a bond.
 <end>
 
-<user> what is a yield to maturity
-<bot> yield to maturity means the return if a bond is held until it is paid off.
+<user> what is a to maturity of yield
+<bot> to maturity of yield means the return if a bond is held until it is paid off.
 <end>
 
 <user> what is a bond discount
@@ -2654,8 +2654,8 @@
 <bot> line of credit means a prearranged limit you can borrow up to.
 <end>
 
-<user> what is a bridge loan
-<bot> bridge loan means short borrowing that covers a gap until longer money arrives.
+<user> what is a detail loan of bridge
+<bot> detail loan of bridge means short borrowing that covers a gap until longer money arrives.
 <end>
 
 <user> what is a balloon payment
@@ -2678,8 +2678,8 @@
 <bot> covenant means a promise in a loan about what the borrower will or will not do.
 <end>
 
-<user> what is a collateral pledge
-<bot> collateral pledge means setting property aside so a lender can claim it.
+<user> what is a pledge of collateral
+<bot> pledge of collateral means setting property aside so a lender can claim it.
 <end>
 
 <user> what is a personal guarantee
@@ -2718,32 +2718,32 @@
 <bot> proxy vote means a vote cast by someone else on your behalf.
 <end>
 
-<user> what is a quorum call
-<bot> quorum call means checking that enough people are present to decide.
+<user> what is a call of quorum
+<bot> call of quorum means checking that enough people are present to decide.
 <end>
 
 <user> what is an annual meeting
 <bot> annual meeting means the yearly meeting of owners.
 <end>
 
-<user> what is a board meeting
-<bot> board meeting means a meeting of the directors.
+<user> what is a detail meeting of board
+<bot> detail meeting of board means a meeting of the directors.
 <end>
 
-<user> what is a board pack
-<bot> board pack means the papers directors read before they meet.
+<user> what is a pack of board
+<bot> pack of board means the papers directors read before they meet.
 <end>
 
-<user> what is a board minute
-<bot> board minute means the written record of what the directors decided.
+<user> what is a minute of board
+<bot> minute of board means the written record of what the directors decided.
 <end>
 
 <user> what is a chairperson
 <bot> chairperson means the person who runs a meeting.
 <end>
 
-<user> what is a company secretary
-<bot> company secretary means the officer who keeps records and filings in order.
+<user> what is a secretary of company
+<bot> secretary of company means the officer who keeps records and filings in order.
 <end>
 
 <user> what is a registered office
@@ -2774,16 +2774,16 @@
 <bot> share certificate means the paper that shows you own certain shares.
 <end>
 
-<user> what is a stock split
-<bot> stock split means dividing each share into more shares of a smaller face amount.
+<user> what is a split of stock
+<bot> split of stock means dividing each share into more shares of a smaller face amount.
 <end>
 
 <user> what is a rights issue
 <bot> rights issue means an offer of new shares first to existing owners.
 <end>
 
-<user> what is a bonus issue
-<bot> bonus issue means new shares given to owners without asking them for cash.
+<user> what is a detail issue of bonus
+<bot> detail issue of bonus means new shares given to owners without asking them for cash.
 <end>
 
 <user> what is a share buyback
@@ -2802,8 +2802,8 @@
 <bot> arm length deal means a deal made as if the two sides were strangers.
 <end>
 
-<user> what is a conflict of interest
-<bot> conflict of interest means a personal stake that could sway a work decision.
+<user> what is an interest under conflict
+<bot> interest under conflict means a personal stake that could sway a work decision.
 <end>
 
 <user> what is a disclosure
@@ -2834,8 +2834,8 @@
 <bot> earnout means extra price paid later if the bought company hits a target.
 <end>
 
-<user> what is an indemnity clause
-<bot> indemnity clause means a contract line that makes one side cover a stated loss.
+<user> what is a detail clause of indemnity
+<bot> detail clause of indemnity means a contract line that makes one side cover a stated loss.
 <end>
 
 <user> what is a limitation of liability
@@ -2863,27 +2863,27 @@
 <end>
 
 <user> what is a termination clause
-<bot> termination clause means a line that says how a contract can be ended.
+<bot> termination clause means for clause, a line that says how a contract can be ended.
 <end>
 
-<user> what is a renewal clause
-<bot> renewal clause means a line that says how a contract continues for another term.
+<user> what is a detail clause of renewal
+<bot> detail clause of renewal means a line that says how a contract continues for another term.
 <end>
 
-<user> what is a notice period clause
-<bot> notice period clause means a line that says how many days warning is required.
+<user> what is a period clause of notice
+<bot> period clause of notice means for clause, a line that says how many days warning is required.
 <end>
 
-<user> what is a confidentiality clause
-<bot> confidentiality clause means a line that forbids sharing private facts.
+<user> what is a detail clause of confidentiality
+<bot> detail clause of confidentiality means a line that forbids sharing private facts.
 <end>
 
 <user> what is a non solicit clause
 <bot> non solicit clause means a line that forbids hiring the other side staff.
 <end>
 
-<user> what is a warranty clause
-<bot> warranty clause means a contract promise that a stated fact is true.
+<user> what is a detail clause of warranty
+<bot> detail clause of warranty means a contract promise that a stated fact is true.
 <end>
 
 <user> what is a representation
@@ -2902,8 +2902,8 @@
 <bot> liquidated damages means a sum agreed in advance as the pay for a breach.
 <end>
 
-<user> what is a penalty clause
-<bot> penalty clause means a punishment sum that a court may refuse to enforce.
+<user> what is a detail clause of penalty
+<bot> detail clause of penalty means a punishment sum that a court may refuse to enforce.
 <end>
 
 <user> what is a specific performance
@@ -2918,12 +2918,12 @@
 <bot> cease and desist means a letter demanding that a stated act stop.
 <end>
 
-<user> what is a demand letter
-<bot> demand letter means a formal letter insisting on a payment or an action.
+<user> what is a letter of demand
+<bot> letter of demand means a formal letter insisting on a payment or an action.
 <end>
 
-<user> what is a statute of limitations
-<bot> statute of limitations means the last day you may start a legal claim.
+<user> what is a limitations under statute
+<bot> limitations under statute means the last day you may start a legal claim.
 <end>
 
 <user> what is a burden of proof
@@ -2938,8 +2938,8 @@
 <bot> witness statement means a written account from a person who saw the facts.
 <end>
 
-<user> what is a settlement offer
-<bot> settlement offer means a proposal to end a dispute for a stated sum.
+<user> what is a detail offer of settlement
+<bot> detail offer of settlement means a proposal to end a dispute for a stated sum.
 <end>
 
 <user> what is a release of claims
@@ -2954,16 +2954,16 @@
 <bot> mediation means a guided talk aimed at a voluntary settlement.
 <end>
 
-<user> what is a mediation clause
-<bot> mediation clause means a contract line that requires mediation before court.
+<user> what is a detail clause of mediation
+<bot> detail clause of mediation means a contract line that requires mediation before court.
 <end>
 
 <user> what is a venue clause
 <bot> venue clause means a line that picks the place where a dispute will be heard.
 <end>
 
-<user> what is a service of process
-<bot> service of process means the formal delivery of court papers to a person.
+<user> what is a process under service
+<bot> process under service means the formal delivery of court papers to a person.
 <end>
 
 <user> what is a default judgment
@@ -2982,28 +2982,28 @@
 <bot> trade secret means a business fact kept private because it gives an edge.
 <end>
 
-<user> what is a patent application
-<bot> patent application means the papers filed to ask for protection of an invention.
+<user> what is an application of patent
+<bot> application of patent means the papers filed to ask for protection of an invention.
 <end>
 
-<user> what is a trademark search
-<bot> trademark search means a check that a name is not already protected.
+<user> what is a search of trademark
+<bot> search of trademark means a check that a name is not already protected.
 <end>
 
-<user> what is a copyright notice
-<bot> copyright notice means a line that claims rights in a written or drawn work.
+<user> what is a notice of copyright
+<bot> notice of copyright means a line that claims rights in a written or drawn work.
 <end>
 
-<user> what is a license agreement
-<bot> license agreement means a contract that lets someone use a right for a fee.
+<user> what is a detail agreement of license
+<bot> detail agreement of license means for agreement, a contract that lets someone use a right for a fee.
 <end>
 
-<user> what is a franchise agreement
-<bot> franchise agreement means a contract that lets someone run a branch of a brand.
+<user> what is a detail agreement of franchise
+<bot> detail agreement of franchise means for agreement, a contract that lets someone run a branch of a brand.
 <end>
 
 <user> what is a distribution agreement
-<bot> distribution agreement means a contract that lets someone sell your goods in an area.
+<bot> distribution agreement means for agreement, a contract that lets someone sell your goods in an area.
 <end>
 
 <user> what is an agency agreement
@@ -3014,48 +3014,48 @@
 <bot> employment contract means the written terms of a job.
 <end>
 
-<user> what is an offer of employment
-<bot> offer of employment means the letter that proposes a job and its terms.
+<user> what is an employment under offer
+<bot> employment under offer means the letter that proposes a job and its terms.
 <end>
 
 <user> what is an acceptance of offer
 <bot> acceptance of offer means the candidate written yes to a job offer.
 <end>
 
-<user> what is a probation review
-<bot> probation review means a check near the end of the first months of a job.
+<user> what is a review of probation
+<bot> review of probation means a check near the end of the first months of a job.
 <end>
 
 <user> what is a confirmation of employment
 <bot> confirmation of employment means the notice that a new hire has passed the first months.
 <end>
 
-<user> what is a job offer withdrawal
-<bot> job offer withdrawal means taking back a job offer before the person starts.
+<user> what is a detail offer withdrawal of job
+<bot> detail offer withdrawal of job means taking back a job offer before the person starts.
 <end>
 
 <user> what is a background screening
 <bot> background screening means checking a candidate history before hiring.
 <end>
 
-<user> what is a reference check
-<bot> reference check means calling a past employer about a candidate.
+<user> what is a check of reference
+<bot> check of reference means calling a past employer about a candidate.
 <end>
 
-<user> what is an interview scorecard
-<bot> interview scorecard means a form that rates a candidate on the same points.
+<user> what is a scorecard of interview
+<bot> scorecard of interview means a form that rates a candidate on the same points.
 <end>
 
-<user> what is a hiring panel
-<bot> hiring panel means the group of people who interview one candidate.
+<user> what is a panel of hiring
+<bot> panel of hiring means for panel, the group of people who interview one candidate.
 <end>
 
-<user> what is a job requisition
-<bot> job requisition means an internal request to open a role.
+<user> what is a requisition of job
+<bot> requisition of job means an internal request to open a role.
 <end>
 
-<user> what is a job posting
-<bot> job posting means the public notice that a role is open.
+<user> what is a posting of job
+<bot> posting of job means the public notice that a role is open.
 <end>
 
 <user> what is an applicant
@@ -3066,8 +3066,8 @@
 <bot> shortlist means the small set of applicants invited to interview.
 <end>
 
-<user> what is an offer deadline
-<bot> offer deadline means the last day a candidate may accept a job offer.
+<user> what is a detail deadline of offer
+<bot> detail deadline of offer means the last day a candidate may accept a job offer.
 <end>
 
 <user> what is a counter offer letter
@@ -3082,32 +3082,32 @@
 <bot> relocation allowance means money to help a new hire move to the job city.
 <end>
 
-<user> what is an onboarding plan
-<bot> onboarding plan means the schedule of tasks for a new hire first weeks.
+<user> what is a detail plan of onboarding
+<bot> detail plan of onboarding means the schedule of tasks for a new hire first weeks.
 <end>
 
 <user> what is a buddy assignment
 <bot> buddy assignment means naming a coworker to help a new hire settle.
 <end>
 
-<user> what is an employee handbook
-<bot> employee handbook means the book of workplace rules given to staff.
+<user> what is a detail handbook of employee
+<bot> detail handbook of employee means for handbook, the book of workplace rules given to staff.
 <end>
 
 <user> what is a code of conduct
 <bot> code of conduct means the written standard of how staff must behave.
 <end>
 
-<user> what is a conflict policy
-<bot> conflict policy means the rule for reporting a personal stake in a decision.
+<user> what is a detail policy of conflict
+<bot> detail policy of conflict means the rule for reporting a personal stake in a decision.
 <end>
 
 <user> what is a whistleblower
 <bot> whistleblower means a person who reports serious wrongdoing inside the company.
 <end>
 
-<user> what is a grievance procedure
-<bot> grievance procedure means the steps an employee follows to raise a formal complaint.
+<user> what is a detail procedure of grievance
+<bot> detail procedure of grievance means the steps an employee follows to raise a formal complaint.
 <end>
 
 <user> what is a disciplinary action
@@ -3130,8 +3130,8 @@
 <bot> suspension means a period when a person must stay away from work.
 <end>
 
-<user> what is a gross misconduct
-<bot> gross misconduct means a serious break of rules that can end a job at once.
+<user> what is a misconduct of gross
+<bot> misconduct of gross means a serious break of rules that can end a job at once.
 <end>
 
 <user> what is a termination letter
@@ -3146,20 +3146,20 @@
 <bot> garden leave means paid time at home during a notice period.
 <end>
 
-<user> what is a notice pay
-<bot> notice pay means pay given for the warning period when a job ends.
+<user> what is a pay of notice
+<bot> pay of notice means pay given for the warning period when a job ends.
 <end>
 
 <user> what is a redundancy
 <bot> redundancy means ending a job because the work itself is no longer needed.
 <end>
 
-<user> what is a severance package
-<bot> severance package means the pay and benefits offered when a job ends.
+<user> what is a package of severance
+<bot> package of severance means the pay and benefits offered when a job ends.
 <end>
 
-<user> what is a settlement agreement
-<bot> settlement agreement means a deal that ends employment claims for a stated sum.
+<user> what is a detail agreement of settlement
+<bot> detail agreement of settlement means a deal that ends employment claims for a stated sum.
 <end>
 
 <user> what is a non compete agreement
@@ -3202,16 +3202,16 @@
 <bot> public holiday means a day the office closes for a national holiday.
 <end>
 
-<user> what is a timesheet approval
-<bot> timesheet approval means a manager yes on the hours a person recorded.
+<user> what is an approval of timesheet
+<bot> approval of timesheet means a manager yes on the hours a person recorded.
 <end>
 
-<user> what is overtime pay
-<bot> overtime pay means extra pay for hours beyond the normal week.
+<user> what is a pay of overtime
+<bot> pay of overtime means extra pay for hours beyond the normal week.
 <end>
 
-<user> what is a shift differential
-<bot> shift differential means extra pay for working nights or weekends.
+<user> what is a differential of shift
+<bot> differential of shift means extra pay for working nights or weekends.
 <end>
 
 <user> what is a pay period
@@ -3222,20 +3222,20 @@
 <bot> pay stub means the slip that shows pay and deductions.
 <end>
 
-<user> what is a gross pay
-<bot> gross pay means pay before deductions.
+<user> what is a pay of gross
+<bot> pay of gross means pay before deductions.
 <end>
 
-<user> what is a net pay
-<bot> net pay means pay after deductions.
+<user> what is a pay of net
+<bot> pay of net means pay after deductions.
 <end>
 
 <user> what is a deduction
 <bot> deduction means an amount taken off pay.
 <end>
 
-<user> what is a salary review
-<bot> salary review means a look at whether pay should change.
+<user> what is a review of salary
+<bot> review of salary means a look at whether pay should change.
 <end>
 
 <user> what is a pay band
@@ -3250,28 +3250,28 @@
 <bot> merit increase means a pay rise based on how well someone worked.
 <end>
 
-<user> what is a cost of living increase
-<bot> cost of living increase means a pay rise meant to match rising prices.
+<user> what is a living increase under cost
+<bot> living increase under cost means a pay rise meant to match rising prices.
 <end>
 
-<user> what is a bonus plan
-<bot> bonus plan means the rules for extra pay tied to results.
+<user> what is a detail plan of bonus
+<bot> detail plan of bonus means the rules for extra pay tied to results.
 <end>
 
-<user> what is a commission plan
-<bot> commission plan means the rules for pay tied to sales.
+<user> what is a detail plan of commission
+<bot> detail plan of commission means the rules for pay tied to sales.
 <end>
 
 <user> what is a sales target
 <bot> sales target means the amount a seller is asked to sell.
 <end>
 
-<user> what is a performance goal
-<bot> performance goal means a result a person is asked to reach.
+<user> what is a detail goal of performance
+<bot> detail goal of performance means a result a person is asked to reach.
 <end>
 
-<user> what is a performance review
-<bot> performance review means a formal talk about how someone worked.
+<user> what is a review of performance
+<bot> review of performance means a formal talk about how someone worked.
 <end>
 
 <user> what is a self assessment
@@ -3290,16 +3290,16 @@
 <bot> improvement plan means a written plan to lift weak work.
 <end>
 
-<user> what is a probation extension
-<bot> probation extension means making the first trial months longer.
+<user> what is an extension of probation
+<bot> extension of probation means making the first trial months longer.
 <end>
 
-<user> what is a promotion letter
-<bot> promotion letter means the letter that moves a person into a higher role.
+<user> what is a letter of promotion
+<bot> letter of promotion means the letter that moves a person into a higher role.
 <end>
 
 <user> what is a transfer letter
-<bot> transfer letter means the letter that moves a person to another team.
+<bot> transfer letter means for letter, the letter that moves a person to another team.
 <end>
 
 <user> what is a secondment
@@ -3310,32 +3310,32 @@
 <bot> acting role means filling a higher job for a short time.
 <end>
 
-<user> what is a job shadowing
-<bot> job shadowing means watching a coworker to learn the work.
+<user> what is a shadowing of job
+<bot> shadowing of job means watching a coworker to learn the work.
 <end>
 
 <user> what is a mentoring plan
 <bot> mentoring plan means a schedule of guidance from a more experienced person.
 <end>
 
-<user> what is a training plan
-<bot> training plan means the courses a person will take.
+<user> what is a detail plan of training
+<bot> detail plan of training means the courses a person will take.
 <end>
 
-<user> what is a training record
-<bot> training record means the list of courses a person has finished.
+<user> what is a record of training
+<bot> record of training means the list of courses a person has finished.
 <end>
 
 <user> what is a skills matrix
 <bot> skills matrix means a grid of who can do which tasks.
 <end>
 
-<user> what is a headcount plan
-<bot> headcount plan means the planned number of people in each team.
+<user> what is a detail plan of headcount
+<bot> detail plan of headcount means the planned number of people in each team.
 <end>
 
-<user> what is a vacancy approval
-<bot> vacancy approval means permission to open a role.
+<user> what is an approval of vacancy
+<bot> approval of vacancy means permission to open a role.
 <end>
 
 <user> what is an org chart
@@ -3390,16 +3390,16 @@
 <bot> steering committee means a small group that guides a project.
 <end>
 
-<user> what is a project charter
-<bot> project charter means the paper that authorizes a project and names its aim.
+<user> what is a charter of project
+<bot> charter of project means the paper that authorizes a project and names its aim.
 <end>
 
-<user> what is a project sponsor
-<bot> project sponsor means the senior person who backs a project.
+<user> what is a detail sponsor of project
+<bot> detail sponsor of project means the senior person who backs a project.
 <end>
 
-<user> what is a project manager
-<bot> project manager means the person who plans and tracks a project.
+<user> what is a detail manager of project
+<bot> detail manager of project means the person who plans and tracks a project.
 <end>
 
 <user> what is a work breakdown
@@ -3418,8 +3418,8 @@
 <bot> dependency means a task that cannot start until another task finishes.
 <end>
 
-<user> what is a milestone gate
-<bot> milestone gate means a checkpoint that must be passed before the next stage.
+<user> what is a gate of milestone
+<bot> gate of milestone means a checkpoint that must be passed before the next stage.
 <end>
 
 <user> what is a change request
@@ -3430,16 +3430,16 @@
 <bot> change log means the list of approved alterations to a plan.
 <end>
 
-<user> what is an issue log
-<bot> issue log means the list of problems that need an owner.
+<user> what is a log of issue
+<bot> log of issue means the list of problems that need an owner.
 <end>
 
-<user> what is a risk register
-<bot> risk register means the list of things that might go wrong, with an owner.
+<user> what is a register of risk
+<bot> register of risk means the list of things that might go wrong, with an owner.
 <end>
 
-<user> what is a risk owner
-<bot> risk owner means the person responsible for watching one risk.
+<user> what is an owner of risk
+<bot> owner of risk means the person responsible for watching one risk.
 <end>
 
 <user> what is a mitigation plan
@@ -3450,12 +3450,12 @@
 <bot> contingency plan means the backup steps if a risk actually happens.
 <end>
 
-<user> what is an assumption log
-<bot> assumption log means the list of things the plan treats as true.
+<user> what is a log of assumption
+<bot> log of assumption means the list of things the plan treats as true.
 <end>
 
-<user> what is stakeholder map
-<bot> stakeholder map means a drawing of who cares about a project and how much.
+<user> what is a map of stakeholder
+<bot> map of stakeholder means a drawing of who cares about a project and how much.
 <end>
 
 <user> what is a communications plan
@@ -3490,8 +3490,8 @@
 <bot> resource plan means who will do the work and when they are free.
 <end>
 
-<user> what is a capacity plan
-<bot> capacity plan means whether the team has enough hours for the work.
+<user> what is a detail plan of capacity
+<bot> detail plan of capacity means whether the team has enough hours for the work.
 <end>
 
 <user> what is a burndown chart
@@ -3534,8 +3534,8 @@
 <bot> story point means a relative size given to a piece of work.
 <end>
 
-<user> what is a product owner
-<bot> product owner means the person who orders the backlog by value.
+<user> what is an owner of product
+<bot> owner of product means the person who orders the backlog by value.
 <end>
 
 <user> what is a scrum master
@@ -3546,24 +3546,24 @@
 <bot> kanban board means a board of columns that show where each task sits.
 <end>
 
-<user> what is a work in progress limit
-<bot> work in progress limit means the most tasks allowed in one column at once.
+<user> what is a limit of work in progress
+<bot> limit of work in progress means the most tasks allowed in one column at once.
 <end>
 
-<user> what is a lead time metric
-<bot> lead time metric means the days from a request arriving to it being finished.
+<user> what is a time metric of lead
+<bot> time metric of lead means the days from a request arriving to it being finished.
 <end>
 
 <user> what is a cycle time metric
 <bot> cycle time metric means the days from starting a task to finishing it.
 <end>
 
-<user> what is a throughput metric
-<bot> throughput metric means how many items a team finishes in a period.
+<user> what is a metric of throughput
+<bot> metric of throughput means how many items a team finishes in a period.
 <end>
 
-<user> what is service level
-<bot> service level means the promised speed or quality of a service.
+<user> what is a level of service
+<bot> level of service means the promised speed or quality of a service.
 <end>
 
 <user> what is root cause
@@ -3582,16 +3582,16 @@
 <bot> nonconformity means a result that does not meet the stated requirement.
 <end>
 
-<user> what is a corrective action request
-<bot> corrective action request means a formal ask to fix a failed requirement.
+<user> what is a request of corrective action
+<bot> request of corrective action means a formal ask to fix a failed requirement.
 <end>
 
-<user> what is quality control
-<bot> quality control means checking the product to find faults.
+<user> what is a control of quality
+<bot> control of quality means checking the product to find faults.
 <end>
 
-<user> what is quality assurance
-<bot> quality assurance means building the process so faults are less likely.
+<user> what is an assurance of quality
+<bot> assurance of quality means building the process so faults are less likely.
 <end>
 
 <user> what is an incoming inspection
@@ -3610,32 +3610,32 @@
 <bot> sampling plan means the rule for how many items to check in a group.
 <end>
 
-<user> what is a defect rate
-<bot> defect rate means the share of items that fail a check.
+<user> what is a rate of defect
+<bot> rate of defect means for rate, the share of items that fail a check.
 <end>
 
 <user> what is a first pass yield
-<bot> first pass yield means the share of items that pass with no rework.
+<bot> first pass yield means for yield, the share of items that pass with no rework.
 <end>
 
 <user> what is a rework
 <bot> rework means fixing an item that failed a check.
 <end>
 
-<user> what is a scrap rate
-<bot> scrap rate means the share of material thrown away.
+<user> what is a rate of scrap
+<bot> rate of scrap means the share of material thrown away.
 <end>
 
-<user> what is a calibration record
-<bot> calibration record means the note that a measuring tool was set correctly.
+<user> what is a record of calibration
+<bot> record of calibration means the note that a measuring tool was set correctly.
 <end>
 
 <user> what is a traceability
 <bot> traceability means the ability to follow a part back to its source.
 <end>
 
-<user> what is a batch record
-<bot> batch record means the papers that show how one group of items was made.
+<user> what is a record of batch
+<bot> record of batch means the papers that show how one group of items was made.
 <end>
 
 <user> what is bill of materials
@@ -3654,8 +3654,8 @@
 <bot> shop floor means the place in the factory where items are made.
 <end>
 
-<user> what is a downtime log
-<bot> downtime log means the record of when a machine was stopped and why.
+<user> what is a log of downtime
+<bot> log of downtime means the record of when a machine was stopped and why.
 <end>
 
 <user> what is a preventive maintenance
@@ -3682,12 +3682,12 @@
 <bot> overall equipment effectiveness means a score that combines uptime, speed, and good output.
 <end>
 
-<user> what is a capacity utilization
-<bot> capacity utilization means how much of the possible output is actually used.
+<user> what is an utilization of capacity
+<bot> utilization of capacity means how much of the possible output is actually used.
 <end>
 
-<user> what is a bottleneck resource
-<bot> bottleneck resource means the scarce machine or person that limits output.
+<user> what is a resource of bottleneck
+<bot> resource of bottleneck means the scarce machine or person that limits output.
 <end>
 
 <user> what is a line balancing
@@ -3730,32 +3730,32 @@
 <bot> five s means a method to sort, set, shine, standardize, and sustain a workplace.
 <end>
 
-<user> what is a safety incident
-<bot> safety incident means an event where someone was hurt or nearly hurt.
+<user> what is an incident of safety
+<bot> incident of safety means an event where someone was hurt or nearly hurt.
 <end>
 
 <user> what is a near miss
 <bot> near miss means an event that could have hurt someone but did not.
 <end>
 
-<user> what is a safety audit
-<bot> safety audit means a planned check of whether safety rules are followed.
+<user> what is a detail audit of safety
+<bot> detail audit of safety means a planned check of whether safety rules are followed.
 <end>
 
 <user> what is a personal protective equipment
 <bot> personal protective equipment means gear worn to reduce harm, such as gloves or goggles.
 <end>
 
-<user> what is a lockout procedure
-<bot> lockout procedure means steps that keep a machine off while it is being serviced.
+<user> what is a detail procedure of lockout
+<bot> detail procedure of lockout means steps that keep a machine off while it is being serviced.
 <end>
 
 <user> what is a hazard
 <bot> hazard means something that could cause harm.
 <end>
 
-<user> what is a risk assessment
-<bot> risk assessment means a written look at hazards and how to reduce them.
+<user> what is an assessment of risk
+<bot> assessment of risk means a written look at hazards and how to reduce them.
 <end>
 
 <user> what is an incident report
@@ -3810,8 +3810,8 @@
 <bot> cycle count means counting a small part of the stock on a rotating schedule.
 <end>
 
-<user> what is an inventory adjustment
-<bot> inventory adjustment means a book change after a count does not match the record.
+<user> what is an adjustment of inventory
+<bot> adjustment of inventory means a book change after a count does not match the record.
 <end>
 
 <user> what is a shrinkage
@@ -3822,8 +3822,8 @@
 <bot> consignment stock means goods held at a customer site but still owned by the seller.
 <end>
 
-<user> what is a vendor managed inventory
-<bot> vendor managed inventory means the supplier deciding when to refill your stock.
+<user> what is a managed inventory of vendor
+<bot> managed inventory of vendor means the supplier deciding when to refill your stock.
 <end>
 
 <user> what is a min max level
@@ -3839,15 +3839,15 @@
 <end>
 
 <user> what is a lot number
-<bot> lot number means the code that identifies one production group.
+<bot> lot number means for number, the code that identifies one production group.
 <end>
 
 <user> what is a serial number
-<bot> serial number means the code that identifies one single item.
+<bot> serial number means for number, the code that identifies one single item.
 <end>
 
-<user> what is an expiry date
-<bot> expiry date means the last day an item should be used.
+<user> what is a date of expiry
+<bot> date of expiry means the last day an item should be used.
 <end>
 
 <user> what is a quarantine stock
@@ -3862,8 +3862,8 @@
 <bot> cross docking means moving goods from inbound trucks to outbound trucks with little storage.
 <end>
 
-<user> what is a freight forwarder
-<bot> freight forwarder means a company that arranges carriage of goods.
+<user> what is a forwarder of freight
+<bot> forwarder of freight means a company that arranges carriage of goods.
 <end>
 
 <user> what is a carrier
@@ -3886,8 +3886,8 @@
 <bot> free on board means the seller risk ends once goods are on the ship.
 <end>
 
-<user> what is a cost insurance freight
-<bot> cost insurance freight means the seller pays carriage and insurance to the destination port.
+<user> what is an insurance freight of cost
+<bot> insurance freight of cost means the seller pays carriage and insurance to the destination port.
 <end>
 
 <user> what is an ex works
@@ -3895,7 +3895,7 @@
 <end>
 
 <user> what is a delivered duty paid
-<bot> delivered duty paid means the seller pays carriage and duty to the buyer door.
+<bot> delivered duty paid means for paid, the seller pays carriage and duty to the buyer door.
 <end>
 
 <user> what is a bill of entry
@@ -3914,8 +3914,8 @@
 <bot> dangerous goods note means a paper required when a shipment can harm people.
 <end>
 
-<user> what is a freight invoice
-<bot> freight invoice means the bill for carrying goods.
+<user> what is a detail invoice of freight
+<bot> detail invoice of freight means the bill for carrying goods.
 <end>
 
 <user> what is a demurrage
@@ -3923,7 +3923,7 @@
 <end>
 
 <user> what is a detention charge
-<bot> detention charge means a charge for keeping a container beyond the free days.
+<bot> detention charge means for charge, a charge for keeping a container beyond the free days.
 <end>
 
 <user> what is a free time
@@ -3954,8 +3954,8 @@
 <bot> claims form means the paper used to ask for payment after a shipping loss.
 <end>
 
-<user> what is a cargo insurance
-<bot> cargo insurance means cover that pays if goods are lost or harmed in transit.
+<user> what is an insurance of cargo
+<bot> insurance of cargo means cover that pays if goods are lost or harmed in transit.
 <end>
 
 <user> what is a general average
@@ -3966,8 +3966,8 @@
 <bot> sales pipeline stage means one step a possible deal moves through.
 <end>
 
-<user> what is a lead qualification
-<bot> lead qualification means deciding whether a possible buyer is worth pursuing.
+<user> what is a qualification of lead
+<bot> qualification of lead means deciding whether a possible buyer is worth pursuing.
 <end>
 
 <user> what is a discovery call
@@ -3978,16 +3978,16 @@
 <bot> needs analysis means a written picture of what the buyer must solve.
 <end>
 
-<user> what is a proposal deck
-<bot> proposal deck means the slides that present an offer.
+<user> what is a deck of proposal
+<bot> deck of proposal means the slides that present an offer.
 <end>
 
 <user> what is a pricing sheet
 <bot> pricing sheet means the page that lists prices and options.
 <end>
 
-<user> what is a discount approval
-<bot> discount approval means permission to offer a price below the normal floor.
+<user> what is an approval of discount
+<bot> approval of discount means permission to offer a price below the normal floor.
 <end>
 
 <user> what is a floor price
@@ -3998,28 +3998,28 @@
 <bot> win rate means the share of proposals that become orders.
 <end>
 
-<user> what is a loss reason
-<bot> loss reason means the recorded cause when a deal is not won.
+<user> what is a reason of loss
+<bot> reason of loss means the recorded cause when a deal is not won.
 <end>
 
-<user> what is a competitor note
-<bot> competitor note means a short record of what a rival offered.
+<user> what is a note of competitor
+<bot> note of competitor means a short record of what a rival offered.
 <end>
 
-<user> what is an account plan
-<bot> account plan means the plan for growing business with one customer.
+<user> what is a detail plan of account
+<bot> detail plan of account means the plan for growing business with one customer.
 <end>
 
-<user> what is a territory plan
-<bot> territory plan means the plan for the area one seller covers.
+<user> what is a detail plan of territory
+<bot> detail plan of territory means the plan for the area one seller covers.
 <end>
 
-<user> what is a quota attainment
-<bot> quota attainment means how much of the sales target has been reached.
+<user> what is an attainment of quota
+<bot> attainment of quota means how much of the sales target has been reached.
 <end>
 
-<user> what is a pipeline coverage
-<bot> pipeline coverage means how many open deals you have compared with the target.
+<user> what is a coverage of pipeline
+<bot> coverage of pipeline means how many open deals you have compared with the target.
 <end>
 
 <user> what is a weighted pipeline
@@ -4030,8 +4030,8 @@
 <bot> close date means the day a deal is expected to be won.
 <end>
 
-<user> what is a decision maker
-<bot> decision maker means the person who can say yes to a purchase.
+<user> what is a maker of decision
+<bot> maker of decision means the person who can say yes to a purchase.
 <end>
 
 <user> what is an economic buyer
@@ -4039,23 +4039,23 @@
 <end>
 
 <user> what is a champion
-<bot> champion means a person inside the buyer company who wants your offer to win.
+<bot> champion means for champion, a person inside the buyer company who wants your offer to win.
 <end>
 
 <user> what is a blocker
 <bot> blocker means a person inside the buyer company who resists the offer.
 <end>
 
-<user> what is a procurement review
-<bot> procurement review means the buyer formal check of a seller before a contract.
+<user> what is a review of procurement
+<bot> review of procurement means the buyer formal check of a seller before a contract.
 <end>
 
-<user> what is a vendor onboarding
-<bot> vendor onboarding means the steps that set a new supplier up to be paid.
+<user> what is an onboarding of vendor
+<bot> onboarding of vendor means the steps that set a new supplier up to be paid.
 <end>
 
-<user> what is a vendor scorecard
-<bot> vendor scorecard means a regular rating of how a supplier performs.
+<user> what is a scorecard of vendor
+<bot> scorecard of vendor means a regular rating of how a supplier performs.
 <end>
 
 <user> what is a preferred supplier
@@ -4102,8 +4102,8 @@
 <bot> should cost means an estimate of what an item ought to cost to make.
 <end>
 
-<user> what is a price variance
-<bot> price variance means the gap between the price you expected and the price you paid.
+<user> what is a variance of price
+<bot> variance of price means the gap between the price you expected and the price you paid.
 <end>
 
 <user> what is a savings tracker
@@ -4122,16 +4122,16 @@
 <bot> category strategy means the plan for buying one family of goods.
 <end>
 
-<user> what is a supplier audit
-<bot> supplier audit means a visit or review to check how a supplier works.
+<user> what is a detail audit of supplier
+<bot> detail audit of supplier means a visit or review to check how a supplier works.
 <end>
 
-<user> what is a supplier corrective action
-<bot> supplier corrective action means a required fix after a supplier fails a check.
+<user> what is a detail corrective action of supplier
+<bot> detail corrective action of supplier means a required fix after a supplier fails a check.
 <end>
 
-<user> what is a lead time agreement
-<bot> lead time agreement means the promised days from order to delivery.
+<user> what is a time agreement of lead
+<bot> time agreement of lead means the promised days from order to delivery.
 <end>
 
 <user> what is an on time delivery
@@ -4146,60 +4146,60 @@
 <bot> perfect order means an order that was complete, on time, and undamaged.
 <end>
 
-<user> what is a customer order
-<bot> customer order means the buyer request to purchase stated goods.
+<user> what is a detail order of customer
+<bot> detail order of customer means the buyer request to purchase stated goods.
 <end>
 
 <user> what is a sales order
 <bot> sales order means the seller record that a customer order was accepted.
 <end>
 
-<user> what is an order acknowledgement
-<bot> order acknowledgement means the note that says an order was received and accepted.
+<user> what is an acknowledgement of order
+<bot> acknowledgement of order means the note that says an order was received and accepted.
 <end>
 
-<user> what is an order change
-<bot> order change means a later alteration to quantity, date, or price.
+<user> what is a change of order
+<bot> change of order means a later alteration to quantity, date, or price.
 <end>
 
-<user> what is an order cancellation
-<bot> order cancellation means withdrawing an order before it ships.
+<user> what is a detail cancellation of order
+<bot> detail cancellation of order means withdrawing an order before it ships.
 <end>
 
 <user> what is a partial shipment
 <bot> partial shipment means sending only some of the ordered items.
 <end>
 
-<user> what is a backorder release
-<bot> backorder release means shipping items that were waiting because stock was short.
+<user> what is a release of backorder
+<bot> release of backorder means shipping items that were waiting because stock was short.
 <end>
 
 <user> what is a returns authorization
 <bot> returns authorization means permission for a customer to send goods back.
 <end>
 
-<user> what is a credit memo
-<bot> credit memo means a document that reduces what a customer owes after a return.
+<user> what is a detail memo of credit
+<bot> detail memo of credit means a document that reduces what a customer owes after a return.
 <end>
 
 <user> what is a restocking fee
 <bot> restocking fee means a charge for taking returned goods back into stock.
 <end>
 
-<user> what is a warranty claim
-<bot> warranty claim means a request to repair or replace an item still under promise.
+<user> what is a detail claim of warranty
+<bot> detail claim of warranty means a request to repair or replace an item still under promise.
 <end>
 
-<user> what is a service ticket
-<bot> service ticket means a recorded request to fix a customer problem.
+<user> what is a detail ticket of service
+<bot> detail ticket of service means a recorded request to fix a customer problem.
 <end>
 
 <user> what is a first response time
-<bot> first response time means how long until a customer first hears back.
+<bot> first response time means for time, how long until a customer first hears back.
 <end>
 
-<user> what is a resolution time
-<bot> resolution time means how long until a customer problem is solved.
+<user> what is a time of resolution
+<bot> time of resolution means how long until a customer problem is solved.
 <end>
 
 <user> what is an escalation
@@ -4214,20 +4214,20 @@
 <bot> canned reply means a prepared answer used for a common question.
 <end>
 
-<user> what is a customer satisfaction
-<bot> customer satisfaction means a score of how happy a customer is after a contact.
+<user> what is a satisfaction of customer
+<bot> satisfaction of customer means a score of how happy a customer is after a contact.
 <end>
 
-<user> what is net promoter
-<bot> net promoter means a score of how likely a customer is to recommend you.
+<user> what is a promoter of net
+<bot> promoter of net means a score of how likely a customer is to recommend you.
 <end>
 
-<user> what is a churn rate
-<bot> churn rate means the share of customers who leave in a period.
+<user> what is a rate of churn
+<bot> rate of churn means the share of customers who leave in a period.
 <end>
 
 <user> what is a retention rate
-<bot> retention rate means the share of customers who stay in a period.
+<bot> retention rate means for rate, the share of customers who stay in a period.
 <end>
 
 <user> what is a lifetime value
@@ -4238,12 +4238,12 @@
 <bot> acquisition cost means what it costs to win one new customer.
 <end>
 
-<user> what is a payback period
-<bot> payback period means the time until profit from a customer covers the cost to win them.
+<user> what is a period of payback
+<bot> period of payback means the time until profit from a customer covers the cost to win them.
 <end>
 
-<user> what is a conversion rate
-<bot> conversion rate means the share of visitors who become buyers.
+<user> what is a rate of conversion
+<bot> rate of conversion means for rate, the share of visitors who become buyers.
 <end>
 
 <user> what is a bounce rate
@@ -4255,7 +4255,7 @@
 <end>
 
 <user> what is an open rate
-<bot> open rate means the share of people who open a message.
+<bot> open rate means for rate, the share of people who open a message.
 <end>
 
 <user> what is an unsubscribe
@@ -4266,8 +4266,8 @@
 <bot> mailing list means the set of people who agreed to receive messages.
 <end>
 
-<user> what is a campaign brief
-<bot> campaign brief means the short paper that says what a campaign must achieve.
+<user> what is a brief of campaign
+<bot> brief of campaign means the short paper that says what a campaign must achieve.
 <end>
 
 <user> what is a creative brief
@@ -4294,12 +4294,12 @@
 <bot> impression means one instance of a message being shown.
 <end>
 
-<user> what is brand awareness
-<bot> brand awareness means how many people recognize the brand.
+<user> what is an awareness of brand
+<bot> awareness of brand means how many people recognize the brand.
 <end>
 
-<user> what is a brand guideline
-<bot> brand guideline means the rules for how the name and pictures may be used.
+<user> what is a guideline of brand
+<bot> guideline of brand means the rules for how the name and pictures may be used.
 <end>
 
 <user> what is a tagline
@@ -4314,16 +4314,16 @@
 <bot> positioning statement means a sentence that says who you serve and why you are different.
 <end>
 
-<user> what is a target segment
-<bot> target segment means the group of customers you choose to serve.
+<user> what is a detail segment of target
+<bot> detail segment of target means the group of customers you choose to serve.
 <end>
 
 <user> what is a persona
 <bot> persona means a fictional portrait of a typical buyer.
 <end>
 
-<user> what is a customer journey
-<bot> customer journey means the steps a person takes from first hearing of you to buying.
+<user> what is a journey of customer
+<bot> journey of customer means the steps a person takes from first hearing of you to buying.
 <end>
 
 <user> what is a touchpoint
@@ -4338,8 +4338,8 @@
 <bot> landing page means a web page built for one offer.
 <end>
 
-<user> what is a lead magnet
-<bot> lead magnet means a free item offered in exchange for a contact.
+<user> what is a magnet of lead
+<bot> magnet of lead means a free item offered in exchange for a contact.
 <end>
 
 <user> what is a marketing qualified lead
@@ -4350,8 +4350,8 @@
 <bot> sales qualified lead means a contact that sales has accepted as a real opportunity.
 <end>
 
-<user> what is a lead score
-<bot> lead score means a number that ranks how ready a contact is to buy.
+<user> what is a score of lead
+<bot> score of lead means a number that ranks how ready a contact is to buy.
 <end>
 
 <user> what is a nurture sequence
@@ -4410,12 +4410,12 @@
 <bot> booth means the stand a company uses at a show.
 <end>
 
-<user> what is a lead capture
-<bot> lead capture means collecting contact details from interested people.
+<user> what is a capture of lead
+<bot> capture of lead means collecting contact details from interested people.
 <end>
 
-<user> what is a follow up email
-<bot> follow up email means a message sent after a meeting or a show.
+<user> what is a detail email of follow up
+<bot> detail email of follow up means a message sent after a meeting or a show.
 <end>
 
 <user> what is a crm record
@@ -4430,12 +4430,12 @@
 <bot> opportunity means a possible sale with a value and a close date.
 <end>
 
-<user> what is an opportunity stage
-<bot> opportunity stage means how far a possible sale has progressed.
+<user> what is a stage of opportunity
+<bot> stage of opportunity means how far a possible sale has progressed.
 <end>
 
-<user> what is a forecast category
-<bot> forecast category means a label for how likely a deal is to close.
+<user> what is a category of forecast
+<bot> category of forecast means a label for how likely a deal is to close.
 <end>
 
 <user> what is a commit forecast
@@ -4446,24 +4446,24 @@
 <bot> upside forecast means deals that might close if things go well.
 <end>
 
-<user> what is a pipeline review
-<bot> pipeline review means a meeting that walks through open deals.
+<user> what is a review of pipeline
+<bot> review of pipeline means a meeting that walks through open deals.
 <end>
 
-<user> what is a deal desk
-<bot> deal desk means the group that approves unusual prices or terms.
+<user> what is a desk of deal
+<bot> desk of deal means the group that approves unusual prices or terms.
 <end>
 
 <user> what is a redline
 <bot> redline means a marked copy that shows proposed contract changes.
 <end>
 
-<user> what is a contract playbook
-<bot> contract playbook means the guide for which contract changes are allowed.
+<user> what is a playbook of contract
+<bot> playbook of contract means the guide for which contract changes are allowed.
 <end>
 
-<user> what is a signature block
-<bot> signature block means the lines where each side signs and dates.
+<user> what is a block of signature
+<bot> block of signature means the lines where each side signs and dates.
 <end>
 
 <user> what is a wet signature
@@ -4490,12 +4490,12 @@
 <bot> auto renewal means a contract that continues unless someone cancels in time.
 <end>
 
-<user> what is a cancellation window
-<bot> cancellation window means the days in which you may cancel without a penalty.
+<user> what is a window of cancellation
+<bot> window of cancellation means the days in which you may cancel without a penalty.
 <end>
 
-<user> what is a price escalation
-<bot> price escalation means a clause that lets the price rise on a schedule.
+<user> what is a detail escalation of price
+<bot> detail escalation of price means a clause that lets the price rise on a schedule.
 <end>
 
 <user> what is an indexation
@@ -4514,32 +4514,32 @@
 <bot> minimum order means the smallest quantity a seller will accept.
 <end>
 
-<user> what is a lead time quote
-<bot> lead time quote means the days a seller promises from order to ship.
+<user> what is a time quote of lead
+<bot> time quote of lead means the days a seller promises from order to ship.
 <end>
 
 <user> what is an incoterm choice
 <bot> incoterm choice means the delivery term picked for one shipment.
 <end>
 
-<user> what is a payment term
-<bot> payment term means when and how the buyer must pay.
+<user> what is a term of payment
+<bot> term of payment means when and how the buyer must pay.
 <end>
 
 <user> what is an advance payment
 <bot> advance payment means money paid before the goods are sent.
 <end>
 
-<user> what is a deposit invoice
-<bot> deposit invoice means a bill for the part due before work starts.
+<user> what is a detail invoice of deposit
+<bot> detail invoice of deposit means a bill for the part due before work starts.
 <end>
 
 <user> what is a balance invoice
 <bot> balance invoice means a bill for the amount still due.
 <end>
 
-<user> what is a milestone invoice
-<bot> milestone invoice means a bill tied to a finished stage.
+<user> what is a detail invoice of milestone
+<bot> detail invoice of milestone means a bill tied to a finished stage.
 <end>
 
 <user> what is a recurring invoice
@@ -4558,16 +4558,16 @@
 <bot> aged receivable means a bill grouped by how many days it is overdue.
 <end>
 
-<user> what is a bad debt write off
-<bot> bad debt write off means removing a bill you will not collect.
+<user> what is a detail write off of bad debt
+<bot> detail write off of bad debt means removing a bill you will not collect.
 <end>
 
-<user> what is a credit hold
-<bot> credit hold means stopping new orders until an overdue bill is paid.
+<user> what is a hold of credit
+<bot> hold of credit means stopping new orders until an overdue bill is paid.
 <end>
 
-<user> what is a cash application
-<bot> cash application means matching a received payment to the right bills.
+<user> what is an application of cash
+<bot> application of cash means matching a received payment to the right bills.
 <end>
 
 <user> what is an unapplied cash
@@ -4590,40 +4590,40 @@
 <bot> two way match means checking the order and the bill agree.
 <end>
 
-<user> what is an invoice approval
-<bot> invoice approval means a manager yes before a supplier bill is paid.
+<user> what is an approval of invoice
+<bot> approval of invoice means a manager yes before a supplier bill is paid.
 <end>
 
-<user> what is a payment run
-<bot> payment run means the batch of supplier bills paid on one day.
+<user> what is a run of payment
+<bot> run of payment means the batch of supplier bills paid on one day.
 <end>
 
-<user> what is a payment proposal
-<bot> payment proposal means the suggested list of bills to pay.
+<user> what is a detail proposal of payment
+<bot> detail proposal of payment means the suggested list of bills to pay.
 <end>
 
 <user> what is an early payment
 <bot> early payment means paying a bill before the due day to take a reduction.
 <end>
 
-<user> what is a payment terms breach
-<bot> payment terms breach means failing to pay by the agreed day.
+<user> what is a terms breach of payment
+<bot> terms breach of payment means failing to pay by the agreed day.
 <end>
 
-<user> what is a vendor statement
-<bot> vendor statement means a supplier list of what it says you owe.
+<user> what is a detail statement of vendor
+<bot> detail statement of vendor means a supplier list of what it says you owe.
 <end>
 
-<user> what is an account reconciliation
-<bot> account reconciliation means checking your records against another set until they agree.
+<user> what is a reconciliation of account
+<bot> reconciliation of account means checking your records against another set until they agree.
 <end>
 
 <user> what is an intercompany
 <bot> intercompany means dealings between two companies in the same group.
 <end>
 
-<user> what is an intercompany invoice
-<bot> intercompany invoice means a bill from one group company to another.
+<user> what is a detail invoice of intercompany
+<bot> detail invoice of intercompany means a bill from one group company to another.
 <end>
 
 <user> what is a consolidation
@@ -4650,20 +4650,20 @@
 <bot> joint venture means a business owned together by two or more companies.
 <end>
 
-<user> what is a goodwill impairment
-<bot> goodwill impairment means writing down the extra paid for a company when value has fallen.
+<user> what is a detail impairment of goodwill
+<bot> detail impairment of goodwill means writing down the extra paid for a company when value has fallen.
 <end>
 
-<user> what is a fair value adjustment
-<bot> fair value adjustment means changing a number to today price at purchase.
+<user> what is an adjustment of fair value
+<bot> adjustment of fair value means changing a number to today price at purchase.
 <end>
 
 <user> what is a purchase price allocation
 <bot> purchase price allocation means splitting the price of a bought company across its assets.
 <end>
 
-<user> what is an earnout period
-<bot> earnout period means the time during which extra deal price can still be earned.
+<user> what is a period of earnout
+<bot> period of earnout means the time during which extra deal price can still be earned.
 <end>
 
 <user> what is a synergy
@@ -4678,20 +4678,20 @@
 <bot> day one plan means what must be true on the first day after a deal closes.
 <end>
 
-<user> what is a closing checklist
-<bot> closing checklist means the list of papers that must be signed to finish a deal.
+<user> what is a checklist of closing
+<bot> checklist of closing means the list of papers that must be signed to finish a deal.
 <end>
 
 <user> what is a funds flow
 <bot> funds flow means the note of who pays whom at the moment a deal closes.
 <end>
 
-<user> what is an escrow holdback
-<bot> escrow holdback means part of the price kept aside until conditions are met.
+<user> what is a holdback of escrow
+<bot> holdback of escrow means part of the price kept aside until conditions are met.
 <end>
 
-<user> what is a working capital peg
-<bot> working capital peg means the target level of working capital at closing.
+<user> what is a peg of working capital
+<bot> peg of working capital means the target level of working capital at closing.
 <end>
 
 <user> what is a locked box
@@ -4714,16 +4714,16 @@
 <bot> fiduciary duty means the duty to act in the best interest of the company or its owners.
 <end>
 
-<user> what is a duty of care
-<bot> duty of care means the duty to decide with reasonable care.
+<user> what is a care under duty
+<bot> care under duty means the duty to decide with reasonable care.
 <end>
 
-<user> what is a business judgment
-<bot> business judgment means the protection for directors who decide carefully and honestly.
+<user> what is a judgment of business
+<bot> judgment of business means the protection for directors who decide carefully and honestly.
 <end>
 
-<user> what is a board resolution draft
-<bot> board resolution draft means a proposed written decision for the directors to pass.
+<user> what is a detail resolution draft of board
+<bot> detail resolution draft of board means a proposed written decision for the directors to pass.
 <end>
 
 <user> what is a circular resolution
@@ -4742,8 +4742,8 @@
 <bot> option pool means shares set aside for employee options.
 <end>
 
-<user> what is a stock option
-<bot> stock option means a right to buy shares later at a set price.
+<user> what is an option of stock
+<bot> option of stock means for option, a right to buy shares later at a set price.
 <end>
 
 <user> what is a strike price
@@ -4778,8 +4778,8 @@
 <bot> valuation means the estimated worth of the company.
 <end>
 
-<user> what is a term sheet draft
-<bot> term sheet draft means a first short list of investment terms.
+<user> what is a draft of term sheet
+<bot> draft of term sheet means a first short list of investment terms.
 <end>
 
 <user> what is a safe note
@@ -4794,8 +4794,8 @@
 <bot> priced round means an investment that sets a share price now.
 <end>
 
-<user> what is a lead investor
-<bot> lead investor means the investor who sets the terms others follow.
+<user> what is a detail investor of lead
+<bot> detail investor of lead means the investor who sets the terms others follow.
 <end>
 
 <user> what is a follow on round
@@ -4807,11 +4807,11 @@
 <end>
 
 <user> what is an up round
-<bot> up round means a later investment at a higher price than the one before.
+<bot> up round means for round, a later investment at a higher price than the one before.
 <end>
 
-<user> what is a liquidation preference
-<bot> liquidation preference means the right of some investors to be paid first if the company is sold.
+<user> what is a preference of liquidation
+<bot> preference of liquidation means the right of some investors to be paid first if the company is sold.
 <end>
 
 <user> what is a pro rata right
@@ -4822,8 +4822,8 @@
 <bot> information right means the right to receive regular company numbers.
 <end>
 
-<user> what is a board seat
-<bot> board seat means a place on the board given to an investor.
+<user> what is a seat of board
+<bot> seat of board means a place on the board given to an investor.
 <end>
 
 <user> what is an observer right
@@ -4858,12 +4858,12 @@
 <bot> unit economics means whether one sale makes money after its direct costs.
 <end>
 
-<user> what is gross margin
-<bot> gross margin means gross profit as a share of sales.
+<user> what is a detail margin of gross
+<bot> detail margin of gross means gross profit as a share of sales.
 <end>
 
-<user> what is net margin
-<bot> net margin means net profit as a share of sales.
+<user> what is a detail margin of net
+<bot> detail margin of net means net profit as a share of sales.
 <end>
 
 <user> what is operating margin
@@ -4878,16 +4878,16 @@
 <bot> quick ratio means cash and near cash divided by bills due soon.
 <end>
 
-<user> what is debt ratio
-<bot> debt ratio means debts as a share of assets.
+<user> what is a ratio of debt
+<bot> ratio of debt means debts as a share of assets.
 <end>
 
-<user> what is equity ratio
-<bot> equity ratio means owner value as a share of assets.
+<user> what is a ratio of equity
+<bot> ratio of equity means owner value as a share of assets.
 <end>
 
-<user> what is inventory turnover
-<bot> inventory turnover means how many times stock is sold in a period.
+<user> what is a detail turnover of inventory
+<bot> detail turnover of inventory means how many times stock is sold in a period.
 <end>
 
 <user> what is receivables turnover
@@ -4898,8 +4898,8 @@
 <bot> payables turnover means how many times supplier bills are paid in a period.
 <end>
 
-<user> what is asset turnover
-<bot> asset turnover means sales divided by assets.
+<user> what is a detail turnover of asset
+<bot> detail turnover of asset means sales divided by assets.
 <end>
 
 <user> what is a return on assets
@@ -4918,8 +4918,8 @@
 <bot> payback means the time until a spend earns back its cost.
 <end>
 
-<user> what is a net present value
-<bot> net present value means today value of future cash after subtracting the spend.
+<user> what is a present value of net
+<bot> present value of net means today value of future cash after subtracting the spend.
 <end>
 
 <user> what is an internal rate of return
@@ -4930,16 +4930,16 @@
 <bot> hurdle rate means the minimum return a project must beat.
 <end>
 
-<user> what is cost benefit
-<bot> cost benefit means comparing what a choice costs with what it returns.
+<user> what is a detail benefit of cost
+<bot> detail benefit of cost means comparing what a choice costs with what it returns.
 <end>
 
-<user> what is an opportunity set
-<bot> opportunity set means the choices you could make with the same money.
+<user> what is a set of opportunity
+<bot> set of opportunity means the choices you could make with the same money.
 <end>
 
-<user> what is a sunk cost trap
-<bot> sunk cost trap means keeping a bad path because money was already spent.
+<user> what is a trap of sunk cost
+<bot> trap of sunk cost means keeping a bad path because money was already spent.
 <end>
 
 <user> what is a scenario plan
@@ -4982,32 +4982,32 @@
 <bot> pestle review means a look at political, economic, social, and legal forces outside.
 <end>
 
-<user> what is a competitor map
-<bot> competitor map means a picture of rivals and how they differ.
+<user> what is a map of competitor
+<bot> map of competitor means a picture of rivals and how they differ.
 <end>
 
-<user> what is a market sizing
-<bot> market sizing means an estimate of how large a market is.
+<user> what is a sizing of market
+<bot> sizing of market means an estimate of how large a market is.
 <end>
 
 <user> what is an addressable market
 <bot> addressable market means the part of a market you could actually serve.
 <end>
 
-<user> what is market share
-<bot> market share means your sales as a share of the whole market.
+<user> what is a share of market
+<bot> share of market means your sales as a share of the whole market.
 <end>
 
 <user> what is a share of wallet
-<bot> share of wallet means your sales as a share of one customer total spend.
+<bot> share of wallet means for wallet, your sales as a share of one customer total spend.
 <end>
 
 <user> what is a pricing power
 <bot> pricing power means the ability to raise price without losing the sale.
 <end>
 
-<user> what is a price elasticity
-<bot> price elasticity means how much quantity changes when price changes.
+<user> what is an elasticity of price
+<bot> elasticity of price means how much quantity changes when price changes.
 <end>
 
 <user> what is a penetration pricing
@@ -5022,8 +5022,8 @@
 <bot> value pricing means setting price from the worth to the customer, not from cost.
 <end>
 
-<user> what is a cost plus pricing
-<bot> cost plus pricing means setting price as cost plus a set extra.
+<user> what is a plus pricing of cost
+<bot> plus pricing of cost means setting price as cost plus a set extra.
 <end>
 
 <user> what is a bundle pricing
@@ -5034,8 +5034,8 @@
 <bot> freemium means a free basic offer with a paid fuller offer.
 <end>
 
-<user> what is a subscription price
-<bot> subscription price means a price paid on a repeating cycle.
+<user> what is a detail price of subscription
+<bot> detail price of subscription means a price paid on a repeating cycle.
 <end>
 
 <user> what is an usage price
@@ -5058,16 +5058,16 @@
 <bot> free trial offer means a short period of use before payment starts.
 <end>
 
-<user> what is an onboarding email
-<bot> onboarding email means a message that helps a new customer start.
+<user> what is a detail email of onboarding
+<bot> detail email of onboarding means a message that helps a new customer start.
 <end>
 
-<user> what is a renewal reminder
-<bot> renewal reminder means a message before a subscription ends.
+<user> what is a reminder of renewal
+<bot> reminder of renewal means a message before a subscription ends.
 <end>
 
-<user> what is a churn save
-<bot> churn save means an offer meant to keep a customer who wants to leave.
+<user> what is a save of churn
+<bot> save of churn means an offer meant to keep a customer who wants to leave.
 <end>
 
 <user> what is a win back
@@ -5078,12 +5078,12 @@
 <bot> referral program means a reward for a customer who brings a new customer.
 <end>
 
-<user> what is a loyalty program
-<bot> loyalty program means rewards for a customer who keeps buying.
+<user> what is a program of loyalty
+<bot> program of loyalty means rewards for a customer who keeps buying.
 <end>
 
-<user> what is a coupon code
-<bot> coupon code means a code typed at checkout to lower the price.
+<user> what is a code of coupon
+<bot> code of coupon means a code typed at checkout to lower the price.
 <end>
 
 <user> what is a promo window
@@ -5098,24 +5098,24 @@
 <bot> clearance means a sale to empty leftover stock.
 <end>
 
-<user> what is a loss leader
-<bot> loss leader means an item sold cheap to bring people in for other items.
+<user> what is a leader of loss
+<bot> leader of loss means an item sold cheap to bring people in for other items.
 <end>
 
 <user> what is a suggested retail
 <bot> suggested retail means the price the maker suggests a shop charge.
 <end>
 
-<user> what is a wholesale price
-<bot> wholesale price means the price charged to a shop, not to the final buyer.
+<user> what is a detail price of wholesale
+<bot> detail price of wholesale means the price charged to a shop, not to the final buyer.
 <end>
 
 <user> what is a distributor margin
 <bot> distributor margin means the gap a distributor keeps between buy price and sell price.
 <end>
 
-<user> what is a retail margin
-<bot> retail margin means the gap a shop keeps between buy price and sell price.
+<user> what is a detail margin of retail
+<bot> detail margin of retail means the gap a shop keeps between buy price and sell price.
 <end>
 
 <user> what is a slotting fee
@@ -5138,40 +5138,40 @@
 <bot> returns rate means the share of sold goods that come back.
 <end>
 
-<user> what is a warranty period
-<bot> warranty period means the time during which a repair promise applies.
+<user> what is a period of warranty
+<bot> period of warranty means the time during which a repair promise applies.
 <end>
 
-<user> what is a service level agreement
-<bot> service level agreement means a contract that sets the speed and quality of support.
+<user> what is a detail agreement of service level
+<bot> detail agreement of service level means a contract that sets the speed and quality of support.
 <end>
 
 <user> what is a response target
 <bot> response target means the promised time to first reply.
 <end>
 
-<user> what is a resolution target
-<bot> resolution target means the promised time to fix a problem.
+<user> what is a detail target of resolution
+<bot> detail target of resolution means the promised time to fix a problem.
 <end>
 
 <user> what is an uptime target
 <bot> uptime target means the promised share of time a system must be available.
 <end>
 
-<user> what is a credit for outage
-<bot> credit for outage means money given back when a system was down too long.
+<user> what is a for outage of credit
+<bot> for outage of credit means money given back when a system was down too long.
 <end>
 
-<user> what is an escalation path
-<bot> escalation path means the ordered list of people a problem moves to.
+<user> what is a path of escalation
+<bot> path of escalation means the ordered list of people a problem moves to.
 <end>
 
 <user> what is a severity level
 <bot> severity level means how serious a problem is.
 <end>
 
-<user> what is a priority level
-<bot> priority level means how soon a problem should be worked.
+<user> what is a level of priority
+<bot> level of priority means how soon a problem should be worked.
 <end>
 
 <user> what is an incident commander
@@ -5222,8 +5222,8 @@
 <bot> least privilege means giving a person only the access the job needs.
 <end>
 
-<user> what is a role based access
-<bot> role based access means permissions tied to a job, not to one person.
+<user> what is a based access of role
+<bot> based access of role means permissions tied to a job, not to one person.
 <end>
 
 <user> what is single sign on
@@ -5234,16 +5234,16 @@
 <bot> two factor means a login that needs a password and a second proof.
 <end>
 
-<user> what is a password reset
-<bot> password reset means setting a new secret word after the old one fails.
+<user> what is a reset of password
+<bot> reset of password means setting a new secret word after the old one fails.
 <end>
 
-<user> what is an account lock
-<bot> account lock means blocking a login after too many failed tries.
+<user> what is a lock of account
+<bot> lock of account means blocking a login after too many failed tries.
 <end>
 
-<user> what is an audit log
-<bot> audit log means the record of who did what in a system.
+<user> what is a log of audit
+<bot> log of audit means the record of who did what in a system.
 <end>
 
 <user> what is a data backup
@@ -5274,16 +5274,16 @@
 <bot> data subject request means a person asking to see or delete facts you hold.
 <end>
 
-<user> what is a breach notice
-<bot> breach notice means the required message after personal facts are exposed.
+<user> what is a notice of breach
+<bot> notice of breach means the required message after personal facts are exposed.
 <end>
 
-<user> what is a vendor risk review
-<bot> vendor risk review means a check of how a supplier protects data and continuity.
+<user> what is a detail risk review of vendor
+<bot> detail risk review of vendor means a check of how a supplier protects data and continuity.
 <end>
 
-<user> what is a business continuity
-<bot> business continuity means the plan to keep operating during a disruption.
+<user> what is a continuity of business
+<bot> continuity of business means the plan to keep operating during a disruption.
 <end>
 
 <user> what is a disaster recovery
@@ -5322,12 +5322,12 @@
 <bot> key person risk means the harm if one essential person were suddenly gone.
 <end>
 
-<user> what is a delegation of authority
-<bot> delegation of authority means the written limits of what each role may approve.
+<user> what is an authority under delegation
+<bot> authority under delegation means the written limits of what each role may approve.
 <end>
 
-<user> what is an approval matrix
-<bot> approval matrix means a grid of who may approve which kind of spend.
+<user> what is a matrix of approval
+<bot> matrix of approval means a grid of who may approve which kind of spend.
 <end>
 
 <user> what is a spending limit
@@ -5338,12 +5338,12 @@
 <bot> dual control means requiring two people to complete a sensitive act.
 <end>
 
-<user> what is an expense report
-<bot> expense report means a claim for money a person spent for the company.
+<user> what is a detail report of expense
+<bot> detail report of expense means a claim for money a person spent for the company.
 <end>
 
-<user> what is a receipt attachment
-<bot> receipt attachment means the proof stuck to an expense claim.
+<user> what is a detail attachment of receipt
+<bot> detail attachment of receipt means the proof stuck to an expense claim.
 <end>
 
 <user> what is a mileage claim
@@ -5366,8 +5366,8 @@
 <bot> card reconciliation means matching card charges to receipts and approvals.
 <end>
 
-<user> what is a procurement policy
-<bot> procurement policy means the rules for how the company buys.
+<user> what is a detail policy of procurement
+<bot> detail policy of procurement means for policy, the rules for how the company buys.
 <end>
 
 <user> what is an ethics policy
@@ -5426,24 +5426,24 @@
 <bot> out of office means an automatic reply that says you are away.
 <end>
 
-<user> what is an email signature block
-<bot> email signature block means the lines under your name in a message.
+<user> what is a detail signature block of email
+<bot> detail signature block of email means the lines under your name in a message.
 <end>
 
-<user> what is a calendar hold
-<bot> calendar hold means a block of time reserved on a schedule.
+<user> what is a hold of calendar
+<bot> hold of calendar means a block of time reserved on a schedule.
 <end>
 
-<user> what is a meeting agenda draft
-<bot> meeting agenda draft means a proposed list of topics before a meeting.
+<user> what is a detail agenda draft of meeting
+<bot> detail agenda draft of meeting means a proposed list of topics before a meeting.
 <end>
 
 <user> what is an action item
 <bot> action item means a task named in a meeting, with an owner and a date.
 <end>
 
-<user> what is a decision log
-<bot> decision log means the running list of choices a group has made.
+<user> what is a log of decision
+<bot> log of decision means the running list of choices a group has made.
 <end>
 
 <user> what is a parking lot
@@ -5455,19 +5455,19 @@
 <end>
 
 <user> what is a facilitator
-<bot> facilitator means the person who guides a meeting without owning the decision.
+<bot> facilitator means for facilitator, the person who guides a meeting without owning the decision.
 <end>
 
 <user> what is a scribe
 <bot> scribe means the person who writes the notes.
 <end>
 
-<user> what is a vote tally
-<bot> vote tally means the count of yes and no.
+<user> what is a tally of vote
+<bot> tally of vote means the count of yes and no.
 <end>
 
-<user> what is a consensus check
-<bot> consensus check means asking whether anyone objects before moving on.
+<user> what is a check of consensus
+<bot> check of consensus means asking whether anyone objects before moving on.
 <end>
 
 <user> what is a dissent
@@ -5487,11 +5487,11 @@
 <end>
 
 <user> what is a status red
-<bot> status red means a mark that a task is off track.
+<bot> status red means for red, a mark that a task is off track.
 <end>
 
 <user> what is a status green
-<bot> status green means a mark that a task is on track.
+<bot> status green means for green, a mark that a task is on track.
 <end>
 
 <user> what is a rag status
@@ -5502,8 +5502,8 @@
 <bot> dashboard means a page of a few key numbers.
 <end>
 
-<user> what is a kpi tree
-<bot> kpi tree means a drawing that links a top number to the numbers under it.
+<user> what is a tree of kpi
+<bot> tree of kpi means a drawing that links a top number to the numbers under it.
 <end>
 
 <user> what is a leading indicator
@@ -5514,8 +5514,8 @@
 <bot> lagging indicator means a number that reports a result after it has happened.
 <end>
 
-<user> what is a target line
-<bot> target line means the level a number is supposed to reach.
+<user> what is a line of target
+<bot> line of target means the level a number is supposed to reach.
 <end>
 
 <user> what is a threshold
@@ -5538,12 +5538,12 @@
 <bot> management pack means the set of numbers leaders review each month.
 <end>
 
-<user> what is a board pack numbers
-<bot> board pack numbers means the set of numbers directors review.
+<user> what is a numbers of board pack
+<bot> numbers of board pack means the set of numbers directors review.
 <end>
 
 <user> what is a year to date
-<bot> year to date means the total from the start of the year until now.
+<bot> year to date means for date, the total from the start of the year until now.
 <end>
 
 <user> what is a month to date
@@ -5614,20 +5614,20 @@
 <bot> footfall means how many people enter a shop.
 <end>
 
-<user> what is a conversion in store
-<bot> conversion in store means the share of visitors who buy.
+<user> what is an in store of conversion
+<bot> in store of conversion means for store, the share of visitors who buy.
 <end>
 
-<user> what is a stock turn in store
-<bot> stock turn in store means how fast shop stock sells.
+<user> what is a turn in store of stock
+<bot> turn in store of stock means how fast shop stock sells.
 <end>
 
 <user> what is a markdown
 <bot> markdown means a cut in the selling price of leftover goods.
 <end>
 
-<user> what is a gross margin return
-<bot> gross margin return means gross profit compared with the stock investment.
+<user> what is a return of gross margin
+<bot> return of gross margin means gross profit compared with the stock investment.
 <end>
 
 <user> what is an open to buy
@@ -5654,16 +5654,16 @@
 <bot> till reconciliation means checking the cash drawer against the recorded sales.
 <end>
 
-<user> what is a cash variance
-<bot> cash variance means the gap between cash in the drawer and the recorded sales.
+<user> what is a variance of cash
+<bot> variance of cash means the gap between cash in the drawer and the recorded sales.
 <end>
 
 <user> what is a void transaction
 <bot> void transaction means a sale cancelled in the system.
 <end>
 
-<user> what is a refund transaction
-<bot> refund transaction means money given back for a returned sale.
+<user> what is a transaction of refund
+<bot> transaction of refund means money given back for a returned sale.
 <end>
 
 <user> what is a gift card
@@ -5674,12 +5674,12 @@
 <bot> store credit means credit kept at the shop after a return.
 <end>
 
-<user> what is a loyalty points
-<bot> loyalty points means units a customer collects toward a reward.
+<user> what is a points of loyalty
+<bot> points of loyalty means units a customer collects toward a reward.
 <end>
 
-<user> what is a staff discount
-<bot> staff discount means a lower price for employees.
+<user> what is a detail discount of staff
+<bot> detail discount of staff means a lower price for employees.
 <end>
 
 <user> what is a shrink report
@@ -5690,8 +5690,8 @@
 <bot> mystery shop means a paid visit that checks how staff treat a customer.
 <end>
 
-<user> what is a service standard
-<bot> service standard means the behavior staff are expected to show.
+<user> what is a standard of service
+<bot> standard of service means the behavior staff are expected to show.
 <end>
 
 <user> what is a queue time
@@ -5722,8 +5722,8 @@
 <bot> occupancy cost means rent and related costs of the space.
 <end>
 
-<user> what is a break even sales
-<bot> break even sales means the sales level where profit is zero.
+<user> what is a sales of break even
+<bot> sales of break even means the sales level where profit is zero.
 <end>
 
 <user> what is a contribution per hour
@@ -5750,16 +5750,16 @@
 <bot> collection rate means the share of billed fees that were collected.
 <end>
 
-<user> what is a write off of time
-<bot> write off of time means hours worked that will not be billed.
+<user> what is a time under write off
+<bot> time under write off means hours worked that will not be billed.
 <end>
 
 <user> what is an engagement letter
 <bot> engagement letter means the letter that sets the scope and fee of professional work.
 <end>
 
-<user> what is a statement of work
-<bot> statement of work means the paper that describes the tasks, timing, and price.
+<user> what is a work under statement
+<bot> work under statement means the paper that describes the tasks, timing, and price.
 <end>
 
 <user> what is a change order
@@ -5778,20 +5778,20 @@
 <bot> sign off means the customer written acceptance.
 <end>
 
-<user> what is a warranty of work
-<bot> warranty of work means a promise to fix defects found soon after delivery.
+<user> what is a work under warranty
+<bot> work under warranty means a promise to fix defects found soon after delivery.
 <end>
 
-<user> what is a retainer balance
-<bot> retainer balance means unearned fees still held for future work.
+<user> what is a balance of retainer
+<bot> balance of retainer means unearned fees still held for future work.
 <end>
 
 <user> what is a draw down
 <bot> draw down means using part of a retainer as work is done.
 <end>
 
-<user> what is an expense cap
-<bot> expense cap means the most that may be charged for costs on a job.
+<user> what is a cap of expense
+<bot> cap of expense means the most that may be charged for costs on a job.
 <end>
 
 <user> what is a not to exceed
@@ -5814,8 +5814,8 @@
 <bot> pro bono means work done without a fee.
 <end>
 
-<user> what is a conflict check
-<bot> conflict check means a search for a clash before you accept new work.
+<user> what is a check of conflict
+<bot> check of conflict means a search for a clash before you accept new work.
 <end>
 
 <user> what is an engagement partner
@@ -5830,24 +5830,24 @@
 <bot> review note means a comment from a reviewer asking for a change.
 <end>
 
-<user> what is a sign off checklist
-<bot> sign off checklist means the list that must be ticked before work is issued.
+<user> what is a checklist of sign off
+<bot> checklist of sign off means the list that must be ticked before work is issued.
 <end>
 
 <user> what is a management letter
 <bot> management letter means a letter to leaders about weaknesses found in a review.
 <end>
 
-<user> what is a representation letter
-<bot> representation letter means a letter from management confirming facts given to auditors.
+<user> what is a letter of representation
+<bot> letter of representation means a letter from management confirming facts given to auditors.
 <end>
 
 <user> what is a subsequent event
 <bot> subsequent event means a fact that arises after the period but before the report is issued.
 <end>
 
-<user> what is a going concern note
-<bot> going concern note means a disclosure when there is serious doubt the company can continue.
+<user> what is a note of going concern
+<bot> note of going concern means a disclosure when there is serious doubt the company can continue.
 <end>
 
 <user> what is an emphasis of matter
@@ -5890,8 +5890,8 @@
 <bot> fraud risk means the chance that someone will misstate numbers on purpose.
 <end>
 
-<user> what is a whistleblower hotline
-<bot> whistleblower hotline means a channel for reporting suspected wrongdoing.
+<user> what is a hotline of whistleblower
+<bot> hotline of whistleblower means a channel for reporting suspected wrongdoing.
 <end>
 
 <user> what is a code violation
@@ -5910,12 +5910,12 @@
 <bot> remediation plan means the steps that will fix what an investigation found.
 <end>
 
-<user> what is a policy exception
-<bot> policy exception means permission to depart from a rule in one case.
+<user> what is a detail exception of policy
+<bot> detail exception of policy means permission to depart from a rule in one case.
 <end>
 
-<user> what is a waiver request
-<bot> waiver request means an ask to be excused from a requirement.
+<user> what is a request of waiver
+<bot> request of waiver means an ask to be excused from a requirement.
 <end>
 
 <user> what is an attestation
@@ -5930,8 +5930,8 @@
 <bot> officer certificate means a signed statement by a company officer.
 <end>
 
-<user> what is an incumbency certificate
-<bot> incumbency certificate means a paper that names the current officers.
+<user> what is a certificate of incumbency
+<bot> certificate of incumbency means a paper that names the current officers.
 <end>
 
 <user> what is a good standing
@@ -5982,8 +5982,8 @@
 <bot> domain name means the internet address of the company.
 <end>
 
-<user> what is a brand license
-<bot> brand license means permission to use a brand for a fee.
+<user> what is a detail license of brand
+<bot> detail license of brand means permission to use a brand for a fee.
 <end>
 
 <user> what is a co branding
@@ -6010,8 +6010,8 @@
 <bot> spare demand means the need for replacement parts.
 <end>
 
-<user> what is a warranty reserve
-<bot> warranty reserve means money set aside for future repair promises.
+<user> what is a reserve of warranty
+<bot> reserve of warranty means money set aside for future repair promises.
 <end>
 
 <user> what is a recall
@@ -6030,8 +6030,8 @@
 <bot> containment means stopping more faulty items from reaching customers.
 <end>
 
-<user> what is a root cause analysis
-<bot> root cause analysis means a structured search for why a fault happened.
+<user> what is an analysis of root cause
+<bot> analysis of root cause means a structured search for why a fault happened.
 <end>
 
 <user> what is a fishbone
@@ -6042,20 +6042,20 @@
 <bot> five whys means asking why five times to reach a deeper cause.
 <end>
 
-<user> what is a corrective action owner
-<bot> corrective action owner means the person who must complete a fix.
+<user> what is an owner of corrective action
+<bot> owner of corrective action means the person who must complete a fix.
 <end>
 
 <user> what is an effectiveness check
 <bot> effectiveness check means a later look to see whether a fix worked.
 <end>
 
-<user> what is a customer notification
-<bot> customer notification means a message telling customers about a fault or a fix.
+<user> what is a notification of customer
+<bot> notification of customer means a message telling customers about a fault or a fix.
 <end>
 
-<user> what is a service bulletin
-<bot> service bulletin means a note to repair teams about a known fault.
+<user> what is a bulletin of service
+<bot> bulletin of service means a note to repair teams about a known fault.
 <end>
 
 <user> what is a spare availability
@@ -6078,12 +6078,12 @@
 <bot> onsite repair means fixing an item where the customer uses it.
 <end>
 
-<user> what is a service contract
-<bot> service contract means a paid agreement to maintain equipment.
+<user> what is a detail contract of service
+<bot> detail contract of service means a paid agreement to maintain equipment.
 <end>
 
-<user> what is a maintenance window
-<bot> maintenance window means the hours when equipment may be taken down for service.
+<user> what is a window of maintenance
+<bot> window of maintenance means the hours when equipment may be taken down for service.
 <end>
 
 <user> what is a planned outage
@@ -6130,16 +6130,16 @@
 <bot> parallel run means running the old way and the new way at the same time.
 <end>
 
-<user> what is a rollback plan
-<bot> rollback plan means the steps to return to the old way if the new way fails.
+<user> what is a detail plan of rollback
+<bot> detail plan of rollback means the steps to return to the old way if the new way fails.
 <end>
 
 <user> what is a hypercare
 <bot> hypercare means extra support in the first days after a change.
 <end>
 
-<user> what is a training rollout
-<bot> training rollout means teaching staff the new way before the switch.
+<user> what is a rollout of training
+<bot> rollout of training means teaching staff the new way before the switch.
 <end>
 
 <user> what is a floor walker
@@ -6174,20 +6174,20 @@
 <bot> benefits tracker means the record of gains the change was supposed to deliver.
 <end>
 
-<user> what is a benefit owner
-<bot> benefit owner means the person accountable for a promised gain.
+<user> what is an owner of benefit
+<bot> owner of benefit means the person accountable for a promised gain.
 <end>
 
-<user> what is a business case
-<bot> business case means the paper that argues why a spend is worth making.
+<user> what is a case of business
+<bot> case of business means the paper that argues why a spend is worth making.
 <end>
 
 <user> what is an options paper
 <bot> options paper means a short paper that sets out choices and a recommendation.
 <end>
 
-<user> what is a decision paper
-<bot> decision paper means a paper that asks leaders to choose.
+<user> what is a paper of decision
+<bot> paper of decision means a paper that asks leaders to choose.
 <end>
 
 <user> what is an investment memo
@@ -6214,8 +6214,8 @@
 <bot> proof of concept means a small build that tests whether an idea can work.
 <end>
 
-<user> what is a prototype review
-<bot> prototype review means a look at an early model before more money is spent.
+<user> what is a review of prototype
+<bot> review of prototype means a look at an early model before more money is spent.
 <end>
 
 <user> what is a design freeze
@@ -6266,16 +6266,16 @@
 <bot> operating manual means the book that explains how to run the result.
 <end>
 
-<user> what is a training manual
-<bot> training manual means the book used to teach the work.
+<user> what is a manual of training
+<bot> manual of training means the book used to teach the work.
 <end>
 
 <user> what is a support handover
 <bot> support handover means passing responsibility to the team that will answer later questions.
 <end>
 
-<user> what is a warranty start
-<bot> warranty start means the day the repair promise begins.
+<user> what is a start of warranty
+<bot> start of warranty means the day the repair promise begins.
 <end>
 
 <user> what is a defects liability
@@ -6322,8 +6322,8 @@
 <bot> shop drawing means a detailed drawing the builder prepares.
 <end>
 
-<user> what is an inspection hold
-<bot> inspection hold means a required check that must pass before work continues.
+<user> what is a hold of inspection
+<bot> hold of inspection means a required check that must pass before work continues.
 <end>
 
 <user> what is a practical completion
@@ -6331,7 +6331,7 @@
 <end>
 
 <user> what is a substantial completion
-<bot> substantial completion means the point when the work is fit for its purpose.
+<bot> substantial completion means for completion, the point when the work is fit for its purpose.
 <end>
 
 <user> what is a defects list
@@ -6342,16 +6342,16 @@
 <bot> latent defect means a fault that was hidden and appears later.
 <end>
 
-<user> what is a liquidated damages clock
-<bot> liquidated damages clock means the count of days late that triggers the agreed daily sum.
+<user> what is a clock of liquidated damages
+<bot> clock of liquidated damages means the count of days late that triggers the agreed daily sum.
 <end>
 
 <user> what is an extension of time
 <bot> extension of time means extra days granted when a delay was not the builder fault.
 <end>
 
-<user> what is a delay notice
-<bot> delay notice means a formal warning that the work is running late.
+<user> what is a notice of delay
+<bot> notice of delay means a formal warning that the work is running late.
 <end>
 
 <user> what is a program of works
@@ -6370,12 +6370,12 @@
 <bot> weather delay means time lost because conditions stopped the work.
 <end>
 
-<user> what is a safety induction
-<bot> safety induction means the briefing a person must hear before entering a site.
+<user> what is an induction of safety
+<bot> induction of safety means the briefing a person must hear before entering a site.
 <end>
 
-<user> what is a permit to work
-<bot> permit to work means written permission before a hazardous task starts.
+<user> what is a to work of permit
+<bot> to work of permit means written permission before a hazardous task starts.
 <end>
 
 <user> what is a hot work permit
@@ -6390,8 +6390,8 @@
 <bot> toolbox talk means a short safety talk before the shift.
 <end>
 
-<user> what is a near miss report
-<bot> near miss report means a note of an event that nearly caused harm.
+<user> what is a detail report of near miss
+<bot> detail report of near miss means a note of an event that nearly caused harm.
 <end>
 
 <user> what is a lost time injury
@@ -6402,8 +6402,8 @@
 <bot> first aid case means a minor harm treated on site.
 <end>
 
-<user> what is a safety observation
-<bot> safety observation means a note of a safe or unsafe act seen at work.
+<user> what is an observation of safety
+<bot> observation of safety means a note of a safe or unsafe act seen at work.
 <end>
 
 <user> what is a housekeeping
@@ -6478,8 +6478,8 @@
 <bot> desk booking means reserving a desk for a day.
 <end>
 
-<user> what is a meeting room booking
-<bot> meeting room booking means reserving a room for a time.
+<user> what is a room booking of meeting
+<bot> room booking of meeting means reserving a room for a time.
 <end>
 
 <user> what is a room release
@@ -6490,8 +6490,8 @@
 <bot> no show means failing to use a room or a desk you reserved.
 <end>
 
-<user> what is an office etiquette
-<bot> office etiquette means the expected courtesy among people who share a space.
+<user> what is an etiquette of office
+<bot> etiquette of office means the expected courtesy among people who share a space.
 <end>
 
 <user> what is a quiet hours
@@ -6502,16 +6502,16 @@
 <bot> focus time means a block kept free of meetings.
 <end>
 
-<user> what is a meeting free day
-<bot> meeting free day means a weekday with no internal meetings.
+<user> what is a free day of meeting
+<bot> free day of meeting means a weekday with no internal meetings.
 <end>
 
-<user> what is an agenda owner
-<bot> agenda owner means the person responsible for a meeting topics.
+<user> what is an owner of agenda
+<bot> owner of agenda means the person responsible for a meeting topics.
 <end>
 
-<user> what is a decision owner
-<bot> decision owner means the person who must make a named choice.
+<user> what is an owner of decision
+<bot> owner of decision means the person who must make a named choice.
 <end>
 
 <user> what is a consulted party
@@ -6554,16 +6554,16 @@
 <bot> wip limit breach means having more tasks in progress than the agreed cap.
 <end>
 
-<user> what is a throughput dip
-<bot> throughput dip means a period when fewer items were finished than usual.
+<user> what is a dip of throughput
+<bot> dip of throughput means a period when fewer items were finished than usual.
 <end>
 
 <user> what is a flow efficiency
 <bot> flow efficiency means the share of time an item spends being worked rather than waiting.
 <end>
 
-<user> what is a queue time metric
-<bot> queue time metric means how long an item waits before someone starts it.
+<user> what is a metric of queue time
+<bot> metric of queue time means how long an item waits before someone starts it.
 <end>
 
 <user> what is a sla breach
@@ -6574,8 +6574,8 @@
 <bot> sla credit means money given back because a promise was missed.
 <end>
 
-<user> what is a priority queue
-<bot> priority queue means working the most urgent items first.
+<user> what is a queue of priority
+<bot> queue of priority means working the most urgent items first.
 <end>
 
 <user> what is a fifo queue
@@ -6594,20 +6594,20 @@
 <bot> required field means a blank that must be filled before a form can be sent.
 <end>
 
-<user> what is an approval step
-<bot> approval step means a pause while a named person says yes or no.
+<user> what is a step of approval
+<bot> step of approval means a pause while a named person says yes or no.
 <end>
 
-<user> what is a rejection reason
-<bot> rejection reason means the written cause when a request is refused.
+<user> what is a reason of rejection
+<bot> reason of rejection means the written cause when a request is refused.
 <end>
 
 <user> what is a resubmission
 <bot> resubmission means sending a request again after it was refused.
 <end>
 
-<user> what is an audit trail entry
-<bot> audit trail entry means one recorded step in the history of a request.
+<user> what is a trail entry of audit
+<bot> trail entry of audit means one recorded step in the history of a request.
 <end>
 
 <user> what is a timestamp
@@ -6626,12 +6626,12 @@
 <bot> retention lock means a hold that stops a record from being deleted.
 <end>
 
-<user> what is an export of records
-<bot> export of records means a copy of stored facts sent out of a system.
+<user> what is a records under export
+<bot> records under export means a copy of stored facts sent out of a system.
 <end>
 
-<user> what is an import of records
-<bot> import of records means bringing stored facts into a system.
+<user> what is a records under import
+<bot> records under import means bringing stored facts into a system.
 <end>
 
 <user> what is a data mapping
@@ -6690,8 +6690,8 @@
 <bot> file naming means the pattern used for document titles.
 <end>
 
-<user> what is a folder structure
-<bot> folder structure means the agreed tree of places where files live.
+<user> what is a structure of folder
+<bot> structure of folder means the agreed tree of places where files live.
 <end>
 
 <user> what is a shared drive
@@ -6718,8 +6718,8 @@
 <bot> link share means sending a web link instead of the file itself.
 <end>
 
-<user> what is an expiry of link
-<bot> expiry of link means a share link that stops working after a date.
+<user> what is a link under expiry
+<bot> link under expiry means a share link that stops working after a date.
 <end>
 
 <user> what is a watermark
@@ -6759,7 +6759,7 @@
 <end>
 
 <user> what is a leaver checklist
-<bot> leaver checklist means the tasks completed when someone leaves.
+<bot> leaver checklist means for checklist, the tasks completed when someone leaves.
 <end>
 
 <user> what is a joiner checklist
@@ -6767,71 +6767,71 @@
 <end>
 
 <user> what is a mover checklist
-<bot> mover checklist means the tasks completed when someone changes role.
+<bot> mover checklist means for checklist, the tasks completed when someone changes role.
 <end>
 
-<user> what is an asset return
-<bot> asset return means giving back a laptop or a phone when you leave.
+<user> what is a return of asset
+<bot> return of asset means giving back a laptop or a phone when you leave.
 <end>
 
-<user> what is an asset register
-<bot> asset register means the list of equipment the company owns.
+<user> what is a register of asset
+<bot> register of asset means the list of equipment the company owns.
 <end>
 
-<user> what is an asset tag
-<bot> asset tag means the sticker that identifies one piece of equipment.
+<user> what is a tag of asset
+<bot> tag of asset means the sticker that identifies one piece of equipment.
 <end>
 
-<user> what is an asset owner
-<bot> asset owner means the person responsible for a piece of equipment.
+<user> what is an owner of asset
+<bot> owner of asset means for owner, the person responsible for a piece of equipment.
 <end>
 
 <user> what is a lost equipment
 <bot> lost equipment means gear that cannot be found.
 <end>
 
-<user> what is an equipment request
-<bot> equipment request means an ask for a laptop, a phone, or a similar tool.
+<user> what is a request of equipment
+<bot> request of equipment means an ask for a laptop, a phone, or a similar tool.
 <end>
 
 <user> what is a standard build
 <bot> standard build means the usual set of programs on a work computer.
 <end>
 
-<user> what is a software request
-<bot> software request means an ask to install a program.
+<user> what is a request of software
+<bot> request of software means an ask to install a program.
 <end>
 
-<user> what is a license seat
-<bot> license seat means one paid right to use a program.
+<user> what is a seat of license
+<bot> seat of license means one paid right to use a program.
 <end>
 
-<user> what is a license true up
-<bot> license true up means paying for seats used beyond what was bought.
+<user> what is a true up of license
+<bot> true up of license means paying for seats used beyond what was bought.
 <end>
 
 <user> what is an unused license
 <bot> unused license means a paid seat nobody is using.
 <end>
 
-<user> what is a renewal date
-<bot> renewal date means the day a license or a contract must be continued or it ends.
+<user> what is a date of renewal
+<bot> date of renewal means the day a license or a contract must be continued or it ends.
 <end>
 
-<user> what is a notice to cancel
-<bot> notice to cancel means the warning required before you stop a contract.
+<user> what is a to cancel of notice
+<bot> to cancel of notice means the warning required before you stop a contract.
 <end>
 
 <user> what is an auto renew trap
 <bot> auto renew trap means a contract that continues because nobody cancelled in time.
 <end>
 
-<user> what is a vendor contact
-<bot> vendor contact means the person you call at a supplier.
+<user> what is a contact of vendor
+<bot> contact of vendor means the person you call at a supplier.
 <end>
 
-<user> what is an escalation contact
-<bot> escalation contact means the more senior person you call if the first contact fails.
+<user> what is a contact of escalation
+<bot> contact of escalation means the more senior person you call if the first contact fails.
 <end>
 
 <user> what is a support hours
@@ -6854,12 +6854,12 @@
 <bot> severity three means a smaller problem that can wait.
 <end>
 
-<user> what is a ticket priority
-<bot> ticket priority means the rank that decides which request is worked next.
+<user> what is a detail priority of ticket
+<bot> detail priority of ticket means the rank that decides which request is worked next.
 <end>
 
-<user> what is a ticket queue
-<bot> ticket queue means the list of open requests for a team.
+<user> what is a queue of ticket
+<bot> queue of ticket means the list of open requests for a team.
 <end>
 
 <user> what is an assignee
@@ -6875,7 +6875,7 @@
 <end>
 
 <user> what is a pending vendor
-<bot> pending vendor means a request waiting because you need an answer from a supplier.
+<bot> pending vendor means for vendor, a request waiting because you need an answer from a supplier.
 <end>
 
 <user> what is a resolved ticket
@@ -6946,8 +6946,8 @@
 <bot> test evidence means proof that an alteration was tried before it went live.
 <end>
 
-<user> what is an approval record
-<bot> approval record means the stored yes from the person allowed to decide.
+<user> what is a record of approval
+<bot> record of approval means the stored yes from the person allowed to decide.
 <end>
 
 <user> what is a segregation check
@@ -6963,7 +6963,7 @@
 <end>
 
 <user> what is a control owner
-<bot> control owner means the person responsible for a stated check.
+<bot> control owner means for owner, the person responsible for a stated check.
 <end>
 
 <user> what is a control frequency
@@ -6974,8 +6974,8 @@
 <bot> control evidence means the proof that a check was done.
 <end>
 
-<user> what is an exception report
-<bot> exception report means a list of items that failed a check.
+<user> what is a detail report of exception
+<bot> detail report of exception means a list of items that failed a check.
 <end>
 
 <user> what is an aging exception
@@ -6986,20 +6986,20 @@
 <bot> management review means leaders looking at results and exceptions on a set cycle.
 <end>
 
-<user> what is a sign off date
-<bot> sign off date means the day a reviewer accepted a result.
+<user> what is a date of sign off
+<bot> date of sign off means the day a reviewer accepted a result.
 <end>
 
 <user> what is an overdue review
 <bot> overdue review means a check whose date has passed.
 <end>
 
-<user> what is a policy owner
-<bot> policy owner means the person responsible for keeping a rule current.
+<user> what is an owner of policy
+<bot> owner of policy means the person responsible for keeping a rule current.
 <end>
 
-<user> what is a policy review date
-<bot> policy review date means the day a rule must be looked at again.
+<user> what is a review date of policy
+<bot> review date of policy means the day a rule must be looked at again.
 <end>
 
 <user> what is a procedure
@@ -7010,8 +7010,8 @@
 <bot> work instruction means a detailed how to for one task.
 <end>
 
-<user> what is a form template
-<bot> form template means a blank document people copy and fill.
+<user> what is a template of form
+<bot> template of form means a blank document people copy and fill.
 <end>
 
 <user> what is a record template
@@ -7027,19 +7027,19 @@
 <end>
 
 <user> what is a draft watermark
-<bot> draft watermark means a mark that shows a paper is not yet approved.
+<bot> draft watermark means for watermark, a mark that shows a paper is not yet approved.
 <end>
 
 <user> what is an approved stamp
 <bot> approved stamp means a mark that shows a paper may be used.
 <end>
 
-<user> what is a withdrawal notice
-<bot> withdrawal notice means a message that an old paper must stop being used.
+<user> what is a notice of withdrawal
+<bot> notice of withdrawal means a message that an old paper must stop being used.
 <end>
 
-<user> what is a training matrix
-<bot> training matrix means a grid of which roles must learn which procedures.
+<user> what is a matrix of training
+<bot> matrix of training means a grid of which roles must learn which procedures.
 <end>
 
 <user> what is a competence record
@@ -7054,12 +7054,12 @@
 <bot> refresher training means a repeat course that keeps a skill current.
 <end>
 
-<user> what is a training expiry
-<bot> training expiry means the day a qualification is no longer valid.
+<user> what is a detail expiry of training
+<bot> detail expiry of training means the day a qualification is no longer valid.
 <end>
 
-<user> what is a license to practice
-<bot> license to practice means an official permission required before certain work.
+<user> what is a to practice of license
+<bot> to practice of license means an official permission required before certain work.
 <end>
 
 <user> what is a continuing education
@@ -7082,8 +7082,8 @@
 <bot> objectivity means judging from facts rather than from preference.
 <end>
 
-<user> what is a confidentiality duty
-<bot> confidentiality duty means the duty not to reveal client or company secrets.
+<user> what is a detail duty of confidentiality
+<bot> detail duty of confidentiality means the duty not to reveal client or company secrets.
 <end>
 
 <user> what is a professional skepticism
@@ -7094,12 +7094,12 @@
 <bot> engagement risk means the chance a job will harm the firm or the client.
 <end>
 
-<user> what is a client acceptance
-<bot> client acceptance means the decision to take on a new client.
+<user> what is an acceptance of client
+<bot> acceptance of client means the decision to take on a new client.
 <end>
 
-<user> what is a client continuance
-<bot> client continuance means the decision to keep serving a client.
+<user> what is a continuance of client
+<bot> continuance of client means the decision to keep serving a client.
 <end>
 
 <user> what is a money laundering risk
@@ -7134,28 +7134,28 @@
 <bot> record of decision means the note of why a risk was accepted or refused.
 <end>
 
-<user> what is a risk appetite
-<bot> risk appetite means how much risk leaders are willing to take.
+<user> what is an appetite of risk
+<bot> appetite of risk means how much risk leaders are willing to take.
 <end>
 
-<user> what is a risk tolerance
-<bot> risk tolerance means the range of variation leaders will accept.
+<user> what is a tolerance of risk
+<bot> tolerance of risk means the range of variation leaders will accept.
 <end>
 
-<user> what is a risk limit
-<bot> risk limit means the hard cap that must not be crossed.
+<user> what is a limit of risk
+<bot> limit of risk means the hard cap that must not be crossed.
 <end>
 
 <user> what is a key risk indicator
 <bot> key risk indicator means a number that warns a risk is rising.
 <end>
 
-<user> what is a risk event
-<bot> risk event means something that happened and caused a loss or a near loss.
+<user> what is an event of risk
+<bot> event of risk means something that happened and caused a loss or a near loss.
 <end>
 
-<user> what is a loss event
-<bot> loss event means a risk that turned into a real financial harm.
+<user> what is an event of loss
+<bot> event of loss means a risk that turned into a real financial harm.
 <end>
 
 <user> what is a near loss
@@ -7174,36 +7174,36 @@
 <bot> inherent risk means the risk before controls.
 <end>
 
-<user> what is a risk treatment
-<bot> risk treatment means the choice to reduce, accept, transfer, or avoid a risk.
+<user> what is a treatment of risk
+<bot> treatment of risk means the choice to reduce, accept, transfer, or avoid a risk.
 <end>
 
-<user> what is a risk acceptance
-<bot> risk acceptance means a conscious choice to live with a risk.
+<user> what is an acceptance of risk
+<bot> acceptance of risk means a conscious choice to live with a risk.
 <end>
 
-<user> what is a risk transfer
-<bot> risk transfer means moving a risk to another party, often by insurance.
+<user> what is a transfer of risk
+<bot> transfer of risk means moving a risk to another party, often by insurance.
 <end>
 
-<user> what is a risk avoidance
-<bot> risk avoidance means stopping the activity that creates a risk.
+<user> what is an avoidance of risk
+<bot> avoidance of risk means stopping the activity that creates a risk.
 <end>
 
-<user> what is an insurance deductible
-<bot> insurance deductible means the amount you pay yourself before cover starts.
+<user> what is a deductible of insurance
+<bot> deductible of insurance means the amount you pay yourself before cover starts.
 <end>
 
-<user> what is a policy limit
-<bot> policy limit means the most an insurance contract will pay.
+<user> what is a limit of policy
+<bot> limit of policy means the most an insurance contract will pay.
 <end>
 
 <user> what is an exclusion
 <bot> exclusion means a loss the insurance contract will not pay.
 <end>
 
-<user> what is an endorsement to policy
-<bot> endorsement to policy means a change added to an insurance contract.
+<user> what is a to policy of endorsement
+<bot> to policy of endorsement means a change added to an insurance contract.
 <end>
 
 <user> what is a certificate of insurance
@@ -7214,24 +7214,24 @@
 <bot> additional insured means another party named on your insurance.
 <end>
 
-<user> what is a waiver of subrogation
-<bot> waiver of subrogation means giving up the insurer right to recover from a named party.
+<user> what is a detail subrogation under waiver
+<bot> detail subrogation under waiver means giving up the insurer right to recover from a named party.
 <end>
 
-<user> what is a claim notice
-<bot> claim notice means telling the insurer that a loss has happened.
+<user> what is a notice of claim
+<bot> notice of claim means telling the insurer that a loss has happened.
 <end>
 
-<user> what is a claim adjuster
-<bot> claim adjuster means the person the insurer sends to assess a loss.
+<user> what is an adjuster of claim
+<bot> adjuster of claim means the person the insurer sends to assess a loss.
 <end>
 
 <user> what is a proof of loss
 <bot> proof of loss means the papers that show what was lost and what it was worth.
 <end>
 
-<user> what is a settlement offer from insurer
-<bot> settlement offer from insurer means the sum the insurer proposes to pay.
+<user> what is a from insurer of settlement offer
+<bot> from insurer of settlement offer means the sum the insurer proposes to pay.
 <end>
 
 <user> what is a subrogation
@@ -7242,12 +7242,12 @@
 <bot> premium means the price paid for insurance.
 <end>
 
-<user> what is a renewal premium
-<bot> renewal premium means the price to continue insurance for another term.
+<user> what is a detail premium of renewal
+<bot> detail premium of renewal means the price to continue insurance for another term.
 <end>
 
-<user> what is a loss ratio
-<bot> loss ratio means claims paid compared with premiums collected.
+<user> what is a ratio of loss
+<bot> ratio of loss means claims paid compared with premiums collected.
 <end>
 
 <user> what is a broker
@@ -7262,8 +7262,8 @@
 <bot> declaration page means the page that lists the amounts, dates, and names on a policy.
 <end>
 
-<user> what is a lease abstract
-<bot> lease abstract means a short note of the important lines in a lease.
+<user> what is an abstract of lease
+<bot> abstract of lease means a short note of the important lines in a lease.
 <end>
 
 <user> what is a rent review
@@ -7274,8 +7274,8 @@
 <bot> rent free period means opening months when a tenant pays no rent.
 <end>
 
-<user> what is a service charge
-<bot> service charge means the tenant share of the costs of running a building.
+<user> what is a charge of service
+<bot> charge of service means for charge, the tenant share of the costs of running a building.
 <end>
 
 <user> what is a break clause
@@ -7290,8 +7290,8 @@
 <bot> fit out means building the interior of a rented space for use.
 <end>
 
-<user> what is a landlord consent
-<bot> landlord consent means the owner permission before a tenant changes the space.
+<user> what is a consent of landlord
+<bot> consent of landlord means the owner permission before a tenant changes the space.
 <end>
 
 <user> what is an assignment of lease
@@ -7306,16 +7306,16 @@
 <bot> security deposit means money a tenant leaves with the owner against damage.
 <end>
 
-<user> what is a guarantor of lease
-<bot> guarantor of lease means a person who pays the rent if the tenant cannot.
+<user> what is a detail lease under guarantor
+<bot> detail lease under guarantor means a person who pays the rent if the tenant cannot.
 <end>
 
 <user> what is a heads of terms
 <bot> heads of terms means the main points agreed before a full lease is written.
 <end>
 
-<user> what is an exclusivity period
-<bot> exclusivity period means days when the owner will not talk to another tenant.
+<user> what is a period of exclusivity
+<bot> period of exclusivity means days when the owner will not talk to another tenant.
 <end>
 
 <user> what is a permitted use
@@ -7330,16 +7330,16 @@
 <bot> repairing covenant means the promise to keep the space in a stated condition.
 <end>
 
-<user> what is an insurance rent
-<bot> insurance rent means the tenant share of the building insurance.
+<user> what is a rent of insurance
+<bot> rent of insurance means the tenant share of the building insurance.
 <end>
 
 <user> what is a rent deposit deed
 <bot> rent deposit deed means the paper that holds a tenant deposit.
 <end>
 
-<user> what is a schedule of condition
-<bot> schedule of condition means photos and notes of the space at the start.
+<user> what is a condition under schedule
+<bot> condition under schedule means photos and notes of the space at the start.
 <end>
 
 <user> what is a yielding up
@@ -7386,8 +7386,8 @@
 <bot> easement means a right to use part of someone else land.
 <end>
 
-<user> what is a covenant on land
-<bot> covenant on land means a promise that runs with the property.
+<user> what is an on land of covenant
+<bot> on land of covenant means a promise that runs with the property.
 <end>
 
 <user> what is a planning permission
@@ -7434,8 +7434,8 @@
 <bot> residual land value means what land is worth after building costs and profit.
 <end>
 
-<user> what is a gross development value
-<bot> gross development value means what a finished project should sell for.
+<user> what is a development value of gross
+<bot> development value of gross means what a finished project should sell for.
 <end>
 
 <user> what is a build cost estimate
@@ -7470,8 +7470,8 @@
 <bot> managing agent means a person who runs a building for the owner.
 <end>
 
-<user> what is a service charge budget
-<bot> service charge budget means the planned cost of running a building for a year.
+<user> what is a detail budget of service charge
+<bot> detail budget of service charge means the planned cost of running a building for a year.
 <end>
 
 <user> what is a sinking fund
@@ -7482,8 +7482,8 @@
 <bot> reserve fund means money set aside for repairs and replacements.
 <end>
 
-<user> what is a capital expenditure
-<bot> capital expenditure means spend on a long lived asset.
+<user> what is an expenditure of capital
+<bot> expenditure of capital means spend on a long lived asset.
 <end>
 
 <user> what is an operating expenditure
@@ -7502,12 +7502,12 @@
 <bot> gain on disposal means profit when an asset sells for more than its book value.
 <end>
 
-<user> what is a loss on disposal
-<bot> loss on disposal means the shortfall when an asset sells for less than its book value.
+<user> what is an on disposal of loss
+<bot> on disposal of loss means the shortfall when an asset sells for less than its book value.
 <end>
 
-<user> what is a net book value
-<bot> net book value means cost minus the depreciation already taken.
+<user> what is a book value of net
+<bot> book value of net means cost minus the depreciation already taken.
 <end>
 
 <user> what is an useful life
@@ -7526,36 +7526,36 @@
 <bot> reducing balance method means taking a larger depreciation in the early years.
 <end>
 
-<user> what is an impairment review
-<bot> impairment review means a check of whether an asset value has fallen for good.
+<user> what is a review of impairment
+<bot> review of impairment means a check of whether an asset value has fallen for good.
 <end>
 
 <user> what is a revaluation
 <bot> revaluation means updating an asset to a current value.
 <end>
 
-<user> what is a revaluation reserve
-<bot> revaluation reserve means the gain recorded when an asset is written up.
+<user> what is a reserve of revaluation
+<bot> reserve of revaluation means the gain recorded when an asset is written up.
 <end>
 
 <user> what is a capitalized cost
 <bot> capitalized cost means a spend added to an asset instead of treated as an expense.
 <end>
 
-<user> what is an expense immediately
-<bot> expense immediately means treating a spend as a cost in the current period.
+<user> what is an immediately of expense
+<bot> immediately of expense means treating a spend as a cost in the current period.
 <end>
 
 <user> what is a component accounting
 <bot> component accounting means depreciating the major parts of an asset separately.
 <end>
 
-<user> what is an asset retirement
-<bot> asset retirement means the cost of taking an asset out of use at the end.
+<user> what is a retirement of asset
+<bot> retirement of asset means the cost of taking an asset out of use at the end.
 <end>
 
-<user> what is a lease liability
-<bot> lease liability means the debt recorded for future rent payments.
+<user> what is a detail liability of lease
+<bot> detail liability of lease means the debt recorded for future rent payments.
 <end>
 
 <user> what is a right of use asset
@@ -7570,8 +7570,8 @@
 <bot> low value lease means a lease of a small item that may stay off the balance sheet.
 <end>
 
-<user> what is a lease incentive
-<bot> lease incentive means a payment or a rent holiday that encourages a tenant.
+<user> what is a detail incentive of lease
+<bot> detail incentive of lease means a payment or a rent holiday that encourages a tenant.
 <end>
 
 <user> what is an initial direct cost
@@ -7598,8 +7598,8 @@
 <bot> operating lease treatment means a lease treated as a rental rather than a purchase.
 <end>
 
-<user> what is a sale and leaseback
-<bot> sale and leaseback means selling an asset and renting it back from the buyer.
+<user> what is an and leaseback of sale
+<bot> and leaseback of sale means selling an asset and renting it back from the buyer.
 <end>
 
 <user> what is a purchase option
@@ -7651,11 +7651,11 @@
 <end>
 
 <user> what is a restructuring provision
-<bot> restructuring provision means a recorded cost of a planned closure or layoff.
+<bot> restructuring provision means for provision, a recorded cost of a planned closure or layoff.
 <end>
 
-<user> what is a warranty provision
-<bot> warranty provision means a recorded cost of future repairs already promised.
+<user> what is a detail provision of warranty
+<bot> detail provision of warranty means a recorded cost of future repairs already promised.
 <end>
 
 <user> what is a legal provision
@@ -7682,8 +7682,8 @@
 <bot> offsetting means showing an asset and a debt as one net number.
 <end>
 
-<user> what is a gross presentation
-<bot> gross presentation means showing both sides rather than only the net.
+<user> what is a detail presentation of gross
+<bot> detail presentation of gross means showing both sides rather than only the net.
 <end>
 
 <user> what is a current portion
@@ -7694,16 +7694,16 @@
 <bot> noncurrent portion means the part of a debt due after a year.
 <end>
 
-<user> what is a covenant breach
-<bot> covenant breach means breaking a promise in a loan.
+<user> what is a detail breach of covenant
+<bot> detail breach of covenant means breaking a promise in a loan.
 <end>
 
-<user> what is a waiver from lender
-<bot> waiver from lender means the lender agreeing to overlook a broken promise.
+<user> what is a from lender of waiver
+<bot> from lender of waiver means the lender agreeing to overlook a broken promise.
 <end>
 
-<user> what is a debt modification
-<bot> debt modification means changing the terms of a loan.
+<user> what is a modification of debt
+<bot> modification of debt means changing the terms of a loan.
 <end>
 
 <user> what is an extinguishment
@@ -7730,16 +7730,16 @@
 <bot> hedge means a deal that offsets the risk of another deal.
 <end>
 
-<user> what is a fair value hedge
-<bot> fair value hedge means a hedge of the value of a recorded item.
+<user> what is a detail hedge of fair value
+<bot> detail hedge of fair value means a hedge of the value of a recorded item.
 <end>
 
-<user> what is a cash flow hedge
-<bot> cash flow hedge means a hedge of a future cash amount.
+<user> what is a detail hedge of cash flow
+<bot> detail hedge of cash flow means a hedge of a future cash amount.
 <end>
 
-<user> what is a hedge documentation
-<bot> hedge documentation means the paper that says what is being hedged and how.
+<user> what is a documentation of hedge
+<bot> documentation of hedge means the paper that says what is being hedged and how.
 <end>
 
 <user> what is an ineffectiveness
@@ -7766,16 +7766,16 @@
 <bot> notional amount means the face sum used to calculate payments, often not exchanged.
 <end>
 
-<user> what is a settlement date
-<bot> settlement date means the day a derivative is paid.
+<user> what is a date of settlement
+<bot> date of settlement means the day a derivative is paid.
 <end>
 
-<user> what is a margin call
-<bot> margin call means a demand for more cash to cover a losing position.
+<user> what is a call of margin
+<bot> call of margin means a demand for more cash to cover a losing position.
 <end>
 
-<user> what is a collateral posted
-<bot> collateral posted means cash or securities given to secure a derivative.
+<user> what is a posted of collateral
+<bot> posted of collateral means cash or securities given to secure a derivative.
 <end>
 
 <user> what is a counterparty risk
@@ -7818,20 +7818,20 @@
 <bot> banking book means loans and deposits held for the longer business.
 <end>
 
-<user> what is a credit spread
-<bot> credit spread means the extra interest a borrower pays above a safe rate.
+<user> what is a spread of credit
+<bot> spread of credit means the extra interest a borrower pays above a safe rate.
 <end>
 
 <user> what is a basis point
 <bot> basis point means one hundredth of one percent.
 <end>
 
-<user> what is a reference rate
-<bot> reference rate means the published rate a loan interest is tied to.
+<user> what is a rate of reference
+<bot> rate of reference means the published rate a loan interest is tied to.
 <end>
 
-<user> what is a margin over rate
-<bot> margin over rate means the extra percentage added to a reference rate.
+<user> what is an over rate of margin
+<bot> over rate of margin means the extra percentage added to a reference rate.
 <end>
 
 <user> what is a floor rate
@@ -7842,8 +7842,8 @@
 <bot> cap rate on loan means the highest interest a loan can charge.
 <end>
 
-<user> what is an interest only period
-<bot> interest only period means months when you pay interest but not principal.
+<user> what is an only period of interest
+<bot> only period of interest means months when you pay interest but not principal.
 <end>
 
 <user> what is an amortizing loan
@@ -7854,8 +7854,8 @@
 <bot> bullet repayment means paying the whole principal at the end.
 <end>
 
-<user> what is a prepayment penalty
-<bot> prepayment penalty means a charge for paying a loan off early.
+<user> what is a detail penalty of prepayment
+<bot> detail penalty of prepayment means a charge for paying a loan off early.
 <end>
 
 <user> what is a make whole
@@ -7886,16 +7886,16 @@
 <bot> mezzanine finance means borrowing that sits between senior debt and shares.
 <end>
 
-<user> what is an equity kicker
-<bot> equity kicker means a share sweetener attached to a loan.
+<user> what is a kicker of equity
+<bot> kicker of equity means a share sweetener attached to a loan.
 <end>
 
 <user> what is a warrant
 <bot> warrant means a right to buy shares later, often attached to a deal.
 <end>
 
-<user> what is a conversion price
-<bot> conversion price means the price at which a loan or a preferred share becomes ordinary shares.
+<user> what is a detail price of conversion
+<bot> detail price of conversion means the price at which a loan or a preferred share becomes ordinary shares.
 <end>
 
 <user> what is an anti dilution
@@ -7919,11 +7919,11 @@
 <end>
 
 <user> what is an information rights letter
-<bot> information rights letter means the paper that says which reports an investor receives.
+<bot> information rights letter means for letter, the paper that says which reports an investor receives.
 <end>
 
-<user> what is an inspection right
-<bot> inspection right means a right to look at the company books.
+<user> what is a right of inspection
+<bot> right of inspection means a right to look at the company books.
 <end>
 
 <user> what is a protective provision
@@ -7938,24 +7938,24 @@
 <bot> deadlock means a tie that stops a decision.
 <end>
 
-<user> what is a deadlock resolution
-<bot> deadlock resolution means the agreed way to break a tie.
+<user> what is a detail resolution of deadlock
+<bot> detail resolution of deadlock means the agreed way to break a tie.
 <end>
 
 <user> what is a casting vote
 <bot> casting vote means an extra vote the chair may use to break a tie.
 <end>
 
-<user> what is a quorum of directors
-<bot> quorum of directors means the minimum directors who must be present.
+<user> what is a directors under quorum
+<bot> directors under quorum means the minimum directors who must be present.
 <end>
 
 <user> what is a written board consent
 <bot> written board consent means a decision signed by every director without a meeting.
 <end>
 
-<user> what is a notice of meeting
-<bot> notice of meeting means the warning that a meeting will happen.
+<user> what is a detail meeting under notice
+<bot> detail meeting under notice means the warning that a meeting will happen.
 <end>
 
 <user> what is a short notice
@@ -7966,8 +7966,8 @@
 <bot> adjournment means pausing a meeting to continue another day.
 <end>
 
-<user> what is a minutes approval
-<bot> minutes approval means the later yes that the notes of a meeting are correct.
+<user> what is an approval of minutes
+<bot> approval of minutes means the later yes that the notes of a meeting are correct.
 <end>
 
 <user> what is a matters arising
@@ -7990,8 +7990,8 @@
 <bot> directors duties note means a reminder of the legal duties of directors.
 <end>
 
-<user> what is a solvency statement
-<bot> solvency statement means directors saying the company can pay its debts.
+<user> what is a detail statement of solvency
+<bot> detail statement of solvency means directors saying the company can pay its debts.
 <end>
 
 <user> what is a wrongful trading
@@ -8046,8 +8046,8 @@
 <bot> prescribed part means a slice of charged assets set aside for unsecured creditors.
 <end>
 
-<user> what is a dividend to creditors
-<bot> dividend to creditors means the fraction of a debt that an insolvency pays.
+<user> what is a to creditors of dividend
+<bot> to creditors of dividend means the fraction of a debt that an insolvency pays.
 <end>
 
 <user> what is a disclaimer of lease
@@ -8058,8 +8058,8 @@
 <bot> moratorium means a pause on creditor action while a rescue is tried.
 <end>
 
-<user> what is a company voluntary arrangement
-<bot> company voluntary arrangement means a deal with creditors to pay over time.
+<user> what is a voluntary arrangement of company
+<bot> voluntary arrangement of company means a deal with creditors to pay over time.
 <end>
 
 <user> what is a scheme of arrangement
@@ -8082,8 +8082,8 @@
 <bot> workout means a negotiated fix of a troubled loan outside court.
 <end>
 
-<user> what is a debt for equity
-<bot> debt for equity means turning what is owed into shares.
+<user> what is a for equity of debt
+<bot> for equity of debt means turning what is owed into shares.
 <end>
 
 <user> what is a haircut
@@ -8115,7 +8115,7 @@
 <end>
 
 <user> what is a facility agent
-<bot> facility agent means the person who runs a loan for a group of lenders.
+<bot> facility agent means for agent, the person who runs a loan for a group of lenders.
 <end>
 
 <user> what is a syndicate
@@ -8126,8 +8126,8 @@
 <bot> commitment letter means a lender promise to provide a loan if conditions are met.
 <end>
 
-<user> what is a term sheet for debt
-<bot> term sheet for debt means the short list of loan terms before the full contract.
+<user> what is a for debt of term sheet
+<bot> for debt of term sheet means the short list of loan terms before the full contract.
 <end>
 
 <user> what is a conditions precedent list
@@ -8150,12 +8150,12 @@
 <bot> repayment schedule means the dates and amounts of paying a loan back.
 <end>
 
-<user> what is an interest period
-<bot> interest period means the span of days for which interest is calculated.
+<user> what is a period of interest
+<bot> period of interest means the span of days for which interest is calculated.
 <end>
 
-<user> what is an interest payment date
-<bot> interest payment date means the day interest must be paid.
+<user> what is a detail payment date of interest
+<bot> detail payment date of interest means the day interest must be paid.
 <end>
 
 <user> what is a default interest
@@ -8170,8 +8170,8 @@
 <bot> acceleration means demanding the whole loan at once after a default.
 <end>
 
-<user> what is a waiver letter
-<bot> waiver letter means the lender written agreement to overlook a breach.
+<user> what is a letter of waiver
+<bot> letter of waiver means the lender written agreement to overlook a breach.
 <end>
 
 <user> what is an amendment letter
@@ -8182,8 +8182,8 @@
 <bot> consent letter means a lender yes to something the contract restricts.
 <end>
 
-<user> what is a compliance certificate
-<bot> compliance certificate means the borrower statement that it met the financial tests.
+<user> what is a certificate of compliance
+<bot> certificate of compliance means the borrower statement that it met the financial tests.
 <end>
 
 <user> what is a financial covenant
@@ -8302,24 +8302,24 @@
 <bot> guarantee means a promise to pay if another person does not.
 <end>
 
-<user> what is an indemnity for costs
-<bot> indemnity for costs means a promise to cover losses, not only the debt itself.
+<user> what is a for costs of indemnity
+<bot> for costs of indemnity means a promise to cover losses, not only the debt itself.
 <end>
 
-<user> what is a demand guarantee
-<bot> demand guarantee means a promise a bank must pay when a complying demand is made.
+<user> what is a detail guarantee of demand
+<bot> detail guarantee of demand means a promise a bank must pay when a complying demand is made.
 <end>
 
-<user> what is a performance guarantee
-<bot> performance guarantee means a bank promise that stands behind a contractor.
+<user> what is a detail guarantee of performance
+<bot> detail guarantee of performance means a bank promise that stands behind a contractor.
 <end>
 
-<user> what is an advance payment guarantee
-<bot> advance payment guarantee means a bank promise that stands behind money paid up front.
+<user> what is a detail guarantee of advance payment
+<bot> detail guarantee of advance payment means for guarantee, a bank promise that stands behind money paid up front.
 <end>
 
 <user> what is a retention bond
-<bot> retention bond means a bank promise that stands in place of money held back.
+<bot> retention bond means for bond, a bank promise that stands in place of money held back.
 <end>
 
 <user> what is a parent guarantee
@@ -8350,8 +8350,8 @@
 <bot> crystallisation means a floating charge becoming fixed on stated events.
 <end>
 
-<user> what is a mortgage of shares
-<bot> mortgage of shares means a charge over shares in a company.
+<user> what is a shares under mortgage
+<bot> shares under mortgage means a charge over shares in a company.
 <end>
 
 <user> what is an assignment of receivables
@@ -8366,20 +8366,20 @@
 <bot> share charge means security over shares.
 <end>
 
-<user> what is an account charge
-<bot> account charge means security over a bank balance.
+<user> what is a charge of account
+<bot> charge of account means security over a bank balance.
 <end>
 
-<user> what is an intellectual property charge
-<bot> intellectual property charge means security over patents, names, or similar rights.
+<user> what is a charge of intellectual property
+<bot> charge of intellectual property means security over patents, names, or similar rights.
 <end>
 
-<user> what is a landlord waiver
-<bot> landlord waiver means the building owner agreeing a lender may take the tenant assets.
+<user> what is a detail waiver of landlord
+<bot> detail waiver of landlord means the building owner agreeing a lender may take the tenant assets.
 <end>
 
-<user> what is a priority agreement
-<bot> priority agreement means a contract that ranks two securities.
+<user> what is a detail agreement of priority
+<bot> detail agreement of priority means a contract that ranks two securities.
 <end>
 
 <user> what is a deed of release
@@ -8418,12 +8418,12 @@
 <bot> negative clearance means a search that finds no blocking security.
 <end>
 
-<user> what is a capacity opinion
-<bot> capacity opinion means a lawyer view that a company had power to sign.
+<user> what is an opinion of capacity
+<bot> opinion of capacity means a lawyer view that a company had power to sign.
 <end>
 
 <user> what is an enforceability opinion
-<bot> enforceability opinion means a lawyer view that a contract can be enforced.
+<bot> enforceability opinion means for opinion, a lawyer view that a contract can be enforced.
 <end>
 
 <user> what is a due authorization
@@ -8446,16 +8446,16 @@
 <bot> counterpart means one of several copies of a contract, each signed.
 <end>
 
-<user> what is a delivery of deed
-<bot> delivery of deed means the act that makes a deed effective.
+<user> what is a deed under delivery
+<bot> deed under delivery means the act that makes a deed effective.
 <end>
 
-<user> what is an escrow signing
-<bot> escrow signing means signing now but agreeing the contract starts only later.
+<user> what is a signing of escrow
+<bot> signing of escrow means signing now but agreeing the contract starts only later.
 <end>
 
-<user> what is a closing binder
-<bot> closing binder means the set of signed papers from a deal.
+<user> what is a detail binder of closing
+<bot> detail binder of closing means the set of signed papers from a deal.
 <end>
 
 <user> what is an original document
@@ -8486,8 +8486,8 @@
 <bot> governing language means which language version controls if they differ.
 <end>
 
-<user> what is a conflict of laws
-<bot> conflict of laws means the question of which country law applies.
+<user> what is a laws under conflict
+<bot> laws under conflict means the question of which country law applies.
 <end>
 
 <user> what is an exclusive jurisdiction
@@ -8498,28 +8498,28 @@
 <bot> non exclusive jurisdiction means the stated court may hear the dispute, and others might too.
 <end>
 
-<user> what is a service agent
-<bot> service agent means a person in a country appointed to receive court papers.
+<user> what is an agent of service
+<bot> agent of service means a person in a country appointed to receive court papers.
 <end>
 
 <user> what is a process agent
 <bot> process agent means another name for the person who receives court papers.
 <end>
 
-<user> what is a notice clause
-<bot> notice clause means the contract line that says how formal notices must be sent.
+<user> what is a detail clause of notice
+<bot> detail clause of notice means the contract line that says how formal notices must be sent.
 <end>
 
 <user> what is a deemed receipt
 <bot> deemed receipt means the rule for when a notice counts as received.
 <end>
 
-<user> what is a business day
-<bot> business day means a day banks are open, excluding weekends and holidays.
+<user> what is a day of business
+<bot> day of business means a day banks are open, excluding weekends and holidays.
 <end>
 
-<user> what is a calendar day
-<bot> calendar day means any day, including weekends.
+<user> what is a day of calendar
+<bot> day of calendar means any day, including weekends.
 <end>
 
 <user> what is a time of essence
@@ -8562,12 +8562,12 @@
 <bot> no third party rights means a line that stops outsiders enforcing the contract.
 <end>
 
-<user> what is a variation in writing
-<bot> variation in writing means a rule that changes count only if written and signed.
+<user> what is an in writing of variation
+<bot> in writing of variation means a rule that changes count only if written and signed.
 <end>
 
-<user> what is a waiver in writing
-<bot> waiver in writing means a rule that giving up a right counts only if written.
+<user> what is an in writing of waiver
+<bot> in writing of waiver means a rule that giving up a right counts only if written.
 <end>
 
 <user> what is a no waiver
@@ -8602,8 +8602,8 @@
 <bot> unlimited liability means no cap on what must be paid for a stated kind of loss.
 <end>
 
-<user> what is an insurance requirement
-<bot> insurance requirement means a contract duty to hold stated cover.
+<user> what is a requirement of insurance
+<bot> requirement of insurance means a contract duty to hold stated cover.
 <end>
 
 <user> what is an evidence of insurance
@@ -8642,8 +8642,8 @@
 <bot> all monies clause means ownership staying with the seller until every debt is paid.
 <end>
 
-<user> what is a risk of loss
-<bot> risk of loss means who bears the harm if goods are damaged before delivery.
+<user> what is a detail loss under risk
+<bot> detail loss under risk means who bears the harm if goods are damaged before delivery.
 <end>
 
 <user> what is a passing of title
@@ -8654,8 +8654,8 @@
 <bot> acceptance of goods means the buyer treating the goods as conforming.
 <end>
 
-<user> what is a rejection of goods
-<bot> rejection of goods means the buyer refusing goods that do not conform.
+<user> what is a goods under rejection
+<bot> goods under rejection means the buyer refusing goods that do not conform.
 <end>
 
 <user> what is a cure period
@@ -8667,11 +8667,11 @@
 <end>
 
 <user> what is a termination for convenience
-<bot> termination for convenience means a right to end a contract without a breach.
+<bot> termination for convenience means for convenience, a right to end a contract without a breach.
 <end>
 
 <user> what is a termination for cause
-<bot> termination for cause means a right to end a contract because of a breach.
+<bot> termination for cause means for cause, a right to end a contract because of a breach.
 <end>
 
 <user> what is a survival clause
@@ -8698,8 +8698,8 @@
 <bot> tupe transfer means staff moving to a new employer when a service changes hands.
 <end>
 
-<user> what is an employee liability information
-<bot> employee liability information means facts about staff that must be shared before a transfer.
+<user> what is a detail liability information of employee
+<bot> detail liability information of employee means facts about staff that must be shared before a transfer.
 <end>
 
 <user> what is a measures letter
@@ -8714,8 +8714,8 @@
 <bot> collective agreement means a deal with a union that covers a group of workers.
 <end>
 
-<user> what is a recognition agreement
-<bot> recognition agreement means the paper that says a union may bargain for staff.
+<user> what is a detail agreement of recognition
+<bot> detail agreement of recognition means the paper that says a union may bargain for staff.
 <end>
 
 <user> what is a shop steward
@@ -8822,16 +8822,16 @@
 <bot> flexible working request means an ask to change hours or place of work.
 <end>
 
-<user> what is a trial period of hours
-<bot> trial period of hours means a test of new hours before they become permanent.
+<user> what is a period of hours of trial
+<bot> period of hours of trial means a test of new hours before they become permanent.
 <end>
 
 <user> what is a compressed hours
 <bot> compressed hours means working the week hours in fewer days.
 <end>
 
-<user> what is a job share
-<bot> job share means two people splitting one role.
+<user> what is a share of job
+<bot> share of job means two people splitting one role.
 <end>
 
 <user> what is a part time contract
@@ -8870,8 +8870,8 @@
 <bot> status determination means the written decision on a contractor tax status.
 <end>
 
-<user> what is a statement of work contract
-<bot> statement of work contract means a contract for a result rather than for a person hours.
+<user> what is a detail contract of statement of work
+<bot> detail contract of statement of work means a contract for a result rather than for a person hours.
 <end>
 
 <user> what is a day rate
@@ -8882,8 +8882,8 @@
 <bot> hourly rate means a price for one hour.
 <end>
 
-<user> what is an overtime rate
-<bot> overtime rate means a higher price for extra hours.
+<user> what is a rate of overtime
+<bot> rate of overtime means a higher price for extra hours.
 <end>
 
 <user> what is a call out fee
@@ -8902,12 +8902,12 @@
 <bot> on call rota means the schedule of who must answer after hours.
 <end>
 
-<user> what is a shift pattern
-<bot> shift pattern means the repeating cycle of early, late, and night shifts.
+<user> what is a pattern of shift
+<bot> pattern of shift means the repeating cycle of early, late, and night shifts.
 <end>
 
-<user> what is a shift swap
-<bot> shift swap means two people exchanging shifts.
+<user> what is a swap of shift
+<bot> swap of shift means two people exchanging shifts.
 <end>
 
 <user> what is a fatigue management
@@ -8946,16 +8946,16 @@
 <bot> manual timesheet means hours written by hand.
 <end>
 
-<user> what is an exception time
-<bot> exception time means recording only the hours that differ from the normal schedule.
+<user> what is a time of exception
+<bot> time of exception means recording only the hours that differ from the normal schedule.
 <end>
 
 <user> what is a positive time
 <bot> positive time means recording every hour worked.
 <end>
 
-<user> what is a payroll cutoff
-<bot> payroll cutoff means the last moment changes can enter the next pay.
+<user> what is a cutoff of payroll
+<bot> cutoff of payroll means the last moment changes can enter the next pay.
 <end>
 
 <user> what is an off cycle payment
@@ -8966,24 +8966,24 @@
 <bot> advance of pay means paying wages before they are earned.
 <end>
 
-<user> what is an attachment of earnings
-<bot> attachment of earnings means taking money from pay because of a court order.
+<user> what is an earnings under attachment
+<bot> earnings under attachment means taking money from pay because of a court order.
 <end>
 
 <user> what is a student loan deduction
 <bot> student loan deduction means taking a student loan repayment from pay.
 <end>
 
-<user> what is a pension contribution
-<bot> pension contribution means money paid into a retirement plan.
+<user> what is a contribution of pension
+<bot> contribution of pension means money paid into a retirement plan.
 <end>
 
-<user> what is an employer pension
-<bot> employer pension means the company share of a retirement payment.
+<user> what is a detail pension of employer
+<bot> detail pension of employer means the company share of a retirement payment.
 <end>
 
-<user> what is an employee pension
-<bot> employee pension means the worker share of a retirement payment.
+<user> what is a detail pension of employee
+<bot> detail pension of employee means the worker share of a retirement payment.
 <end>
 
 <user> what is an auto enrollment
@@ -8994,16 +8994,16 @@
 <bot> opt out of pension means a worker choosing not to stay in the pension.
 <end>
 
-<user> what is a pension scheme
-<bot> pension scheme means the plan that holds retirement savings.
+<user> what is a scheme of pension
+<bot> scheme of pension means the plan that holds retirement savings.
 <end>
 
 <user> what is a trustee of pension
 <bot> trustee of pension means a person who oversees the retirement plan.
 <end>
 
-<user> what is a benefit statement
-<bot> benefit statement means a yearly note of what a pension is worth.
+<user> what is a detail statement of benefit
+<bot> detail statement of benefit means a yearly note of what a pension is worth.
 <end>
 
 <user> what is a death in service
@@ -9022,8 +9022,8 @@
 <bot> dental cover means cover for dental care.
 <end>
 
-<user> what is an income protection
-<bot> income protection means cover that pays part of salary during a long illness.
+<user> what is a protection of income
+<bot> protection of income means cover that pays part of salary during a long illness.
 <end>
 
 <user> what is a critical illness cover
@@ -9034,24 +9034,24 @@
 <bot> flexible benefits means a menu of benefits a worker can choose among.
 <end>
 
-<user> what is a benefit year
-<bot> benefit year means the twelve months a benefit choice covers.
+<user> what is a year of benefit
+<bot> year of benefit means the twelve months a benefit choice covers.
 <end>
 
-<user> what is a salary sacrifice
-<bot> salary sacrifice means giving up pay in exchange for a benefit.
+<user> what is a sacrifice of salary
+<bot> sacrifice of salary means giving up pay in exchange for a benefit.
 <end>
 
 <user> what is a taxable benefit
 <bot> taxable benefit means a benefit that counts as income for tax.
 <end>
 
-<user> what is a benefit in kind
-<bot> benefit in kind means a non cash benefit.
+<user> what is an in kind of benefit
+<bot> in kind of benefit means a non cash benefit.
 <end>
 
-<user> what is a company car
-<bot> company car means a car the employer provides.
+<user> what is a car of company
+<bot> car of company means a car the employer provides.
 <end>
 
 <user> what is a car allowance
@@ -9059,7 +9059,7 @@
 <end>
 
 <user> what is a fuel card
-<bot> fuel card means a card the company issues for fuel.
+<bot> fuel card means for card, a card the company issues for fuel.
 <end>
 
 <user> what is a parking permit
@@ -9074,8 +9074,8 @@
 <bot> season ticket loan means a loan for a travel pass, repaid from pay.
 <end>
 
-<user> what is a staff canteen
-<bot> staff canteen means a place at work where meals are sold or given.
+<user> what is a canteen of staff
+<bot> canteen of staff means a place at work where meals are sold or given.
 <end>
 
 <user> what is a subsidised meal
@@ -9102,16 +9102,16 @@
 <bot> home working allowance means a payment toward the costs of working at home.
 <end>
 
-<user> what is an equipment for home
-<bot> equipment for home means a screen or a chair the employer provides for home work.
+<user> what is a for home of equipment
+<bot> for home of equipment means a screen or a chair the employer provides for home work.
 <end>
 
 <user> what is a right to disconnect
 <bot> right to disconnect means an expectation that messages after hours can wait.
 <end>
 
-<user> what is an overtime approval
-<bot> overtime approval means a manager yes before extra hours are worked.
+<user> what is an approval of overtime
+<bot> approval of overtime means a manager yes before extra hours are worked.
 <end>
 
 <user> what is a toil
@@ -9122,8 +9122,8 @@
 <bot> lieu day means a day off given because you worked a holiday.
 <end>
 
-<user> what is a bank holiday working
-<bot> bank holiday working means working on a public holiday, often at extra pay.
+<user> what is a holiday working of bank
+<bot> holiday working of bank means working on a public holiday, often at extra pay.
 <end>
 
 <user> what is a shutdown
@@ -9142,20 +9142,20 @@
 <bot> handover note means a written brief for the person covering while you are away.
 <end>
 
-<user> what is a cover arrangement
-<bot> cover arrangement means who does your work while you are off.
+<user> what is an arrangement of cover
+<bot> arrangement of cover means who does your work while you are off.
 <end>
 
 <user> what is an out of hours cover
 <bot> out of hours cover means who answers when the office is closed.
 <end>
 
-<user> what is an escalation roster
-<bot> escalation roster means the list of who to call, in order, after hours.
+<user> what is a roster of escalation
+<bot> roster of escalation means the list of who to call, in order, after hours.
 <end>
 
-<user> what is a duty manager
-<bot> duty manager means the manager responsible for a shift.
+<user> what is a detail manager of duty
+<bot> detail manager of duty means the manager responsible for a shift.
 <end>
 
 <user> what is an incident controller
@@ -9170,8 +9170,8 @@
 <bot> first aider means a person trained to give immediate medical help.
 <end>
 
-<user> what is an assembly point
-<bot> assembly point means the place people gather after leaving a building.
+<user> what is a point of assembly
+<bot> point of assembly means the place people gather after leaving a building.
 <end>
 
 <user> what is a roll call
@@ -9202,12 +9202,12 @@
 <bot> fire door means a door that slows fire and must not be wedged open.
 <end>
 
-<user> what is a permit log
-<bot> permit log means the record of hazardous work permissions.
+<user> what is a log of permit
+<bot> log of permit means the record of hazardous work permissions.
 <end>
 
-<user> what is a contractor induction
-<bot> contractor induction means the safety briefing a visitor worker must hear.
+<user> what is an induction of contractor
+<bot> induction of contractor means the safety briefing a visitor worker must hear.
 <end>
 
 <user> what is a site pass
@@ -9218,12 +9218,12 @@
 <bot> method approval means a yes to the written way a contractor will work.
 <end>
 
-<user> what is an insurance check for contractor
-<bot> insurance check for contractor means confirming a contractor holds the required cover.
+<user> what is a check for contractor of insurance
+<bot> check for contractor of insurance means confirming a contractor holds the required cover.
 <end>
 
-<user> what is a permit closeout
-<bot> permit closeout means signing that hazardous work is finished and safe.
+<user> what is a closeout of permit
+<bot> closeout of permit means signing that hazardous work is finished and safe.
 <end>
 
 <user> what is an isolation certificate
@@ -9234,12 +9234,12 @@
 <bot> test before touch means checking that equipment is dead before you handle it.
 <end>
 
-<user> what is a permit issuer
-<bot> permit issuer means the person allowed to grant a hazardous work permission.
+<user> what is an issuer of permit
+<bot> issuer of permit means the person allowed to grant a hazardous work permission.
 <end>
 
-<user> what is a permit holder
-<bot> permit holder means the person who accepts a hazardous work permission.
+<user> what is a holder of permit
+<bot> holder of permit means the person who accepts a hazardous work permission.
 <end>
 
 <user> what is a gas test
@@ -9270,16 +9270,16 @@
 <bot> banksman means the person who guides a vehicle or a lift.
 <end>
 
-<user> what is an exclusion zone
-<bot> exclusion zone means an area people must stay out of.
+<user> what is a zone of exclusion
+<bot> zone of exclusion means an area people must stay out of.
 <end>
 
 <user> what is a spill kit
 <bot> spill kit means materials kept ready to contain a leak.
 <end>
 
-<user> what is a safety data sheet
-<bot> safety data sheet means the paper that says how to handle a chemical.
+<user> what is a data sheet of safety
+<bot> data sheet of safety means the paper that says how to handle a chemical.
 <end>
 
 <user> what is a coshh assessment
@@ -9307,7 +9307,7 @@
 <end>
 
 <user> what is a lifting assessment
-<bot> lifting assessment means a written look at a lift and how to make it safer.
+<bot> lifting assessment means for assessment, a written look at a lift and how to make it safer.
 <end>
 
 <user> what is a lone working
@@ -9350,8 +9350,8 @@
 <bot> enforcement visit means an official coming to check the workplace.
 <end>
 
-<user> what is an inspection report
-<bot> inspection report means the written result of an official visit.
+<user> what is a detail report of inspection
+<bot> detail report of inspection means for report, the written result of an official visit.
 <end>
 
 <user> what is an action from inspection
@@ -9362,8 +9362,8 @@
 <bot> closure of action means proof that a required fix is done.
 <end>
 
-<user> what is an audit finding
-<bot> audit finding means a gap an internal or external check reported.
+<user> what is a finding of audit
+<bot> finding of audit means a gap an internal or external check reported.
 <end>
 
 <user> what is a major finding
@@ -9382,8 +9382,8 @@
 <bot> management response means the written reply to a finding.
 <end>
 
-<user> what is a target date for fix
-<bot> target date for fix means the day a finding should be closed.
+<user> what is a date for fix of target
+<bot> date for fix of target means the day a finding should be closed.
 <end>
 
 <user> what is an overdue finding
@@ -9394,20 +9394,20 @@
 <bot> repeat finding means a gap that was reported before and has returned.
 <end>
 
-<user> what is an audit scope
-<bot> audit scope means what a check will and will not cover.
+<user> what is a scope of audit
+<bot> scope of audit means what a check will and will not cover.
 <end>
 
-<user> what is an audit plan
-<bot> audit plan means the schedule and the areas a check will look at.
+<user> what is a detail plan of audit
+<bot> detail plan of audit means the schedule and the areas a check will look at.
 <end>
 
 <user> what is an opening meeting
 <bot> opening meeting means the start of a check, where the plan is confirmed.
 <end>
 
-<user> what is a closing meeting
-<bot> closing meeting means the end of a check, where findings are shared.
+<user> what is a detail meeting of closing
+<bot> detail meeting of closing means the end of a check, where findings are shared.
 <end>
 
 <user> what is a draft report
@@ -9418,12 +9418,12 @@
 <bot> final audit report means the report after comments are considered.
 <end>
 
-<user> what is a follow up audit
-<bot> follow up audit means a later check that the fixes were made.
+<user> what is a detail audit of follow up
+<bot> detail audit of follow up means a later check that the fixes were made.
 <end>
 
-<user> what is an independence of auditor
-<bot> independence of auditor means the auditor freedom from the work being checked.
+<user> what is an auditor under independence
+<bot> auditor under independence means the auditor freedom from the work being checked.
 <end>
 
 <user> what is a rotation of auditor
@@ -9434,12 +9434,12 @@
 <bot> workpaper means the note that supports an audit conclusion.
 <end>
 
-<user> what is a sample size
-<bot> sample size means how many items were checked.
+<user> what is a size of sample
+<bot> size of sample means how many items were checked.
 <end>
 
-<user> what is an exception rate
-<bot> exception rate means the share of checked items that failed.
+<user> what is a rate of exception
+<bot> rate of exception means the share of checked items that failed.
 <end>
 
 <user> what is a conclusion
@@ -9455,15 +9455,15 @@
 <end>
 
 <user> what is an unsatisfactory rating
-<bot> unsatisfactory rating means a view that controls are not reliable.
+<bot> unsatisfactory rating means for rating, a view that controls are not reliable.
 <end>
 
-<user> what is a board reporting of audit
-<bot> board reporting of audit means the summary of checks given to directors.
+<user> what is a reporting of audit of board
+<bot> reporting of audit of board means the summary of checks given to directors.
 <end>
 
-<user> what is an audit committee
-<bot> audit committee means the directors who oversee checks and accounts.
+<user> what is a committee of audit
+<bot> committee of audit means the directors who oversee checks and accounts.
 <end>
 
 <user> what is an internal audit charter
@@ -9494,12 +9494,12 @@
 <bot> summary of differences means the list of mistakes found and what was done.
 <end>
 
-<user> what is a materiality threshold
-<bot> materiality threshold means the size of mistake that would matter to a reader.
+<user> what is a detail threshold of materiality
+<bot> detail threshold of materiality means the size of mistake that would matter to a reader.
 <end>
 
-<user> what is a performance materiality
-<bot> performance materiality means a lower size used so the overall risk stays acceptable.
+<user> what is a detail materiality of performance
+<bot> detail materiality of performance means a lower size used so the overall risk stays acceptable.
 <end>
 
 <user> what is a trivial threshold
@@ -9514,16 +9514,16 @@
 <bot> fraud brainstorm means the auditor discussion of how the numbers could be faked.
 <end>
 
-<user> what is a journal entry testing
-<bot> journal entry testing means checking manual book entries for odd ones.
+<user> what is a testing of journal entry
+<bot> testing of journal entry means checking manual book entries for odd ones.
 <end>
 
-<user> what is a related party testing
-<bot> related party testing means checking deals with people close to the company.
+<user> what is a testing of related party
+<bot> testing of related party means checking deals with people close to the company.
 <end>
 
-<user> what is a going concern testing
-<bot> going concern testing means checking whether the company can keep operating.
+<user> what is a testing of going concern
+<bot> testing of going concern means checking whether the company can keep operating.
 <end>
 
 <user> what is a subsequent events review
@@ -9534,8 +9534,8 @@
 <bot> lawyer letter means a request to the company lawyers about claims.
 <end>
 
-<user> what is a bank confirmation
-<bot> bank confirmation means a letter from the bank confirming balances.
+<user> what is a confirmation of bank
+<bot> confirmation of bank means a letter from the bank confirming balances.
 <end>
 
 <user> what is a debtor circularisation
@@ -9546,8 +9546,8 @@
 <bot> creditor circularisation means writing to suppliers to confirm what is owed to them.
 <end>
 
-<user> what is a stock attendance
-<bot> stock attendance means the auditor being present at a count.
+<user> what is an attendance of stock
+<bot> attendance of stock means the auditor being present at a count.
 <end>
 
 <user> what is a cutoff testing
@@ -9578,12 +9578,12 @@
 <bot> bridge means a walk from last year number to this year number.
 <end>
 
-<user> what is a waterfall chart
-<bot> waterfall chart means a drawing that shows how a number builds up.
+<user> what is a chart of waterfall
+<bot> chart of waterfall means a drawing that shows how a number builds up.
 <end>
 
-<user> what is a kpi definition
-<bot> kpi definition means the exact way a reported number is calculated.
+<user> what is a definition of kpi
+<bot> definition of kpi means the exact way a reported number is calculated.
 <end>
 
 <user> what is a data source
@@ -9658,16 +9658,16 @@
 <bot> reclassification means moving a number from one line to another without changing the total.
 <end>
 
-<user> what is a presentation change
-<bot> presentation change means showing the same facts in a different layout.
+<user> what is a change of presentation
+<bot> change of presentation means showing the same facts in a different layout.
 <end>
 
 <user> what is an accounting policy
 <bot> accounting policy means the rule the company chooses for a kind of transaction.
 <end>
 
-<user> what is a policy choice
-<bot> policy choice means picking one allowed method over another.
+<user> what is a choice of policy
+<bot> choice of policy means picking one allowed method over another.
 <end>
 
 <user> what is a change in estimate
@@ -9678,16 +9678,16 @@
 <bot> change in policy means switching the rule used to account for a kind of event.
 <end>
 
-<user> what is a retrospective change
-<bot> retrospective change means applying a new rule to past periods.
+<user> what is a change of retrospective
+<bot> change of retrospective means applying a new rule to past periods.
 <end>
 
 <user> what is a prospective change
 <bot> prospective change means applying a new rule only from now on.
 <end>
 
-<user> what is a disclosure checklist
-<bot> disclosure checklist means a list used to see that every required note is present.
+<user> what is a checklist of disclosure
+<bot> checklist of disclosure means a list used to see that every required note is present.
 <end>
 
 <user> what is an omitted disclosure
@@ -9702,20 +9702,20 @@
 <bot> specific disclosure means words that describe this company own facts.
 <end>
 
-<user> what is a subsequent event disclosure
-<bot> subsequent event disclosure means a note about an important fact after the period.
+<user> what is a detail disclosure of subsequent event
+<bot> detail disclosure of subsequent event means a note about an important fact after the period.
 <end>
 
 <user> what is a contingent disclosure
 <bot> contingent disclosure means a note about a possible debt or gain.
 <end>
 
-<user> what is a related party disclosure
-<bot> related party disclosure means a note about deals with close parties.
+<user> what is a detail disclosure of related party
+<bot> detail disclosure of related party means a note about deals with close parties.
 <end>
 
-<user> what is a segment disclosure
-<bot> segment disclosure means a note that splits results by business or by region.
+<user> what is a detail disclosure of segment
+<bot> detail disclosure of segment means a note that splits results by business or by region.
 <end>
 
 <user> what is an earnings per share
@@ -9734,20 +9734,20 @@
 <bot> weighted shares means the average number of shares during the period.
 <end>
 
-<user> what is a dividend per share
-<bot> dividend per share means the dividend for one share.
+<user> what is a per share of dividend
+<bot> per share of dividend means the dividend for one share.
 <end>
 
-<user> what is a cover ratio
-<bot> cover ratio means how many times profit covers the dividend.
+<user> what is a ratio of cover
+<bot> ratio of cover means how many times profit covers the dividend.
 <end>
 
 <user> what is a scrip dividend
 <bot> scrip dividend means a dividend paid in new shares instead of cash.
 <end>
 
-<user> what is a dividend mandate
-<bot> dividend mandate means an instruction for where dividends should be paid.
+<user> what is a mandate of dividend
+<bot> mandate of dividend means an instruction for where dividends should be paid.
 <end>
 
 <user> what is a record date
@@ -9758,8 +9758,8 @@
 <bot> ex dividend means the day the share starts trading without the next dividend.
 <end>
 
-<user> what is a payment date of dividend
-<bot> payment date of dividend means the day the dividend cash is sent.
+<user> what is a date of dividend of payment
+<bot> date of dividend of payment means the day the dividend cash is sent.
 <end>
 
 <user> what is an interim dividend
@@ -9774,16 +9774,16 @@
 <bot> special dividend means an extra dividend that is not the regular one.
 <end>
 
-<user> what is a dividend blocker
-<bot> dividend blocker means a rule that stops a dividend, often in a loan.
+<user> what is a detail blocker of dividend
+<bot> detail blocker of dividend means a rule that stops a dividend, often in a loan.
 <end>
 
 <user> what is a distributable profit
 <bot> distributable profit means the profit the law allows to be paid out.
 <end>
 
-<user> what is a capital maintenance
-<bot> capital maintenance means the rule that capital should not be paid out to owners.
+<user> what is a maintenance of capital
+<bot> maintenance of capital means the rule that capital should not be paid out to owners.
 <end>
 
 <user> what is an unlawful dividend
@@ -9806,8 +9806,8 @@
 <bot> assignment of contract means passing your rights under a contract to someone else.
 <end>
 
-<user> what is a delegation of duty
-<bot> delegation of duty means asking someone else to perform your contract duty.
+<user> what is a detail duty under delegation
+<bot> detail duty under delegation means asking someone else to perform your contract duty.
 <end>
 
 <user> what is an accord and satisfaction
@@ -9854,16 +9854,16 @@
 <bot> mistake in contract means both sides wrong about a basic fact.
 <end>
 
-<user> what is a rectification claim
-<bot> rectification claim means asking a court to correct a written contract.
+<user> what is a detail claim of rectification
+<bot> detail claim of rectification means asking a court to correct a written contract.
 <end>
 
 <user> what is an estoppel
 <bot> estoppel means being stopped from denying something you led another to rely on.
 <end>
 
-<user> what is a waiver by conduct
-<bot> waiver by conduct means giving up a right by how you acted.
+<user> what is a by conduct of waiver
+<bot> by conduct of waiver means giving up a right by how you acted.
 <end>
 
 <user> what is an affirmation
