@@ -27,7 +27,7 @@ N_EMBD = 192
 DROPOUT = 0.0
 BATCH_SIZE = 4
 LEARNING_RATE = 3e-4
-STEPS = 6000
+STEPS = 20000
 
 
 def read_corpus():
@@ -117,6 +117,19 @@ def drill_texts(dialogues, business):
         "let us agree",
         "what is an appointment",
         "what is an executive",
+        "what is a priority",
+        "what is quality",
+        "what is an audit",
+        "what is on the agenda",
+        "what is the price",
+        "what is a payable",
+        "what is a deposit",
+        "what is indemnity",
+        "what is probation",
+        "what is a coupon",
+        "what is a network",
+        "what is coaching",
+        "what is consensus",
     }
     for user, bot in parse_pairs(dialogues) + parse_pairs(business):
         text = f"<user> {user} <bot> {bot} <end>"
