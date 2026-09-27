@@ -9893,3 +9893,11 @@
 <user> about business
 <bot> we can talk about business. a company sells goods or services.
 <end>
+
+<user> what else
+<bot> i can also answer short business questions and tell a short story.
+<end>
+
+<user> and other
+<bot> i can also answer short business questions and tell a short story.
+<end>

@@ -98,6 +98,12 @@ CONVERSATIONS = [
         ("hello", "hi, i am mini. what do you want to talk about?"),
         ("about business", "we can talk about business. a company sells goods or services."),
     ],
+    [
+        ("hi", "hi, i am mini. what do you want to talk about?"),
+        ("who are you", "i am mini, a small chatbot trained from scratch."),
+        ("what can you do", "i can chat about simple things like greetings, names, and small questions."),
+        ("and other", "i can also answer short business questions and tell a short story."),
+    ],
 ]
 
 
@@ -139,6 +145,9 @@ def drill_texts(dialogues, business):
         "what is a network",
         "what is coaching",
         "what is consensus",
+        "what can you do",
+        "and other",
+        "what else",
     }
     for user, bot in parse_pairs(dialogues) + parse_pairs(business):
         text = f"<user> {user} <bot> {bot} <end>"
@@ -153,7 +162,7 @@ def drill_texts(dialogues, business):
             parts.append(f"<user> {user} <bot> {bot} <end>")
             joined = " ".join(parts)
             add(joined)
-            if user == "about business":
+            if user in {"about business", "what can you do", "and other"}:
                 texts.extend([joined] * 11)
     return texts
 
