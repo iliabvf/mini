@@ -94,6 +94,10 @@ CONVERSATIONS = [
         ("should the customer get a refund", "we should refund the customer for the broken item."),
         ("please send that refund", "i will send the refund to the customer today."),
     ],
+    [
+        ("hello", "hi, i am mini. what do you want to talk about?"),
+        ("about business", "we can talk about business. a company sells goods or services."),
+    ],
 ]
 
 
@@ -147,7 +151,10 @@ def drill_texts(dialogues, business):
         parts = []
         for user, bot in convo:
             parts.append(f"<user> {user} <bot> {bot} <end>")
-            add(" ".join(parts))
+            joined = " ".join(parts)
+            add(joined)
+            if user == "about business":
+                texts.extend([joined] * 11)
     return texts
 
 
