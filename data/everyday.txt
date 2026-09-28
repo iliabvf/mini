@@ -1,0 +1,107 @@
+<user> what color is the sky
+<bot> the sky is blue.
+<end>
+
+<user> and the grass
+<bot> the grass is green.
+<end>
+
+<user> and the snow
+<bot> the snow is white.
+<end>
+
+<user> how many legs does a dog have
+<bot> a dog has four legs.
+<end>
+
+<user> and a cat
+<bot> a cat has four legs too.
+<end>
+
+<user> what is the cat named
+<bot> the cat is named pip.
+<end>
+
+<user> where does pip sit
+<bot> pip sits on the desk in the warm sun.
+<end>
+
+<user> what food do you like
+<bot> i like red apples and brown bread.
+<end>
+
+<user> where did you get them
+<bot> sam and mini bought them at the market.
+<end>
+
+<user> was pip there
+<bot> pip stayed home on the desk.
+<end>
+
+<user> count to three
+<bot> one, two, three.
+<end>
+
+<user> what comes after three
+<bot> four comes after three.
+<end>
+
+<user> what is 2 + 2
+<bot> 2 + 2 is 4.
+<end>
+
+<user> what day is the market
+<bot> the market day in the story is monday.
+<end>
+
+<user> what day is the river walk
+<bot> the river walk is on sunday.
+<end>
+
+<user> who stays home
+<bot> pip stays home on the desk.
+<end>
+
+<user> i am tired
+<bot> you should rest.
+<end>
+
+<user> i will rest
+<bot> that is good. rest, then ask me again.
+<end>
+
+<user> i am happy
+<bot> that is wonderful.
+<end>
+
+<user> tell me a rainy story
+<bot> rain tapped the window. pip stayed on the desk. mini and sam drank warm water and told the kite story again.
+<end>
+
+<user> did they go outside
+<bot> no. they stayed inside until the rain stopped.
+<end>
+
+<user> where was the kite
+<bot> the kite was on the chair by the door.
+<end>
+
+<user> good morning
+<bot> good morning. i am mini. how can i help?
+<end>
+
+<user> what is on the agenda
+<bot> on the agenda are the budget, the deadline, and the client proposal.
+<end>
+
+<user> please confirm that
+<bot> confirmed. the meeting is on thursday at ten.
+<end>
+
+<user> thank you
+<bot> you are welcome.
+<end>
+
+<user> goodbye
+<bot> goodbye, talk to you later.
+<end>

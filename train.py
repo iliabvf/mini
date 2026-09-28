@@ -14,6 +14,7 @@ from tokenizer import Tokenizer
 ROOT = Path(__file__).resolve().parent
 DATA_DIR = ROOT / "data"
 DIALOGUES_PATH = DATA_DIR / "dialogues.txt"
+EVERYDAY_PATH = DATA_DIR / "everyday.txt"
 STORIES_PATH = DATA_DIR / "stories.txt"
 BUSINESS_PATH = DATA_DIR / "business.txt"
 BUSINESS_REPEATS = 4
@@ -21,9 +22,9 @@ DRILL_FRACTION = 0.8
 CKPT_PATH = ROOT / "checkpoints" / "model.pt"
 
 BLOCK_SIZE = 512
-N_LAYER = 6
-N_HEAD = 4
-N_EMBD = 192
+N_LAYER = 8
+N_HEAD = 8
+N_EMBD = 288
 DROPOUT = 0.0
 BATCH_SIZE = 4
 LEARNING_RATE = 3e-4
@@ -37,7 +38,7 @@ def read_corpus():
     the shorter chats already in the dialogue file.
     """
     parts = []
-    for path in (DIALOGUES_PATH, STORIES_PATH, BUSINESS_PATH):
+    for path in (DIALOGUES_PATH, EVERYDAY_PATH, STORIES_PATH, BUSINESS_PATH):
         if not path.is_file():
             raise SystemExit(f"missing training file: {path}")
         parts.append(path.read_text(encoding="utf-8"))
@@ -104,10 +105,31 @@ CONVERSATIONS = [
         ("what can you do", "i can chat about simple things like greetings, names, and small questions."),
         ("and other", "i can also answer short business questions and tell a short story."),
     ],
+    [
+        ("what color is the sky", "the sky is blue."),
+        ("and the grass", "the grass is green."),
+        ("and the snow", "the snow is white."),
+    ],
+    [
+        ("how many legs does a dog have", "a dog has four legs."),
+        ("and a cat", "a cat has four legs too."),
+        ("what is the cat named", "the cat is named pip."),
+        ("where does pip sit", "pip sits on the desk in the warm sun."),
+    ],
+    [
+        ("what food do you like", "i like red apples and brown bread."),
+        ("where did you get them", "sam and mini bought them at the market."),
+        ("was pip there", "pip stayed home on the desk."),
+    ],
+    [
+        ("tell me a rainy story", "rain tapped the window. pip stayed on the desk. mini and sam drank warm water and told the kite story again."),
+        ("did they go outside", "no. they stayed inside until the rain stopped."),
+        ("where was the kite", "the kite was on the chair by the door."),
+    ],
 ]
 
 
-def drill_texts(dialogues, business):
+def drill_texts(dialogues, business, everyday=""):
     """One exact reply per question, plus each step of a longer chat.
 
     Each window holds many different replies, so a salary line is not
@@ -148,8 +170,16 @@ def drill_texts(dialogues, business):
         "what can you do",
         "and other",
         "what else",
+        "what color is the sky",
+        "and the grass",
+        "and the snow",
+        "and a cat",
+        "tell me a rainy story",
+        "did they go outside",
+        "where was the kite",
+        "where does pip sit",
     }
-    for user, bot in parse_pairs(dialogues) + parse_pairs(business):
+    for user, bot in parse_pairs(dialogues) + parse_pairs(everyday) + parse_pairs(business):
         text = f"<user> {user} <bot> {bot} <end>"
         add(text)
         if user in focus:
@@ -162,7 +192,12 @@ def drill_texts(dialogues, business):
             parts.append(f"<user> {user} <bot> {bot} <end>")
             joined = " ".join(parts)
             add(joined)
-            if user in {"about business", "what can you do", "and other"}:
+            if user in {
+                "about business", "what can you do", "and other",
+                "and the grass", "and the snow", "and a cat",
+                "did they go outside", "where was the kite",
+                "where does pip sit", "was pip there",
+            }:
                 texts.extend([joined] * 11)
     return texts
 
@@ -229,6 +264,7 @@ def main():
         drill_texts(
             DIALOGUES_PATH.read_text(encoding="utf-8"),
             BUSINESS_PATH.read_text(encoding="utf-8"),
+            EVERYDAY_PATH.read_text(encoding="utf-8") if EVERYDAY_PATH.is_file() else "",
         ),
     )
 
@@ -243,6 +279,7 @@ def main():
     optimizer = torch.optim.AdamW(model.parameters(), lr=LEARNING_RATE, weight_decay=0.01)
 
     print(f"device: {device}")
+    print(f"parameters: {sum(p.numel() for p in model.parameters())}")
     print(f"model: {N_LAYER} layers, embedding {N_EMBD}, context {BLOCK_SIZE}")
     print(f"vocab: {len(tokenizer.token_to_id)} tokens")
     print(f"training tokens: {len(stream)}")
