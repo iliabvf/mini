@@ -582,7 +582,7 @@
 <bot> kpi means a number that shows whether a goal was met.
 <end>
 
-<user> what is profit margin
+<user> what does profit margin mean
 <bot> profit margin means the share of the price that is profit.
 <end>
 
@@ -658,7 +658,7 @@
 <bot> complaint means a customer report that something is wrong.
 <end>
 
-<user> what is customer service
+<user> what does customer service mean
 <bot> customer service means help given to people after they buy.
 <end>
 
@@ -1870,7 +1870,7 @@
 <bot> sunk cost means money already spent that cannot be recovered.
 <end>
 
-<user> what is opportunity cost
+<user> what does opportunity cost mean
 <bot> opportunity cost means the value of the option you did not choose.
 <end>
 
@@ -1910,7 +1910,7 @@
 <bot> accounts receivable means the stack of bills customers still owe the company.
 <end>
 
-<user> what is cost of goods
+<user> what does cost of goods mean
 <bot> cost of goods means what it cost to make or buy the items that were sold.
 <end>
 
@@ -1938,7 +1938,7 @@
 <bot> cash basis means recording money only when cash actually moves.
 <end>
 
-<user> what is accrual basis
+<user> what does accrual basis mean
 <bot> accrual basis means recording a sale when it is earned, even before cash arrives.
 <end>
 
@@ -1954,7 +1954,7 @@
 <bot> debit note means a paper that increases what a customer owes.
 <end>
 
-<user> what is a petty cash voucher
+<user> what does petty cash voucher mean
 <bot> petty cash voucher means a small slip that explains a minor cash spend.
 <end>
 
@@ -1962,7 +1962,7 @@
 <bot> bank reconciliation means matching the company cash book to the bank list.
 <end>
 
-<user> what is a cash book
+<user> what does cash book mean
 <bot> cash book means the daily record of cash received and cash paid.
 <end>
 
@@ -2082,7 +2082,7 @@
 <bot> fair value means the price a willing buyer would pay today.
 <end>
 
-<user> what is market value
+<user> what does market value mean
 <bot> market value means the price something would fetch if sold now.
 <end>
 
@@ -2094,7 +2094,7 @@
 <bot> matching principle means putting a cost in the same period as the sale it helped.
 <end>
 
-<user> what is a revenue recognition
+<user> what does revenue recognition mean
 <bot> revenue recognition means the rule for when a sale is counted as earned.
 <end>
 
@@ -2146,11 +2146,11 @@
 <bot> rolling forecast means a prediction that adds a new month as each month ends.
 <end>
 
-<user> what is a cash budget
+<user> what does cash budget mean
 <bot> cash budget means a plan of cash coming in and cash going out.
 <end>
 
-<user> what is a capital budget
+<user> what does capital budget mean
 <bot> capital budget means a plan for spending on long lived assets.
 <end>
 
@@ -2190,7 +2190,7 @@
 <bot> prime cost means direct material plus the pay of the people who make the item.
 <end>
 
-<user> what is a conversion cost
+<user> what does conversion cost mean
 <bot> conversion cost means labor and factory overhead used to turn material into a product.
 <end>
 
@@ -2338,7 +2338,7 @@
 <bot> list price means the printed price before any reduction.
 <end>
 
-<user> what is a net price
+<user> what does net price mean
 <bot> net price means the price after reductions are taken off.
 <end>
 
@@ -2346,7 +2346,7 @@
 <bot> trade discount means a reduction given to a business buyer.
 <end>
 
-<user> what is a cash discount
+<user> what does cash discount mean
 <bot> cash discount means a reduction for paying before the due day.
 <end>
 
@@ -2370,11 +2370,11 @@
 <bot> finance charge means the cost of paying a bill over time.
 <end>
 
-<user> what is an interest expense
+<user> what does interest expense mean
 <bot> interest expense means the cost of borrowed money for the period.
 <end>
 
-<user> what is an interest income
+<user> what does interest income mean
 <bot> interest income means money earned from cash you lent or deposited.
 <end>
 
@@ -2430,11 +2430,11 @@
 <bot> annual report means the full financial report for a whole year.
 <end>
 
-<user> what is an income statement
+<user> what does income statement mean
 <bot> income statement means the report of sales, costs, and profit for a period.
 <end>
 
-<user> what is a cash flow statement
+<user> what does cash flow statement mean
 <bot> cash flow statement means the report of cash from operations, investing, and financing.
 <end>
 
@@ -2550,7 +2550,7 @@
 <bot> bid bond means a guarantee that a bidder will stand by the offered price.
 <end>
 
-<user> what is a performance bond
+<user> what does performance bond mean
 <bot> performance bond means a guarantee that the winner will finish the work.
 <end>
 
@@ -2614,7 +2614,7 @@
 <bot> coupon rate means the stated interest rate printed on a bond.
 <end>
 
-<user> what is a yield to maturity
+<user> what does yield to maturity mean
 <bot> yield to maturity means the return if a bond is held until it is paid off.
 <end>
 
@@ -2678,7 +2678,7 @@
 <bot> covenant means a promise in a loan about what the borrower will or will not do.
 <end>
 
-<user> what is a collateral pledge
+<user> what does collateral pledge mean
 <bot> collateral pledge means setting property aside so a lender can claim it.
 <end>
 
@@ -2774,7 +2774,7 @@
 <bot> share certificate means the paper that shows you own certain shares.
 <end>
 
-<user> what is a stock split
+<user> what does stock split mean
 <bot> stock split means dividing each share into more shares of a smaller face amount.
 <end>
 
@@ -2834,7 +2834,7 @@
 <bot> earnout means extra price paid later if the bought company hits a target.
 <end>
 
-<user> what is an indemnity clause
+<user> what does indemnity clause mean
 <bot> indemnity clause means a contract line that makes one side cover a stated loss.
 <end>
 
@@ -2870,11 +2870,11 @@
 <bot> renewal clause means a line that says how a contract continues for another term.
 <end>
 
-<user> what is a notice period clause
+<user> what does notice period clause mean
 <bot> notice period clause means a line that says how many days warning is required.
 <end>
 
-<user> what is a confidentiality clause
+<user> what does confidentiality clause mean
 <bot> confidentiality clause means a line that forbids sharing private facts.
 <end>
 
@@ -2918,7 +2918,7 @@
 <bot> cease and desist means a letter demanding that a stated act stop.
 <end>
 
-<user> what is a demand letter
+<user> what does demand letter mean
 <bot> demand letter means a formal letter insisting on a payment or an action.
 <end>
 
@@ -3022,7 +3022,7 @@
 <bot> acceptance of offer means the candidate written yes to a job offer.
 <end>
 
-<user> what is a probation review
+<user> what does probation review mean
 <bot> probation review means a check near the end of the first months of a job.
 <end>
 
@@ -3046,7 +3046,7 @@
 <bot> interview scorecard means a form that rates a candidate on the same points.
 <end>
 
-<user> what is a hiring panel
+<user> what does hiring panel mean
 <bot> hiring panel means the group of people who interview one candidate.
 <end>
 
@@ -3082,7 +3082,7 @@
 <bot> relocation allowance means money to help a new hire move to the job city.
 <end>
 
-<user> what is an onboarding plan
+<user> what does onboarding plan mean
 <bot> onboarding plan means the schedule of tasks for a new hire first weeks.
 <end>
 
@@ -3130,7 +3130,7 @@
 <bot> suspension means a period when a person must stay away from work.
 <end>
 
-<user> what is a gross misconduct
+<user> what does gross misconduct mean
 <bot> gross misconduct means a serious break of rules that can end a job at once.
 <end>
 
@@ -3146,7 +3146,7 @@
 <bot> garden leave means paid time at home during a notice period.
 <end>
 
-<user> what is a notice pay
+<user> what does notice pay mean
 <bot> notice pay means pay given for the warning period when a job ends.
 <end>
 
@@ -3154,7 +3154,7 @@
 <bot> redundancy means ending a job because the work itself is no longer needed.
 <end>
 
-<user> what is a severance package
+<user> what does severance package mean
 <bot> severance package means the pay and benefits offered when a job ends.
 <end>
 
@@ -3222,11 +3222,11 @@
 <bot> pay stub means the slip that shows pay and deductions.
 <end>
 
-<user> what is a gross pay
+<user> what does gross pay mean
 <bot> gross pay means pay before deductions.
 <end>
 
-<user> what is a net pay
+<user> what does net pay mean
 <bot> net pay means pay after deductions.
 <end>
 
@@ -3258,7 +3258,7 @@
 <bot> bonus plan means the rules for extra pay tied to results.
 <end>
 
-<user> what is a commission plan
+<user> what does commission plan mean
 <bot> commission plan means the rules for pay tied to sales.
 <end>
 
@@ -3266,11 +3266,11 @@
 <bot> sales target means the amount a seller is asked to sell.
 <end>
 
-<user> what is a performance goal
+<user> what does performance goal mean
 <bot> performance goal means a result a person is asked to reach.
 <end>
 
-<user> what is a performance review
+<user> what does performance review mean
 <bot> performance review means a formal talk about how someone worked.
 <end>
 
@@ -3290,7 +3290,7 @@
 <bot> improvement plan means a written plan to lift weak work.
 <end>
 
-<user> what is a probation extension
+<user> what does probation extension mean
 <bot> probation extension means making the first trial months longer.
 <end>
 
@@ -3318,11 +3318,11 @@
 <bot> mentoring plan means a schedule of guidance from a more experienced person.
 <end>
 
-<user> what is a training plan
+<user> what does training plan mean
 <bot> training plan means the courses a person will take.
 <end>
 
-<user> what is a training record
+<user> what does training record mean
 <bot> training record means the list of courses a person has finished.
 <end>
 
@@ -3330,7 +3330,7 @@
 <bot> skills matrix means a grid of who can do which tasks.
 <end>
 
-<user> what is a headcount plan
+<user> what does headcount plan mean
 <bot> headcount plan means the planned number of people in each team.
 <end>
 
@@ -3454,7 +3454,7 @@
 <bot> assumption log means the list of things the plan treats as true.
 <end>
 
-<user> what is stakeholder map
+<user> what does stakeholder map mean
 <bot> stakeholder map means a drawing of who cares about a project and how much.
 <end>
 
@@ -3490,7 +3490,7 @@
 <bot> resource plan means who will do the work and when they are free.
 <end>
 
-<user> what is a capacity plan
+<user> what does capacity plan mean
 <bot> capacity plan means whether the team has enough hours for the work.
 <end>
 
@@ -3546,7 +3546,7 @@
 <bot> kanban board means a board of columns that show where each task sits.
 <end>
 
-<user> what is a work in progress limit
+<user> what does work in progress limit mean
 <bot> work in progress limit means the most tasks allowed in one column at once.
 <end>
 
@@ -3558,11 +3558,11 @@
 <bot> cycle time metric means the days from starting a task to finishing it.
 <end>
 
-<user> what is a throughput metric
+<user> what does throughput metric mean
 <bot> throughput metric means how many items a team finishes in a period.
 <end>
 
-<user> what is service level
+<user> what does service level mean
 <bot> service level means the promised speed or quality of a service.
 <end>
 
@@ -3622,11 +3622,11 @@
 <bot> rework means fixing an item that failed a check.
 <end>
 
-<user> what is a scrap rate
+<user> what does scrap rate mean
 <bot> scrap rate means the share of material thrown away.
 <end>
 
-<user> what is a calibration record
+<user> what does calibration record mean
 <bot> calibration record means the note that a measuring tool was set correctly.
 <end>
 
@@ -3654,7 +3654,7 @@
 <bot> shop floor means the place in the factory where items are made.
 <end>
 
-<user> what is a downtime log
+<user> what does downtime log mean
 <bot> downtime log means the record of when a machine was stopped and why.
 <end>
 
@@ -3682,7 +3682,7 @@
 <bot> overall equipment effectiveness means a score that combines uptime, speed, and good output.
 <end>
 
-<user> what is a capacity utilization
+<user> what does capacity utilization mean
 <bot> capacity utilization means how much of the possible output is actually used.
 <end>
 
@@ -3730,7 +3730,7 @@
 <bot> five s means a method to sort, set, shine, standardize, and sustain a workplace.
 <end>
 
-<user> what is a safety incident
+<user> what does safety incident mean
 <bot> safety incident means an event where someone was hurt or nearly hurt.
 <end>
 
@@ -3738,7 +3738,7 @@
 <bot> near miss means an event that could have hurt someone but did not.
 <end>
 
-<user> what is a safety audit
+<user> what does safety audit mean
 <bot> safety audit means a planned check of whether safety rules are followed.
 <end>
 
@@ -3810,7 +3810,7 @@
 <bot> cycle count means counting a small part of the stock on a rotating schedule.
 <end>
 
-<user> what is an inventory adjustment
+<user> what does inventory adjustment mean
 <bot> inventory adjustment means a book change after a count does not match the record.
 <end>
 
@@ -3862,7 +3862,7 @@
 <bot> cross docking means moving goods from inbound trucks to outbound trucks with little storage.
 <end>
 
-<user> what is a freight forwarder
+<user> what does freight forwarder mean
 <bot> freight forwarder means a company that arranges carriage of goods.
 <end>
 
@@ -3914,7 +3914,7 @@
 <bot> dangerous goods note means a paper required when a shipment can harm people.
 <end>
 
-<user> what is a freight invoice
+<user> what does freight invoice mean
 <bot> freight invoice means the bill for carrying goods.
 <end>
 
@@ -3954,7 +3954,7 @@
 <bot> claims form means the paper used to ask for payment after a shipping loss.
 <end>
 
-<user> what is a cargo insurance
+<user> what does cargo insurance mean
 <bot> cargo insurance means cover that pays if goods are lost or harmed in transit.
 <end>
 
@@ -4046,7 +4046,7 @@
 <bot> blocker means a person inside the buyer company who resists the offer.
 <end>
 
-<user> what is a procurement review
+<user> what does procurement review mean
 <bot> procurement review means the buyer formal check of a seller before a contract.
 <end>
 
@@ -4222,7 +4222,7 @@
 <bot> net promoter means a score of how likely a customer is to recommend you.
 <end>
 
-<user> what is a churn rate
+<user> what does churn rate mean
 <bot> churn rate means the share of customers who leave in a period.
 <end>
 
@@ -4242,7 +4242,7 @@
 <bot> payback period means the time until profit from a customer covers the cost to win them.
 <end>
 
-<user> what is a conversion rate
+<user> what does conversion rate mean
 <bot> conversion rate means the share of visitors who become buyers.
 <end>
 
@@ -4294,7 +4294,7 @@
 <bot> impression means one instance of a message being shown.
 <end>
 
-<user> what is brand awareness
+<user> what does brand awareness mean
 <bot> brand awareness means how many people recognize the brand.
 <end>
 
@@ -4558,7 +4558,7 @@
 <bot> aged receivable means a bill grouped by how many days it is overdue.
 <end>
 
-<user> what is a bad debt write off
+<user> what does bad debt write off mean
 <bot> bad debt write off means removing a bill you will not collect.
 <end>
 
@@ -4566,7 +4566,7 @@
 <bot> credit hold means stopping new orders until an overdue bill is paid.
 <end>
 
-<user> what is a cash application
+<user> what does cash application mean
 <bot> cash application means matching a received payment to the right bills.
 <end>
 
@@ -4650,11 +4650,11 @@
 <bot> joint venture means a business owned together by two or more companies.
 <end>
 
-<user> what is a goodwill impairment
+<user> what does goodwill impairment mean
 <bot> goodwill impairment means writing down the extra paid for a company when value has fallen.
 <end>
 
-<user> what is a fair value adjustment
+<user> what does fair value adjustment mean
 <bot> fair value adjustment means changing a number to today price at purchase.
 <end>
 
@@ -4678,7 +4678,7 @@
 <bot> day one plan means what must be true on the first day after a deal closes.
 <end>
 
-<user> what is a closing checklist
+<user> what does closing checklist mean
 <bot> closing checklist means the list of papers that must be signed to finish a deal.
 <end>
 
@@ -4686,11 +4686,11 @@
 <bot> funds flow means the note of who pays whom at the moment a deal closes.
 <end>
 
-<user> what is an escrow holdback
+<user> what does escrow holdback mean
 <bot> escrow holdback means part of the price kept aside until conditions are met.
 <end>
 
-<user> what is a working capital peg
+<user> what does working capital peg mean
 <bot> working capital peg means the target level of working capital at closing.
 <end>
 
@@ -4742,7 +4742,7 @@
 <bot> option pool means shares set aside for employee options.
 <end>
 
-<user> what is a stock option
+<user> what does stock option mean
 <bot> stock option means a right to buy shares later at a set price.
 <end>
 
@@ -4878,7 +4878,7 @@
 <bot> quick ratio means cash and near cash divided by bills due soon.
 <end>
 
-<user> what is debt ratio
+<user> what does debt ratio mean
 <bot> debt ratio means debts as a share of assets.
 <end>
 
@@ -4898,7 +4898,7 @@
 <bot> payables turnover means how many times supplier bills are paid in a period.
 <end>
 
-<user> what is asset turnover
+<user> what does asset turnover mean
 <bot> asset turnover means sales divided by assets.
 <end>
 
@@ -4918,7 +4918,7 @@
 <bot> payback means the time until a spend earns back its cost.
 <end>
 
-<user> what is a net present value
+<user> what does net present value mean
 <bot> net present value means today value of future cash after subtracting the spend.
 <end>
 
@@ -4930,7 +4930,7 @@
 <bot> hurdle rate means the minimum return a project must beat.
 <end>
 
-<user> what is cost benefit
+<user> what does cost benefit mean
 <bot> cost benefit means comparing what a choice costs with what it returns.
 <end>
 
@@ -4994,7 +4994,7 @@
 <bot> addressable market means the part of a market you could actually serve.
 <end>
 
-<user> what is market share
+<user> what does market share mean
 <bot> market share means your sales as a share of the whole market.
 <end>
 
@@ -5058,7 +5058,7 @@
 <bot> free trial offer means a short period of use before payment starts.
 <end>
 
-<user> what is an onboarding email
+<user> what does onboarding email mean
 <bot> onboarding email means a message that helps a new customer start.
 <end>
 
@@ -5066,7 +5066,7 @@
 <bot> renewal reminder means a message before a subscription ends.
 <end>
 
-<user> what is a churn save
+<user> what does churn save mean
 <bot> churn save means an offer meant to keep a customer who wants to leave.
 <end>
 
@@ -5078,7 +5078,7 @@
 <bot> referral program means a reward for a customer who brings a new customer.
 <end>
 
-<user> what is a loyalty program
+<user> what does loyalty program mean
 <bot> loyalty program means rewards for a customer who keeps buying.
 <end>
 
@@ -5106,7 +5106,7 @@
 <bot> suggested retail means the price the maker suggests a shop charge.
 <end>
 
-<user> what is a wholesale price
+<user> what does wholesale price mean
 <bot> wholesale price means the price charged to a shop, not to the final buyer.
 <end>
 
@@ -5114,7 +5114,7 @@
 <bot> distributor margin means the gap a distributor keeps between buy price and sell price.
 <end>
 
-<user> what is a retail margin
+<user> what does retail margin mean
 <bot> retail margin means the gap a shop keeps between buy price and sell price.
 <end>
 
@@ -5322,11 +5322,11 @@
 <bot> key person risk means the harm if one essential person were suddenly gone.
 <end>
 
-<user> what is a delegation of authority
+<user> what does delegation of authority mean
 <bot> delegation of authority means the written limits of what each role may approve.
 <end>
 
-<user> what is an approval matrix
+<user> what does approval matrix mean
 <bot> approval matrix means a grid of who may approve which kind of spend.
 <end>
 
@@ -5366,7 +5366,7 @@
 <bot> card reconciliation means matching card charges to receipts and approvals.
 <end>
 
-<user> what is a procurement policy
+<user> what does procurement policy mean
 <bot> procurement policy means the rules for how the company buys.
 <end>
 
@@ -5466,7 +5466,7 @@
 <bot> vote tally means the count of yes and no.
 <end>
 
-<user> what is a consensus check
+<user> what does consensus check mean
 <bot> consensus check means asking whether anyone objects before moving on.
 <end>
 
@@ -5614,11 +5614,11 @@
 <bot> footfall means how many people enter a shop.
 <end>
 
-<user> what is a conversion in store
+<user> what does conversion in store mean
 <bot> conversion in store means the share of visitors who buy.
 <end>
 
-<user> what is a stock turn in store
+<user> what does stock turn in store mean
 <bot> stock turn in store means how fast shop stock sells.
 <end>
 
@@ -5626,7 +5626,7 @@
 <bot> markdown means a cut in the selling price of leftover goods.
 <end>
 
-<user> what is a gross margin return
+<user> what does gross margin return mean
 <bot> gross margin return means gross profit compared with the stock investment.
 <end>
 
@@ -5654,7 +5654,7 @@
 <bot> till reconciliation means checking the cash drawer against the recorded sales.
 <end>
 
-<user> what is a cash variance
+<user> what does cash variance mean
 <bot> cash variance means the gap between cash in the drawer and the recorded sales.
 <end>
 
@@ -5674,11 +5674,11 @@
 <bot> store credit means credit kept at the shop after a return.
 <end>
 
-<user> what is a loyalty points
+<user> what does loyalty points mean
 <bot> loyalty points means units a customer collects toward a reward.
 <end>
 
-<user> what is a staff discount
+<user> what does staff discount mean
 <bot> staff discount means a lower price for employees.
 <end>
 
@@ -5722,7 +5722,7 @@
 <bot> occupancy cost means rent and related costs of the space.
 <end>
 
-<user> what is a break even sales
+<user> what does break even sales mean
 <bot> break even sales means the sales level where profit is zero.
 <end>
 
@@ -6030,7 +6030,7 @@
 <bot> containment means stopping more faulty items from reaching customers.
 <end>
 
-<user> what is a root cause analysis
+<user> what does root cause analysis mean
 <bot> root cause analysis means a structured search for why a fault happened.
 <end>
 
@@ -6082,7 +6082,7 @@
 <bot> service contract means a paid agreement to maintain equipment.
 <end>
 
-<user> what is a maintenance window
+<user> what does maintenance window mean
 <bot> maintenance window means the hours when equipment may be taken down for service.
 <end>
 
@@ -6138,7 +6138,7 @@
 <bot> hypercare means extra support in the first days after a change.
 <end>
 
-<user> what is a training rollout
+<user> what does training rollout mean
 <bot> training rollout means teaching staff the new way before the switch.
 <end>
 
@@ -6266,7 +6266,7 @@
 <bot> operating manual means the book that explains how to run the result.
 <end>
 
-<user> what is a training manual
+<user> what does training manual mean
 <bot> training manual means the book used to teach the work.
 <end>
 
@@ -6370,7 +6370,7 @@
 <bot> weather delay means time lost because conditions stopped the work.
 <end>
 
-<user> what is a safety induction
+<user> what does safety induction mean
 <bot> safety induction means the briefing a person must hear before entering a site.
 <end>
 
@@ -6402,7 +6402,7 @@
 <bot> first aid case means a minor harm treated on site.
 <end>
 
-<user> what is a safety observation
+<user> what does safety observation mean
 <bot> safety observation means a note of a safe or unsafe act seen at work.
 <end>
 
@@ -6554,7 +6554,7 @@
 <bot> wip limit breach means having more tasks in progress than the agreed cap.
 <end>
 
-<user> what is a throughput dip
+<user> what does throughput dip mean
 <bot> throughput dip means a period when fewer items were finished than usual.
 <end>
 
@@ -6594,7 +6594,7 @@
 <bot> required field means a blank that must be filled before a form can be sent.
 <end>
 
-<user> what is an approval step
+<user> what does approval step mean
 <bot> approval step means a pause while a named person says yes or no.
 <end>
 
@@ -6790,7 +6790,7 @@
 <bot> lost equipment means gear that cannot be found.
 <end>
 
-<user> what is an equipment request
+<user> what does equipment request mean
 <bot> equipment request means an ask for a laptop, a phone, or a similar tool.
 <end>
 
@@ -6798,7 +6798,7 @@
 <bot> standard build means the usual set of programs on a work computer.
 <end>
 
-<user> what is a software request
+<user> what does software request mean
 <bot> software request means an ask to install a program.
 <end>
 
@@ -6818,7 +6818,7 @@
 <bot> renewal date means the day a license or a contract must be continued or it ends.
 <end>
 
-<user> what is a notice to cancel
+<user> what does notice to cancel mean
 <bot> notice to cancel means the warning required before you stop a contract.
 <end>
 
@@ -6946,7 +6946,7 @@
 <bot> test evidence means proof that an alteration was tried before it went live.
 <end>
 
-<user> what is an approval record
+<user> what does approval record mean
 <bot> approval record means the stored yes from the person allowed to decide.
 <end>
 
@@ -7038,7 +7038,7 @@
 <bot> withdrawal notice means a message that an old paper must stop being used.
 <end>
 
-<user> what is a training matrix
+<user> what does training matrix mean
 <bot> training matrix means a grid of which roles must learn which procedures.
 <end>
 
@@ -7054,7 +7054,7 @@
 <bot> refresher training means a repeat course that keeps a skill current.
 <end>
 
-<user> what is a training expiry
+<user> what does training expiry mean
 <bot> training expiry means the day a qualification is no longer valid.
 <end>
 
@@ -7082,7 +7082,7 @@
 <bot> objectivity means judging from facts rather than from preference.
 <end>
 
-<user> what is a confidentiality duty
+<user> what does confidentiality duty mean
 <bot> confidentiality duty means the duty not to reveal client or company secrets.
 <end>
 
@@ -7190,7 +7190,7 @@
 <bot> risk avoidance means stopping the activity that creates a risk.
 <end>
 
-<user> what is an insurance deductible
+<user> what does insurance deductible mean
 <bot> insurance deductible means the amount you pay yourself before cover starts.
 <end>
 
@@ -7330,7 +7330,7 @@
 <bot> repairing covenant means the promise to keep the space in a stated condition.
 <end>
 
-<user> what is an insurance rent
+<user> what does insurance rent mean
 <bot> insurance rent means the tenant share of the building insurance.
 <end>
 
@@ -7434,7 +7434,7 @@
 <bot> residual land value means what land is worth after building costs and profit.
 <end>
 
-<user> what is a gross development value
+<user> what does gross development value mean
 <bot> gross development value means what a finished project should sell for.
 <end>
 
@@ -7482,7 +7482,7 @@
 <bot> reserve fund means money set aside for repairs and replacements.
 <end>
 
-<user> what is a capital expenditure
+<user> what does capital expenditure mean
 <bot> capital expenditure means spend on a long lived asset.
 <end>
 
@@ -7506,7 +7506,7 @@
 <bot> loss on disposal means the shortfall when an asset sells for less than its book value.
 <end>
 
-<user> what is a net book value
+<user> what does net book value mean
 <bot> net book value means cost minus the depreciation already taken.
 <end>
 
@@ -7682,7 +7682,7 @@
 <bot> offsetting means showing an asset and a debt as one net number.
 <end>
 
-<user> what is a gross presentation
+<user> what does gross presentation mean
 <bot> gross presentation means showing both sides rather than only the net.
 <end>
 
@@ -7730,11 +7730,11 @@
 <bot> hedge means a deal that offsets the risk of another deal.
 <end>
 
-<user> what is a fair value hedge
+<user> what does fair value hedge mean
 <bot> fair value hedge means a hedge of the value of a recorded item.
 <end>
 
-<user> what is a cash flow hedge
+<user> what does cash flow hedge mean
 <bot> cash flow hedge means a hedge of a future cash amount.
 <end>
 
@@ -7774,7 +7774,7 @@
 <bot> margin call means a demand for more cash to cover a losing position.
 <end>
 
-<user> what is a collateral posted
+<user> what does collateral posted mean
 <bot> collateral posted means cash or securities given to secure a derivative.
 <end>
 
@@ -7842,7 +7842,7 @@
 <bot> cap rate on loan means the highest interest a loan can charge.
 <end>
 
-<user> what is an interest only period
+<user> what does interest only period mean
 <bot> interest only period means months when you pay interest but not principal.
 <end>
 
@@ -7886,7 +7886,7 @@
 <bot> mezzanine finance means borrowing that sits between senior debt and shares.
 <end>
 
-<user> what is an equity kicker
+<user> what does equity kicker mean
 <bot> equity kicker means a share sweetener attached to a loan.
 <end>
 
@@ -7894,7 +7894,7 @@
 <bot> warrant means a right to buy shares later, often attached to a deal.
 <end>
 
-<user> what is a conversion price
+<user> what does conversion price mean
 <bot> conversion price means the price at which a loan or a preferred share becomes ordinary shares.
 <end>
 
@@ -7954,7 +7954,7 @@
 <bot> written board consent means a decision signed by every director without a meeting.
 <end>
 
-<user> what is a notice of meeting
+<user> what does notice of meeting mean
 <bot> notice of meeting means the warning that a meeting will happen.
 <end>
 
@@ -7966,7 +7966,7 @@
 <bot> adjournment means pausing a meeting to continue another day.
 <end>
 
-<user> what is a minutes approval
+<user> what does minutes approval mean
 <bot> minutes approval means the later yes that the notes of a meeting are correct.
 <end>
 
@@ -7990,7 +7990,7 @@
 <bot> directors duties note means a reminder of the legal duties of directors.
 <end>
 
-<user> what is a solvency statement
+<user> what does solvency statement mean
 <bot> solvency statement means directors saying the company can pay its debts.
 <end>
 
@@ -8150,11 +8150,11 @@
 <bot> repayment schedule means the dates and amounts of paying a loan back.
 <end>
 
-<user> what is an interest period
+<user> what does interest period mean
 <bot> interest period means the span of days for which interest is calculated.
 <end>
 
-<user> what is an interest payment date
+<user> what does interest payment date mean
 <bot> interest payment date means the day interest must be paid.
 <end>
 
@@ -8182,7 +8182,7 @@
 <bot> consent letter means a lender yes to something the contract restricts.
 <end>
 
-<user> what is a compliance certificate
+<user> what does compliance certificate mean
 <bot> compliance certificate means the borrower statement that it met the financial tests.
 <end>
 
@@ -8302,15 +8302,15 @@
 <bot> guarantee means a promise to pay if another person does not.
 <end>
 
-<user> what is an indemnity for costs
+<user> what does indemnity for costs mean
 <bot> indemnity for costs means a promise to cover losses, not only the debt itself.
 <end>
 
-<user> what is a demand guarantee
+<user> what does demand guarantee mean
 <bot> demand guarantee means a promise a bank must pay when a complying demand is made.
 <end>
 
-<user> what is a performance guarantee
+<user> what does performance guarantee mean
 <bot> performance guarantee means a bank promise that stands behind a contractor.
 <end>
 
@@ -8370,7 +8370,7 @@
 <bot> account charge means security over a bank balance.
 <end>
 
-<user> what is an intellectual property charge
+<user> what does intellectual property charge mean
 <bot> intellectual property charge means security over patents, names, or similar rights.
 <end>
 
@@ -8418,7 +8418,7 @@
 <bot> negative clearance means a search that finds no blocking security.
 <end>
 
-<user> what is a capacity opinion
+<user> what does capacity opinion mean
 <bot> capacity opinion means a lawyer view that a company had power to sign.
 <end>
 
@@ -8446,15 +8446,15 @@
 <bot> counterpart means one of several copies of a contract, each signed.
 <end>
 
-<user> what is a delivery of deed
+<user> what does delivery of deed mean
 <bot> delivery of deed means the act that makes a deed effective.
 <end>
 
-<user> what is an escrow signing
+<user> what does escrow signing mean
 <bot> escrow signing means signing now but agreeing the contract starts only later.
 <end>
 
-<user> what is a closing binder
+<user> what does closing binder mean
 <bot> closing binder means the set of signed papers from a deal.
 <end>
 
@@ -8506,7 +8506,7 @@
 <bot> process agent means another name for the person who receives court papers.
 <end>
 
-<user> what is a notice clause
+<user> what does notice clause mean
 <bot> notice clause means the contract line that says how formal notices must be sent.
 <end>
 
@@ -8602,7 +8602,7 @@
 <bot> unlimited liability means no cap on what must be paid for a stated kind of loss.
 <end>
 
-<user> what is an insurance requirement
+<user> what does insurance requirement mean
 <bot> insurance requirement means a contract duty to hold stated cover.
 <end>
 
@@ -8714,7 +8714,7 @@
 <bot> collective agreement means a deal with a union that covers a group of workers.
 <end>
 
-<user> what is a recognition agreement
+<user> what does recognition agreement mean
 <bot> recognition agreement means the paper that says a union may bargain for staff.
 <end>
 
@@ -8882,7 +8882,7 @@
 <bot> hourly rate means a price for one hour.
 <end>
 
-<user> what is an overtime rate
+<user> what does overtime rate mean
 <bot> overtime rate means a higher price for extra hours.
 <end>
 
@@ -8954,7 +8954,7 @@
 <bot> positive time means recording every hour worked.
 <end>
 
-<user> what is a payroll cutoff
+<user> what does payroll cutoff mean
 <bot> payroll cutoff means the last moment changes can enter the next pay.
 <end>
 
@@ -9022,7 +9022,7 @@
 <bot> dental cover means cover for dental care.
 <end>
 
-<user> what is an income protection
+<user> what does income protection mean
 <bot> income protection means cover that pays part of salary during a long illness.
 <end>
 
@@ -9074,7 +9074,7 @@
 <bot> season ticket loan means a loan for a travel pass, repaid from pay.
 <end>
 
-<user> what is a staff canteen
+<user> what does staff canteen mean
 <bot> staff canteen means a place at work where meals are sold or given.
 <end>
 
@@ -9102,7 +9102,7 @@
 <bot> home working allowance means a payment toward the costs of working at home.
 <end>
 
-<user> what is an equipment for home
+<user> what does equipment for home mean
 <bot> equipment for home means a screen or a chair the employer provides for home work.
 <end>
 
@@ -9110,7 +9110,7 @@
 <bot> right to disconnect means an expectation that messages after hours can wait.
 <end>
 
-<user> what is an overtime approval
+<user> what does overtime approval mean
 <bot> overtime approval means a manager yes before extra hours are worked.
 <end>
 
@@ -9170,7 +9170,7 @@
 <bot> first aider means a person trained to give immediate medical help.
 <end>
 
-<user> what is an assembly point
+<user> what does assembly point mean
 <bot> assembly point means the place people gather after leaving a building.
 <end>
 
@@ -9218,7 +9218,7 @@
 <bot> method approval means a yes to the written way a contractor will work.
 <end>
 
-<user> what is an insurance check for contractor
+<user> what does insurance check for contractor mean
 <bot> insurance check for contractor means confirming a contractor holds the required cover.
 <end>
 
@@ -9278,7 +9278,7 @@
 <bot> spill kit means materials kept ready to contain a leak.
 <end>
 
-<user> what is a safety data sheet
+<user> what does safety data sheet mean
 <bot> safety data sheet means the paper that says how to handle a chemical.
 <end>
 
@@ -9406,7 +9406,7 @@
 <bot> opening meeting means the start of a check, where the plan is confirmed.
 <end>
 
-<user> what is a closing meeting
+<user> what does closing meeting mean
 <bot> closing meeting means the end of a check, where findings are shared.
 <end>
 
@@ -9498,7 +9498,7 @@
 <bot> materiality threshold means the size of mistake that would matter to a reader.
 <end>
 
-<user> what is a performance materiality
+<user> what does performance materiality mean
 <bot> performance materiality means a lower size used so the overall risk stays acceptable.
 <end>
 
@@ -9546,7 +9546,7 @@
 <bot> creditor circularisation means writing to suppliers to confirm what is owed to them.
 <end>
 
-<user> what is a stock attendance
+<user> what does stock attendance mean
 <bot> stock attendance means the auditor being present at a count.
 <end>
 
@@ -9782,7 +9782,7 @@
 <bot> distributable profit means the profit the law allows to be paid out.
 <end>
 
-<user> what is a capital maintenance
+<user> what does capital maintenance mean
 <bot> capital maintenance means the rule that capital should not be paid out to owners.
 <end>
 
@@ -9806,7 +9806,7 @@
 <bot> assignment of contract means passing your rights under a contract to someone else.
 <end>
 
-<user> what is a delegation of duty
+<user> what does delegation of duty mean
 <bot> delegation of duty means asking someone else to perform your contract duty.
 <end>
 

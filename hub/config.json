@@ -2,8 +2,8 @@
   "model_type": "tiny-gpt",
   "vocab_size": 3468,
   "block_size": 512,
-  "n_layer": 8,
+  "n_layer": 10,
   "n_head": 8,
-  "n_embd": 288,
+  "n_embd": 384,
   "dropout": 0.0
 }

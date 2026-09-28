@@ -1,6 +1,6 @@
 # Mini
 
-A small English chatbot trained from scratch. It is a decoder-only transformer: 8 layers, 8 attention heads, embedding size 288, context of 512 tokens, and a vocabulary of 3468 words (10,138,176 parameters). It answers short questions from its training dialogues, including a business English word list, and can tell short stories. It is not a general-purpose assistant.
+A small English chatbot trained from scratch. It is a decoder-only transformer: 10 layers, 8 attention heads, embedding size 384, context of 512 tokens, and a vocabulary of 3468 words (20,605,440 parameters). It answers short questions from its training dialogues, including a business English word list, and can tell short stories. It is not a general-purpose assistant.
 
 The chat window is at http://127.0.0.1:8765. The top shows a model graph and, for each reply, a star of the words the model looked at. Click **vocabulary** to open the word list. The chat stays at the bottom.
 
